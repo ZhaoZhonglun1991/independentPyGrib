@@ -1,0 +1,726 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_Bhttp://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table4-233.shtmlPO^†<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Code Table 4.233</title>
+</head>
+<body style="color: black; background-color: white;" alink="#ff0000" link="#0000ff" vlink="#551a8b">
+<br>
+<center>
+<h3>GRIB2 - CODE TABLE 4.233</h3>
+<h3><span style="color: blue;">AEROSOL TYPE</span></h3>
+</center>
+<center><b><span style="font-size: 9pt;">Revised 07/28/2015<br>
+<span style="color: red;">Red text depicts changes made since 08/28/2013</span></span></b><br>
+</center>
+<br>
+<br>
+<center>
+<table style="width: 80%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <th style="text-align: center; background-color: lightgrey;">Code Figure</th>
+      <th style="text-align: center; background-color: lightgrey;">Meaning</th>
+      <th style="text-align: center; background-color: lightgrey;">Chemical Formula</th>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0<br></td>
+      <td>Ozone</td>
+      <td style="text-align: center;">O<sub>3</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">1<br></td>
+      <td>Water Vapour</td>
+      <td style="text-align: center;">H<sub>2</sub>O</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">2<br></td>
+      <td>Methane</td>
+      <td style="text-align: center;">CH<sub>4</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">3<br></td>
+      <td>Carbon Dioxide</td>
+      <td style="text-align: center;">CO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">4<br></td>
+      <td>Carbon Monoxide</td>
+      <td style="text-align: center;">CO</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">5<br></td>
+      <td>Nitrogen Dioxide</td>
+      <td style="text-align: center;">NO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">6<br></td>
+      <td>Nitrous Oxide</td>
+      <td style="text-align: center;">N<sub>2</sub>O</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">7<br></td>
+      <td>Formaldehyde</td>
+      <td style="text-align: center;">HCHO</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">8<br></td>
+      <td>Sulphur Dioxide</td>
+      <td style="text-align: center;">SO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">9<br></td>
+      <td>Ammonia</td>
+      <td style="text-align: center;">NH<sub>3</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10<br></td>
+      <td>Ammonium</td>
+      <td style="text-align: center;">NH<sub>4</sub><sup>+</sup></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">11<br></td>
+      <td>Nitrogen Monoxide</td>
+      <td style="text-align: center;">NO</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">12<br></td>
+      <td>Atomic Oxygen</td>
+      <td style="text-align: center;">O</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">13<br></td>
+      <td>Nitrate Radical</td>
+      <td style="text-align: center;">NO<sub>3</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">14<br></td>
+      <td>Hydroperoxyl Radical</td>
+      <td style="text-align: center;">HO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">15<br></td>
+      <td>Dinitrogen Pentoxide</td>
+      <td style="text-align: center;">H<sub>2</sub>O<sub>5</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">16<br></td>
+      <td>Nitrous Acid</td>
+      <td style="text-align: center;">HONO</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">17<br></td>
+      <td>Nitric Acid</td>
+      <td style="text-align: center;">HNO<sub>3</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">18<br></td>
+      <td>Peroxynitric Acid</td>
+      <td style="text-align: center;">HO<sub>2</sub>NO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">19<br></td>
+      <td>Hydrogen Peroxide</td>
+      <td style="text-align: center;">H<sub>2</sub>O<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20<br></td>
+      <td>Molecular Hydrogen</td>
+      <td style="text-align: center;">H</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">21<br></td>
+      <td>Atomic Nitrogen</td>
+      <td style="text-align: center;">N</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">22<br></td>
+      <td>Sulphate<br></td>
+      <td style="text-align: center;">SO<sub>4</sub><sup>2-</sup></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">23<br></td>
+      <td>Radon</td>
+      <td style="text-align: center;">Rn</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">24<br></td>
+      <td>Elemental Mercury</td>
+      <td style="text-align: center;">Hg(O)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">25<br></td>
+      <td>Divalent Mercury</td>
+      <td style="text-align: center;">Hg<sup>2+</sup></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">26<br></td>
+      <td>Atomic Chlorine</td>
+      <td style="text-align: center;">Cl</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">27<br></td>
+      <td>Chlorine Monoxide</td>
+      <td style="text-align: center;">ClO</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">28<br></td>
+      <td>Dichlorine Peroxide</td>
+      <td style="text-align: center;">Cl<sub>2</sub>O<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">29<br></td>
+      <td>Hypochlorous Acid</td>
+      <td style="text-align: center;">HClO</td>
+    </tr> 
+    <tr>
+      <td style="text-align: center;">30<br></td>
+      <td>Chlorine Nitrate</td>
+      <td style="text-align: center;">ClONO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">31<br></td>
+      <td>Chlorine Dioxide</td>
+      <td style="text-align: center;">ClO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">32<br></td>
+      <td>Atomic Bromide</td>
+      <td style="text-align: center;">Br</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">33<br></td>
+      <td>Bromine Monoxide</td>
+      <td style="text-align: center;">BrO</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">34<br></td>
+      <td>Bromine Chloride</td>
+      <td style="text-align: center;">BrCl</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">35<br></td>
+      <td>Hydrogen Bromide</td>
+      <td style="text-align: center;">HBr</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">36<br></td>
+      <td>Hypobromous Acid</td>
+      <td style="text-align: center;">HBrO</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">37<br></td>
+      <td>Bromine Nitrate</td>
+      <td style="text-align: center;">BrONO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">38<br></td>
+      <td>Oxygen</td>
+      <td style="text-align: center;">O<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">39-9999<br></td>
+      <td style="vertical-align: top;">Reserved<br></td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10000<br></td>
+      <td>Hydroxyl Radical</td>
+      <td style="text-align: center;">OH</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10001<br></td>
+      <td>Methyl Peroxy Radical</td>
+      <td style="text-align: center;">CH<sub>3</sub>O<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10002<br></td>
+      <td>Methyl Hydroperoxide</td>
+      <td style="text-align: center;">CH<sub>3</sub>O<sub>2</sub>H</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">10003<br></td>
+      <td style="vertical-align: top;">Reserved<br></td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10004<br></td>
+      <td>Methanol</td>
+      <td style="text-align: center;">CH<sub>3</sub>OH</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10005<br></td>
+      <td>Formic Acid</td>
+      <td style="text-align: center;">CH<sub>3</sub>OOH</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10006<br></td>
+      <td>Hydrogen Cyanide</td>
+      <td style="text-align: center;">HCN</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10007<br></td>
+      <td>Aceto Nitrile</td>
+      <td style="text-align: center;">CH<sub>3</sub>CN</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10008<br></td>
+      <td>Ethane</td>
+      <td style="text-align: center;">C<sub>2</sub>H<sub>6</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10009<br></td>
+      <td>Ethene (= Ethylene) </td>
+      <td style="text-align: center;">C<sub>2</sub>H<sub>4</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10010<br></td>
+      <td>Ethyne (= Acetylene) </td>
+      <td style="text-align: center;">C<sub>2</sub>H<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10011<br></td>
+      <td>Ethanol</td>
+      <td style="text-align: center;">C<sub>2</sub>H<sub>5</sub>OH</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10012<br></td>
+      <td>Acetic Acid</td>
+      <td style="text-align: center;">C<sub>2</sub>H<sub>5</sub>OOH</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10013<br></td>
+      <td>Peroxyacetyl Nitrate</td>
+      <td style="text-align: center;">CH<sub>3</sub>C(O)OONO<sub>2</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10014<br></td>
+      <td>Propane</td>
+      <td style="text-align: center;">C<sub>3</sub>H<sub>8</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10015<br></td>
+      <td>Propene</td>
+      <td style="text-align: center;">C<sub>3</sub>H<sub>6</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10016<br></td>
+      <td>Butanes</td>
+      <td style="text-align: center;">C<sub>4</sub>H<sub>10</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10017<br></td>
+      <td>Isoprene</td>
+      <td style="text-align: center;">C<sub>5</sub>H<sub>10</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10018<br></td>
+      <td>Alpha Pinene</td>
+      <td style="text-align: center;">C<sub>10</sub>H<sub>16</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10019<br></td>
+      <td>Beta Pinene</td>
+      <td style="text-align: center;">C<sub>10</sub>H<sub>16</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10020<br></td>
+      <td>Limonene</td>
+      <td style="text-align: center;">C<sub>10</sub>H<sub>16</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10021<br></td>
+      <td>Benzene</td>
+      <td style="text-align: center;">C<sub>6</sub>H<sub>6</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10022<br></td>
+      <td>Toluene</td>
+      <td style="text-align: center;">C<sub>7</sub>H<sub>8</sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10023<br></td>
+      <td>Xylene</td>
+      <td style="text-align: center;">C<sub>8</sub>H<sub>10</sub></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">10024-10499<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10500<br></td>
+      <td>Dimethyl Sulphide</td>
+      <td style="text-align: center;">CH<sub>3</sub>SCH<sub>3</sub></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">10501-20000<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20001<br></td>
+      <td>Hydrogen Chloride</td>
+      <td style="text-align: center;">HCL</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20002<br></td>
+      <td>CFC-11</td>
+      <td style="text-align: center;"><br> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20003<br></td>
+      <td>CFC-12</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20004<br></td>
+      <td>CFC-113</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20005<br></td>
+      <td>CFC-113a</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20006<br></td>
+      <td>CFC-114</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20007<br></td>
+      <td>CFC-115</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20008<br></td>
+      <td>HCFC-22</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20009<br></td>
+      <td>HCFC-141b</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20010<br></td>
+      <td>HCFC-142b</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20011<br></td>
+      <td>Halon-1202</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20012<br></td>
+      <td>Halon-1211</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20013<br></td>
+      <td>Halon-1301</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20014<br></td>
+      <td>Halon-2402</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20015<br></td>
+      <td>Methyl Chloride (HCC-40)</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20016<br></td>
+      <td>Carbon Tetrachloride (HCC-10)</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20017<br></td>
+      <td>HCC-140a</td>
+      <td style="text-align: center;">CH<sub>3</sub>CCl<sub>3</sub><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20018<br></td>
+      <td>Methyl Bromide (HBC-40B1)</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20019<br></td>
+      <td>Hexachlorocyclohexane (HCH)</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20020<br></td>
+      <td>Alpha Hexachlorocyclohexane</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">20021<br></td>
+      <td>Hexachlorobiphenyl (PCB-153)</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">20022-29999<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">30000<br></td>
+      <td>Radioactive Pollutant (Tracer, defined by originating centre)</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top; text-align: center;">30001-50000<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60000<br></td>
+      <td>HOx Radical (OH+HO<sub>2</sub>)</td>
+      <td style="text-align: center;"> <br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60001<br></td>
+      <td>Total Inorganic and Organic Peroxy Radicals (HO<sub>2</sub>+RO<sub>2</sub>)</td>
+      <td style="text-align: center;">RO<sub>2</sub><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60002<br></td>
+      <td>Passive Ozone</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60003<br></td>
+      <td>NO<sub>x</sub> Expressed As Nitrogen</td>
+      <td style="text-align: center;">NO<sub>x</sub><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60004<br></td>
+      <td>All Nitrogen Oxides (NO<sub>y</sub>) Expressed As Nitrogen</td>
+      <td style="text-align: center;">NO<sub>y</sub><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60005<br></td>
+      <td>Total Inorganic Chlorine</td>
+      <td style="text-align: center;">Cl<sub>x</sub><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60006<br></td>
+      <td>Total Inorganic Bromine</td>
+      <td style="text-align: center;">Br<sub>x</sub><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60007<br></td>
+      <td>Total Inorganic Chlorine Except HCl, ClONO<sub>2</sub>: ClO<sub>x</sub></td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60008<br></td>
+      <td>Total Inorganic Bromine Except Hbr, BrONO<sub>2</sub>:BrO<sub>x</sub></td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60009<br></td>
+      <td>Lumped Alkanes</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60010<br></td>
+      <td>Lumped Alkenes</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60011<br></td>
+      <td>Lumped Aromatic Coumpounds</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60012<br></td>
+      <td>Lumped Terpenes</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60013<br></td>
+      <td>Non-Methane Volatile Organic Compounds Expressed as Carbon</td>
+      <td style="text-align: center;">NMVOC<br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60014<br></td>
+      <td>Anthropogenic Non-Methane Volatile Organic Compounds Expressed as Carbon</td>
+      <td style="text-align: center;">aNMVOC<br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60015<br></td>
+      <td>Biogenic Non-Methane Volatile Organic Compounds Expressed as Carbon</td>
+      <td style="text-align: center;">bNMVOC<br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">60016<br></td>
+      <td>Lumped Oxygenated Hydrocarbons</td>
+      <td style="text-align: center;">OVOC<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">60017-61999<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62000<br></td>
+      <td>Total Aerosol</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62001<br></td>
+      <td>Dust Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62002<br></td>
+      <td>water In Ambient</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62003<br></td>
+      <td>Ammonium Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62004<br></td>
+      <td>Nitrate Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62005<br></td>
+      <td>Nitric Acid Trihydrate</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62006<br></td>
+      <td>Sulphate Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62007<br></td>
+      <td>Mercury Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62008<br></td>
+      <td>Sea Salt Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62009<br></td>
+      <td>Black Carbon Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62010<br></td>
+      <td>Particulate Organic Matter Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62011<br></td>
+      <td>Primary Particulate Organic Matter Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62012<br></td>
+      <td>Secondary Particulate Organic Matter Dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62013<br></td>
+      <td>Black carbon hydrophilic dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62014<br></td>
+      <td>Black carbon hydrophobic dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62015<br></td>
+      <td>Particulate organic matter hydrophilic dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62016<br></td>
+      <td>Particulate organic matter hydrophobic dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62017<br></td>
+      <td>Nitrate hydrophilic dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">62018<br></td>
+      <td>Nitrate hydrophobic dry</td>
+      <td style="text-align: center;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62019</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62020</td>
+      <td style="vertical-align: top;">Smoke - high absorption</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62021</td>
+      <td style="vertical-align: top;">Smoke - low absorption</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62022</td>
+      <td style="vertical-align: top;">Aerosol - high absorption</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62023</td>
+      <td style="vertical-align: top;">Aerosol - low absorption</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62024</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62025</td>
+      <td style="vertical-align: top;">Volcanic ash</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62017-65534<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">65535<br></td>
+      <td style="vertical-align: top;">Missing<br></td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/WMO306_vI2_CommonTable_v17.0.0.pdf"><span style="color:red;&quot;">
+<b>(See more <span style="color: blue;">AEROSOL TYPE</span> in Common Code Table C-14)</b></span></a><br>
+   (Released date: Ver. 17.0.0 - 4 May, 2016)</center>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a></center>
+<br>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § È Í                           _é

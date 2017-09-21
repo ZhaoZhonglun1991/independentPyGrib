@@ -1,0 +1,189 @@
+bplist00Ñ_WebMainResourceÕ	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_;https://rda.ucar.edu/docs/formats/grib/gribdoc/lev_lay.htmlPO"<html><head>
+<title>GRIB Edition 1: WMO Code Table 3</title>
+<link rel="stylesheet" type="text/css" href="http://dss.ucar.edu/css/stylegribdoc.css">
+</head>
+<body>
+<a name="Top"></a>
+<br><br>
+<ul>
+<ul>
+<big>WMO Code table 3 - Fixed levels or layers for which the data are included</big><br><br>
+<table cellspacing="10">
+<tbody><tr valign="top">
+<td></td><td align="left">Octet 10</td><td align="center">Octet 11</td>
+<td align="center">Octet 12</td>
+</tr>
+<tr valign="bottom">
+<td align="center"><em>Code<br> figure</em></td><td align="left"><em><br>Meaning</em></td><td align="center" colspan="2"><em><br>Contents</em></td>
+</tr>
+<tr valign="top">
+<td align="center">00</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">01</td><td align="left">Ground or water surface</td>
+<td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">02</td><td align="left">Cloud base level</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">03</td><td align="left">Level of cloud tops</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">04</td><td align="left">Level of 0Â°C isotherm</td>
+<td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">05</td><td align="left">Level of adiabatic condensation lifted from the surface</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">06</td><td align="left">Maximum wind level</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">07</td><td align="left">Tropopause</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">08</td><td align="left">Nominal top of atmosphere</td>
+<td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">09</td><td align="left">Sea bottom</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">10-19</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">20</td><td align="left">Isothermal level</td><td align="center" colspan="2">Temperature in 1/100 K</td>
+</tr>
+<tr valign="top">
+<td align="center">21-99</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">100</td><td align="left">Isobaric surface</td><td align="center" colspan="2">Pressure in hPa (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">101</td><td align="left">Layer between two isobaric surfaces</td>
+<td align="left">Pressure of top in kPa</td><td align="left">Pressure of bottom in kPa</td>
+</tr>
+<tr valign="top">
+<td align="center">102</td><td align="left">Mean sea level</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">103</td><td align="left">Specified altitude above mean sea level </td><td align="center" colspan="2">Altitude in meters (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">104</td><td align="left">Layer between two specified altitudes above mean sea level</td><td align="left">Altitude of top in hm</td>
+<td align="left">Altitude of bottom in hm</td>
+</tr>
+<tr valign="top">
+<td align="center">105</td><td align="left">Specified height above ground</td>
+<td align="center" colspan="2">Height in meters (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">106</td><td align="left">Layer between two specified height levels above ground</td><td align="left">Height of top in hm</td><td align="left">Height of bottom in hm</td>
+</tr>
+<tr valign="top">
+<td align="center">107</td><td align="left">Sigma level</td><td align="center" colspan="2">Sigma value in 1/10000 (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">108</td><td align="left">Layer between two sigma levels</td>
+<td align="left">Sigma value of top in 1/100</td><td align="left">Sigma value of bottom in 1/100</td>
+</tr>
+<tr valign="top">
+<td align="center">109</td><td align="left">Hybrid level</td><td align="center" colspan="2">Level number (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">110</td><td align="left">Layer between two hybrid levels</td>
+<td align="left">Level number of top</td><td align="left">Level number of bottom</td>
+</tr>
+<tr valign="top">
+<td align="center">111</td><td align="left">Depth below land surface</td>
+<td align="center" colspan="2">Depth in centimeters (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">112</td><td align="left">Layer between two depths below land surface</td><td align="left">Depth of upper surface in cm</td><td align="left">Depth of lower surface in cm</td>
+</tr>
+<tr valign="top">
+<td align="center">113</td><td align="left">Isentropic (theta) level</td>
+<td align="center" colspan="2">Potential temperature in K (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">114</td><td align="left">Layer between two isentropic levels</td>
+<td align="left">475 K minus theta of top in K</td><td align="left">475 K minus theta of bottom in K</td>
+</tr>
+<tr valign="top">
+<td align="center">115</td><td align="left">Level at specified pressure difference from ground to level</td><td align="center" colspan="2">Pressure difference in hPa (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">116</td><td align="left">Layer between two levels at specified pressure differences from ground to level</td><td align="left">Pressure difference from ground to top level in hPa</td><td align="left">Pressure difference from ground to bottom level in hPa</td>
+</tr>
+<tr valign="top">
+<td align="center">117</td><td align="left">Potential vorticity surface</td>
+<td align="center" colspan="2">
+10<sup>-9</sup> K m<sup>2</sup> kg<sup>-1</sup> s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">118</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">119</td><td align="left">ETA<sup>*</sup> level</td>
+<td align="center" colspan="2">ETA value in 1/10000 (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">120</td><td align="left">Layer between two ETA<sup>*</sup>levels</td><td align="left">ETA value at top of layer in 1/100</td><td align="left">ETA value at bottom of layer in 1/100</td>
+</tr>
+<tr valign="top">
+<td align="center">121</td><td align="left">Layer between two isobaric surfaces (high precision)</td><td align="left">1100 hPa minus pressure of top in hPa</td>
+<td align="left">1100 hPa minus pressure of bottom in hPa</td>
+</tr>
+<tr valign="top">
+<td align="center">122-124</td><td align="left"></td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">125</td><td align="left">Specified height level above ground (high precision)</td><td align="center" colspan="2">Height in centimeters (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">126-127</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">128</td><td align="left">Layer between two sigma levels (high precision)</td><td align="left">1.1 minus sigma of top in 1/1000 of sigma</td>
+<td align="left">1.1 minus sigma of bottom in 1/1000 of sigma</td>
+</tr>
+<tr valign="top">
+<td align="center">129-140</td><td align="left"></td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">141</td><td align="left">Layer between two isobaric surfaces (mixed precision)</td><td align="left">Pressure of top in kPa</td><td align="left">1100 hPa minus pressure of bottom in hPa</td>
+</tr>
+<tr valign="top">
+<td align="center">142-159</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">160</td><td align="left">Depth below sea level</td>
+<td align="center" colspan="2">Depth in meters (2 octets)</td>
+</tr>
+<tr valign="top">
+<td align="center">161-199</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="center">200</td><td align="left">Entire atmosphere (considered as a single layer)</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">201</td><td align="left">Entire ocean (considered as a single layer)</td><td align="center" colspan="2">0</td>
+</tr>
+<tr valign="top">
+<td align="center">202-254</td><td align="left">Reserved</td><td colspan="2"></td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="4">
+<hr align="left" width="10%">
+<sup>*</sup> The ETA vertical coordinate system involves normalizing the pressure at some point on a specific level by the mean sea level pressure at that point.<br><br></td>
+</tr>
+</tbody></table>
+<br><br><br><a href="#Top">Back to Top</a><br><br>
+</ul>
+</ul>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k ‚ ” ž ¤ â ã                           #

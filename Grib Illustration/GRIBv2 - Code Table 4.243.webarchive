@@ -1,0 +1,206 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_Bhttp://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table4-243.shtmlPO"G<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Code Table 4.243</title>
+</head>
+<body style="color: black; background-color: white;" link="#0000ff" vlink="#551a8b" alink="#ff0000">
+<br>
+<center>
+<h3>GRIB2 - CODE TABLE 4.243</h3>
+<h3><span style="color: blue;">Tile Class</span></h3>
+</center>
+<center><b><span style="font-size: 9pt;">Created 04/09/2015</span></b><br><br>
+</center>
+<br>
+<br>
+<center>
+<table border="1" cellspacing="0" cellpadding="5" style="width: 80%;">
+  <tbody>
+    <tr>
+      <th style="background-color: lightgrey;">Code Figure<br></th>
+      <th style="background-color: lightgrey;">Meaning</th>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">0</td>
+      <td style="vertical-align: top; ">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">1</td>
+      <td style="vertical-align: top; color: red;">Evergreen broadleaved forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">2</td>
+      <td style="vertical-align: top; color: red;">Deciduous broadleaved closed forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">3</td>
+      <td style="vertical-align: top; color: red;">Deciduous broadleaved open forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">4</td>
+      <td style="vertical-align: top; color: red;">Evergreen needle-leaf forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">5</td>
+      <td style="vertical-align: top; color: red;">Deciduous needle-leaf forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">6</td>
+      <td style="vertical-align: top; color: red;">Mixed leaf trees</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">7</td>
+      <td style="vertical-align: top; color: red;">Fresh water flooded trees</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">8</td>
+      <td style="vertical-align: top; color: red;">Saline water flooded trees</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">9</td>
+      <td style="vertical-align: top; color: red;">Mosaic tree/natural vegetation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">10</td>
+      <td style="vertical-align: top; color: red;">Burnt tree cover</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">11</td>
+      <td style="vertical-align: top; color: red;">Evergreen shurbs closed-open</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">12</td>
+      <td style="vertical-align: top; color: red;">Deciduous shurbs closed-open</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">13</td>
+      <td style="vertical-align: top; color: red;">Herbaceous vegetation closed-open</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">14</td>
+      <td style="vertical-align: top; color: red;">Sparse herbaceous or grass</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">15</td>
+      <td style="vertical-align: top; color: red;">Flooded shurbs or herbaceous</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">16</td>
+      <td style="vertical-align: top; color: red;">Cultivated and managed areas</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">17</td>
+      <td style="vertical-align: top; color: red;">Mosaic crop/tree/natural vegetation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">18</td>
+      <td style="vertical-align: top; color: red;">Mosaic crop/shrub/grass</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">19</td>
+      <td style="vertical-align: top; color: red;">Bare areas</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">20</td>
+      <td style="vertical-align: top; color: red;">Water</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">21</td>
+      <td style="vertical-align: top; color: red;">Snow and ice</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">22</td>
+      <td style="vertical-align: top; color: red;">Artificial surface</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">23</td>
+      <td style="vertical-align: top; color: red;">Ocean</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">24</td>
+      <td style="vertical-align: top; color: red;">Irrigated croplands</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">25</td>
+      <td style="vertical-align: top; color: red;">Rain fed croplands</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">26</td>
+      <td style="vertical-align: top; color: red;">Mosaic cropland (50-70%)-vegetation (20-50%)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">27</td>
+      <td style="vertical-align: top; color: red;">Mosaic vegetation (50-70%)-cropland (20-50%)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">28</td>
+      <td style="vertical-align: top; color: red;">Closed broadleaved evergreen forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">29</td>
+      <td style="vertical-align: top; color: red;">Closed needle-leaved evergreen forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">30</td>
+      <td style="vertical-align: top; color: red;">Open needle-leaved deciduous forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">31</td>
+      <td style="vertical-align: top; color: red;">Mixed broadleaved and needle-leave forest</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">32</td>
+      <td style="vertical-align: top; color: red;">Mosaic shrubland (50-70%)-grassland (20-50%)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">33</td>
+      <td style="vertical-align: top; color: red;">Mosaic grassland (50-70%)-shrubland (20-50%)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">34</td>
+      <td style="vertical-align: top; color: red;">Closed to open shrubland</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">35</td>
+      <td style="vertical-align: top; color: red;">Sparse vegetation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">36</td>
+      <td style="vertical-align: top; color: red;">Closed to open forest regularly flooded</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">37</td>
+      <td style="vertical-align: top; color: red;">Closed forest or shrubland permanently flooded</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">38</td>
+      <td style="vertical-align: top; color: red;">Closed to open grassland regularly flooded</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">39</td>
+      <td style="vertical-align: top; color: red;">Undefined</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">40-191</td>
+      <td style="vertical-align: top; ">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">255</td>
+      <td style="vertical-align: top; ">Missing<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a></center>
+<br>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § È Í                           #5

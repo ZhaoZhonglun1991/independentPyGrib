@@ -1,0 +1,781 @@
+bplist00Ñ_WebMainResourceÕ	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_@http://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table4-5.shtmlPOi²<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Code Table 4.5</title>
+</head>
+<body style="color: black; background-color: white;" alink="#ff0000" link="#0000ff" vlink="#551a8b">
+<br>
+<center>
+<h3>GRIB2 - CODE TABLE 4.5</h3>
+<h3><span style="color: blue;"> FIXED SURFACE TYPES AND UNITS</span></h3>
+<h4> In Section 4, Octets 23 and 29</h4>
+</center>
+<center><b><span style="font-size: 9pt;">Revised 07/26/2016<br>
+<span style="color: red;">Red text depicts changes made since 08/20/2015</span></span></b><br>
+</center>
+<br>
+<br>
+<center>
+<table style="width: 80%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <th style="text-align: center; background-color: lightgrey;">Code Figure</th>
+      <th style="text-align: center; background-color: lightgrey;">Meaning</th>
+      <td style="vertical-align: top; background-color: lightgrey;"><br></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0<br>
+      </td>
+      <td>Reserved<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1<br>
+      </td>
+      <td style="vertical-align: top;">Ground or Water Surface<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">2<br>
+      </td>
+      <td style="vertical-align: top;">Cloud Base Level<br>
+      </td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">3<br>
+      </td>
+      <td style="vertical-align: top;">Level of Cloud Tops<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">4<br>
+      </td>
+      <td style="vertical-align: top;">Level of 0<sup>o</sup> C Isotherm<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">5<br>
+      </td>
+      <td style="vertical-align: top;">Level of Adiabatic Condensation
+Lifted from the Surface<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">6<br>
+      </td>
+      <td style="vertical-align: top;">Maximum Wind Level<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">7<br>
+      </td>
+      <td style="vertical-align: top;">Tropopause<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">8<br>
+      </td>
+      <td style="vertical-align: top;">Nominal Top of the Atmosphere<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">9<br>
+      </td>
+      <td style="vertical-align: top;">Sea Bottom<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">10</td>
+      <td style="vertical-align: top;">Entire Atmosphere</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">11</td>
+      <td style="vertical-align: top;">Cumulonimbus Base (CB)</td>
+      <td style="vertical-align: top;">m<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">12</td>
+      <td style="vertical-align: top;">Cumulonimbus Top (CT)</td>
+      <td style="vertical-align: top;">m<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">13</td>
+      <td style="vertical-align: top;color: red;">Lowest level where vertically integrated cloud cover exceeds the 
+       specified percentage (cloud base for a given percentage cloud cover)</td>
+      <td style="vertical-align: top;color: red;">%</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">14</td>
+      <td style="vertical-align: top;color: red;">Level of free convection (LFC)</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">15</td>
+      <td style="vertical-align: top;color: red;">Convection condensation level (CCL)</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">16</td>
+      <td style="vertical-align: top;color: red;">Level of neutral buoyancy or equilibrium (LNB)</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">17</span>-19<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">20<br>
+      </td>
+      <td style="vertical-align: top;">Isothermal Level<br>
+      </td>
+      <td style="vertical-align: top;">K<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">21-99<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">100<br>
+      </td>
+      <td style="vertical-align: top;">Isobaric Surface<br>
+      </td>
+      <td style="vertical-align: top;">Pa<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">101<br>
+      </td>
+      <td style="vertical-align: top;">Mean Sea Level<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">102<br>
+      </td>
+      <td style="vertical-align: top;">Specific Altitude Above Mean Sea
+Level<br>
+      </td>
+      <td style="vertical-align: top;">m<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">103<br>
+      </td>
+      <td style="vertical-align: top;">Specified Height Level Above
+Ground<br>
+      </td>
+      <td style="vertical-align: top;">m<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">104<br>
+      </td>
+      <td style="vertical-align: top;">Sigma Level<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">105<br>
+      </td>
+      <td style="vertical-align: top;">Hybrid Level<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">106<br>
+      </td>
+      <td style="vertical-align: top;">Depth Below Land Surface<br>
+      </td>
+      <td style="vertical-align: top;">m<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">107<br>
+      </td>
+      <td style="vertical-align: top;">Isentropic (theta) Level<br>
+      </td>
+      <td style="vertical-align: top;">K<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">108<br>
+      </td>
+      <td style="vertical-align: top;">Level at Specified Pressure
+Difference from Ground to Level<br>
+      </td>
+      <td style="vertical-align: top;">Pa<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">109<br>
+      </td>
+      <td style="vertical-align: top;">Potential Vorticity Surface<br>
+      </td>
+      <td style="vertical-align: top;">K m<sup>2</sup> kg<sup>-1</sup> s<sup>-1</sup><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">110<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">111<br>
+      </td>
+      <td style="vertical-align: top;">Eta Level</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">112</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">113</td>
+      <td style="vertical-align: top;">Logarithmic Hybrid Level</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">114</td>
+      <td style="vertical-align: top;">Snow Level</td>
+      <td style="vertical-align: top;">Numeric</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">115-116</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">117<br>
+      </td>
+      <td style="vertical-align: top;">Mixed Layer Depth<br>
+      </td>
+      <td style="vertical-align: top;">m<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">118</td>
+      <td style="vertical-align: top; ">Hybrid Height Level</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">119</td>
+      <td style="vertical-align: top; ">Hybrid Pressure Level</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">120-149</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">150</td>
+      <td style="vertical-align: top;">Generalized Vertical Height Coordinate (see Note 4)</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">151</td>
+      <td style="vertical-align: top;color: red;">Soil level (See Note 5)</td>
+      <td style="vertical-align: top;color: red;">Numeric</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">152</span>-159</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">160<br></td>
+      <td style="vertical-align: top;">Depth Below Sea Level<br></td>
+      <td style="vertical-align: top;">m<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">161</td>
+      <td style="vertical-align: top; ">Depth Below Water Surface</td>
+      <td style="vertical-align: top; ">m</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">162</td>
+      <td style="vertical-align: top; ">Lake or River Bottom</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">163</td>
+      <td style="vertical-align: top; ">Bottom Of Sediment Layer</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">164</td>
+      <td style="vertical-align: top; ">Bottom Of Thermally Active Sediment Layer</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">165</td>
+      <td style="vertical-align: top; ">Bottom Of Sediment Layer Penetrated By Thermal Wave</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">166</td>
+      <td style="vertical-align: top; ">Maxing Layer</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: black;text-align: center;">167</td>
+      <td style="vertical-align: top;color: black;">Bottom of Root Zone</td>
+      <td style="vertical-align: top;color: black;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">168-173<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">174</td>
+      <td style="vertical-align: top;color: red;">Top Surface of Ice on Sea, Lake or River</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">175</td>
+      <td style="vertical-align: top;color: red;">Top Surface of Ice, under Snow, on Sea, Lake or River</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">176</td>
+      <td style="vertical-align: top;color: red;">Bottom Surface (underside) Ice on Sea, Lake or River</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">177</td>
+      <td style="vertical-align: top;color: red;">Deep Soil (of indefinite depth)</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">178</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr> 
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">179</td>
+      <td style="vertical-align: top;color: red;">Top Surface of Glacier Ice and Inland Ice</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">180</td>
+      <td style="vertical-align: top;color: red;">Deep Inland or Glacier Ice (of indefinite depth)</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">181</td>
+      <td style="vertical-align: top;color: red;">Grid Tile Land Fraction as a Model Surface</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">182</td>
+      <td style="vertical-align: top;color: red;">Grid Tile Water Fraction as a Model Surface</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">183</td>
+      <td style="vertical-align: top;color: red;">Grid Tile Ice Fraction on Sea, Lake or River as a Model Surface</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: red;text-align: center;">184</td>
+      <td style="vertical-align: top;color: red;">Grid Tile Glacier Ice and Inland Ice Fraction as a Model Surface</td>
+      <td style="vertical-align: top;color: red;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">185</span>-191</td>
+      <td style="vertical-align: top;">Reserved</td>
+      <td style="vertical-align: top;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;"><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">200<br>
+      </td>
+      <td style="vertical-align: top; ">Entire
+atmosphere (considered as a single layer)</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">201<br>
+      </td>
+      <td style="vertical-align: top;">Entire
+ocean (considered as a single layer)</td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">204<br>
+      </td>
+      <td style="vertical-align: top; ">Highest
+tropospheric freezing level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">206<br>
+      </td>
+      <td style="vertical-align: top; ">Grid
+scale cloud bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">207<br>
+      </td>
+      <td style="vertical-align: top; ">Grid
+scale cloud top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">209<br>
+      </td>
+      <td style="vertical-align: top; ">Boundary
+layer cloud bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">210<br>
+      </td>
+      <td style="vertical-align: top; ">Boundary
+layer cloud top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">211<br>
+      </td>
+      <td style="vertical-align: top; ">Boundary
+layer cloud layer</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">212<br>
+      </td>
+      <td style="vertical-align: top; ">Low cloud
+bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">213<br>
+      </td>
+      <td style="vertical-align: top; ">Low cloud
+top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">214<br>
+      </td>
+      <td style="vertical-align: top; ">Low cloud
+layer</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">215<br></td>
+      <td style="vertical-align: top; ">Cloud ceiling</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">220</td>
+      <td style="vertical-align: top; ">Planetary Boundary Layer</td>
+      <td style="vertical-align: top; "> <br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">221</td>
+      <td style="vertical-align: top; ">Layer Between Two Hybrid Levels</td>
+      <td style="vertical-align: top; "><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">222<br>
+      </td>
+      <td style="vertical-align: top; ">Middle
+cloud bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">223<br>
+      </td>
+      <td style="vertical-align: top; ">Middle
+cloud top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">224<br>
+      </td>
+      <td style="vertical-align: top; ">Middle
+cloud layer</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">232<br>
+      </td>
+      <td style="vertical-align: top; ">High
+cloud bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">233<br>
+      </td>
+      <td style="vertical-align: top; ">High
+cloud top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">234<br>
+      </td>
+      <td style="vertical-align: top; ">High
+cloud layer</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">235<br>
+      </td>
+      <td style="vertical-align: top; ">Ocean
+Isotherm Level (1/10 Â° C)</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">236<br>
+      </td>
+      <td style="vertical-align: top; ">Layer
+between two depths below ocean surface <br>
+      </td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">237<br>
+      </td>
+      <td style="vertical-align: top; ">Bottom of
+Ocean Mixed Layer (m)</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">238<br>
+      </td>
+      <td style="vertical-align: top; ">Bottom of
+Ocean Isothermal Layer (m)</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">239<br>
+      </td>
+      <td style="vertical-align: top; ">Layer Ocean Surface
+       and 26C Ocean Isothermal Level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">240<br>
+      </td>
+      <td style="vertical-align: top; ">Ocean Mixed Layer</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">241<br>
+      </td>
+      <td style="vertical-align: top; ">Ordered Sequence of Data</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">242<br>
+      </td>
+      <td style="vertical-align: top; ">Convective
+cloud bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">243<br>
+      </td>
+      <td style="vertical-align: top; ">Convective
+cloud top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">244<br>
+      </td>
+      <td style="vertical-align: top; ">Convective
+cloud layer</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">245<br>
+      </td>
+      <td style="vertical-align: top; color: ">Lowest
+level of the wet bulb zero</td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">246<br>
+      </td>
+      <td style="vertical-align: top; ">Maximum
+equivalent potential temperature level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">247<br>
+      </td>
+      <td style="vertical-align: top; ">Equilibrium level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">248<br>
+      </td>
+      <td style="vertical-align: top; ">Shallow
+convective cloud bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">249<br>
+      </td>
+      <td style="vertical-align: top; ">Shallow
+convective cloud top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">251<br>
+      </td>
+      <td style="vertical-align: top; ">Deep
+convective cloud bottom level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">252<br>
+      </td>
+      <td style="vertical-align: top; ">Deep
+convective cloud top level</td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">253<br>
+      </td>
+      <td style="vertical-align: top; ">Lowest
+bottom level of supercooled liquid water layer </td>
+      <td style="vertical-align: top; "><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">254<br>
+      </td>
+      <td style="vertical-align: top; ">Highest
+top level of supercooled liquid water layer</td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<center>
+    </center><table style="text-align: left; width: 80%; margin-left: auto; margin-right: auto;" border="0" cellpadding="2" cellspacing="2">
+  <tbody>
+  <tr>
+      <td style="vertical-align: top;"><b>Notes:</b><br>
+      <p>
+(1).&nbsp; The Eta vertical coordinate system involves normalizing the
+pressure at some point on a specific level by the mean sea level
+pressure at that point.<br>
+<br>
+(2).&nbsp; Hybrid height level (Code figure 118) can be defined as:<br>
+         z(k)=A(k)+B(k)* orog<br>
+         (k=1,..., NLevels; orog=orography; z(k)=height in meters at level(k) <br>
+<br>
+(3).&nbsp; Hybrid pressure level, for which code figure 119 shall be used insteaf of 105,
+         can be defined as:<br>
+         p(k)=A(k) + B(k) * sp <br>
+         (k=1,...,NLevels, sp=surface pressure; p(k)=pressure at level (k)<br>
+<br>
+(4).&nbsp; The definition of a generalized vertical height coordinate implies the absence of
+         coordinate values in section 4 but the presence of an external 3D-GRIB message that specifies 
+         the height of every model grid point in meters (see Notes for section 4), i.e., this GRIB message 
+         will contain the field with discipline = 0, category = 3, parameterm = 6 (Geometric height).<br>
+<br>
+(5).&nbsp; The soil level represents a model level for which the depth is not constant across the model 
+domain.  The depth in metres of the level is provided by another GRIB message with the parameter
+"Soil Depth" with discipline 2, category 3 and parameter number 27.<br>
+</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a></center>
+<br>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k ‚ ” ž ¤ ç è                           jž

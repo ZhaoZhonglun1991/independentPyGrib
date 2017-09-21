@@ -1,0 +1,273 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_Ahttp://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table4-10.shtmlPO*∫<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Code Table 4.10</title>
+</head>
+<body style="color: black; background-color: white;" link="#0000ff" vlink="#551a8b" alink="#ff0000">
+<br>
+<center>
+<h3>GRIB2 - CODE TABLE 4.10</h3>
+<h3><span style="color: blue;">TYPE OF STATISTICAL PROCESSING </span></h3>
+<h4> In Section 4, Octet 47 - for product template 8</h4>
+</center>
+<center><b><span style="font-size: 9pt;">Revised 11/30/2016<br>
+<span style="color: red;">Red text depicts changes made since 07/17/2013</span></span></b><br>
+</center>
+<br>
+<br>
+<center>
+<table style="width: 80%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <th style="text-align: center; background-color: lightgrey;">Code Figure</th>
+      <th style="text-align: center; background-color: lightgrey;">Meaning</th>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0<br>
+      </td>
+      <td>Average<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1<br>
+      </td>
+      <td style="vertical-align: top;">Accumulation <span style="color: red;">(see Note 1)</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">2<br>
+      </td>
+      <td style="vertical-align: top;">Maximum<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">3<br>
+      </td>
+      <td style="vertical-align: top;">Minimum<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">4<br>
+      </td>
+      <td style="vertical-align: top;">Difference (value at the end of
+the time range minus value at the beginning)<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">5<br>
+      </td>
+      <td style="vertical-align: top;">Root Mean Square<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">6<br>
+      </td>
+      <td style="vertical-align: top;">Standard Deviation<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">7<br>
+      </td>
+      <td style="vertical-align: top;">Covariance (temporal variance) <span style="color: red;">(see Note 2)</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">8<br>
+      </td>
+      <td style="vertical-align: top;">Difference ( value at the
+beginning of the time range minus value at the end)<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">9<br>
+      </td>
+      <td style="vertical-align: top;">Ratio <span style="color: red;">(see Note 3)</span></td>
+    </tr>
+      <tr><td style="vertical-align: top;text-align: center;">10<br>
+      </td><td>Standardized Anomaly</td>
+    </tr>
+    
+      <tr><td style="vertical-align: top; color: red; text-align: center;">11<br></td>
+      <td style="color: red;">Summation</td>
+    </tr>
+    
+      <tr><td style="vertical-align: top; color: red; text-align: center;">12<br></td>
+      <td style="color: red;">Confidence Index (see Note 4) &nbsp;&nbsp;&nbsp; Validation</td>
+    </tr>
+    
+      <tr><td style="vertical-align: top; color: red; text-align: center;">13</td>
+      <td style="color: red;">Quality Indicator (see Note 5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Validation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">14</span>-191</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">192<br>
+      </td><td> Climatological Mean Value: multiple year averages of
+quantities which are themselves means over some period of time (P2)
+less than a year. The reference time (R) indicates the date and time of
+the start of a period of time, given by R to R + P2, over which a mean
+is formed; N indicates the number of such period-means that are
+averaged together to form the climatological value, assuming that the N
+period-mean fields are separated by one year. The reference time
+indicates the start of the N-year climatology. N is given in octets
+22-23 of the PDS.<br>
+      <br>
+If P1 = 0 then the data averaged in the basic interval P2 are assumed
+to be continuous, i.e., all available data are simply averaged together.<br>
+      <br>
+If P1 = 1 (the units of time - octet 18, code table 4 - are not
+relevant here) then the data averaged together in the basic interval P2
+are valid only at the time (hour, minute) given in the reference time,
+for all the days included in the P2 period. The units of P2 are given
+by the contents of octet 18 and Table 4. </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">193<br>
+      </td><td>Average of N forecasts (or initialized analyses); each
+product has forecast period of P1 (P1=0 for initialized analyses);
+products have reference times at intervals of P2, beginning at the
+given reference time. </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">194<br>
+      </td><td>Average of N uninitialized analyses, starting at
+reference time, at intervals of P2. </td>
+    </tr>
+    <tr>
+      <td><center>195</center></td>
+      <td>Average of forecast
+accumulations. P1 = start of accumulation period. P2 = end of
+accumulation period. Reference time is the start time of the first
+forecast, other forecasts at 24-hour intervals. Number in Ave =
+number of forecasts used. </td>
+    </tr>
+    <tr>
+      <td> <center>196</center> </td>
+      <td>Average of successive forecast
+accumulations. P1 = start of accumulation period. P2 = end of
+accumulation period. Reference time is the start time of the first
+forecast, other forecasts at (P2 - P1) intervals. Number in Ave =
+number of forecasts used </td>
+    </tr>
+    <tr>
+      <td><center>197</center></td>
+      <td>Average of forecast
+averages. P1 = start of averaging period. P2 = end of averaging period.
+Reference time is the start time of the first forecast, other forecasts
+at 24-hour intervals. Number in Ave = number of forecast used</td>
+    </tr>
+    <tr>
+      <td><center>198</center></td>
+      <td>Average of successive forecast
+averages. P1 = start of averaging period. P2 = end of averaging period.
+Reference time is the start time of the first forecast, other forecasts
+at (P2 - P1) intervals. Number in Ave = number of forecasts used </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">199<br></td>
+      <td style="vertical-align: top;">Climatological
+Average of N analyses, each a year apart, starting from initial time R
+and for the period from R+P1 to R+P2.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">200<br> </td>
+      <td style="vertical-align: top;">Climatological
+Average of N forecasts, each a year apart, starting from initial time R
+and for the period from R+P1 to R+P2.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">201<br></td>
+      <td style="vertical-align: top;">Climatological
+Root Mean Square difference between N forecasts and their verifying
+analyses, each a year apart, starting with initial time R
+and for the period from R+P1 to R+P2.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">202<br></td>
+      <td style="vertical-align: top; ">Climatological
+Standard Deviation of N forecasts from the mean of
+the same N forecasts, for forecasts one year apart. The first forecast
+starts wtih initial time R and is for the period from R+P1 to R+P2.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; ">203<br></td>
+      <td style="vertical-align: top; ">Climatological
+Standard Deviation of N analyses from the mean of the same N analyses,
+for analyses one year apart. The first analyses is valid for&nbsp;
+period R+P1 to R+P2.</td>
+    </tr>
+    <tr>
+      <td><center>204</center> </td>
+      <td>Average of forecast accumulations.
+P1 = start of accumulation period. P2 = end of accumulation period.
+Reference time is the start time of the first forecast, other forecasts
+at 6-hour intervals. Number in Ave = number of forecast used</td>
+    </tr>
+    <tr>
+      <td><center>205</center> </td>
+      <td>Average of forecast averages.
+P1 = start of averaging period. P2 = end of averaging period.
+Reference time is the start time of the first forecast, other forecasts
+at 6-hour intervals. Number in Ave = number of forecast used</td>
+    </tr>
+    <tr>
+      <td><center>206</center> </td>
+      <td>Average of forecast accumulations.
+P1 = start of accumulation period. P2 = end of accumulation period.
+Reference time is the start time of the first forecast, other forecasts
+at 12-hour intervals. Number in Ave = number of forecast used</td>
+    </tr>
+    <tr>
+      <td><center>207</center> </td>
+      <td>Average of forecast averages.
+P1 = start of averaging period. P2 = end of averaging period.
+Reference time is the start time of the first forecast, other forecasts
+at 12-hour intervals. Number in Ave = number of forecast used</td>
+    </tr>
+    
+      <tr><td style="vertical-align: top; color: red; text-align: center;">208</td>
+      <td style="color: red;">Variance</td>
+    </tr>
+    
+      <tr><td style="vertical-align: top; color: red; text-align: center;">209</td>
+      <td style="color: red;">Confficient</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<table cellpadding="2" cellspacing="2" border="0" style="text-align: left; width: 80%; margin-left: auto; margin-right: auto;">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;"><b>Notes:</b><br>
+      <br>
+1.&nbsp; The original data value (Y in the note 4 of regulation 92.9.4)
+has units of Code table 4.2 multiplied by second, unless otherwise noted
+on Code table 4.2.<br><br>
+2.&nbsp; The original data value has squared units of Code table 4.2.<br><br>
+3.&nbsp; The original data value is non-dimensional number without units.<br><br>
+4.&nbsp; The original data value is non-dimensional number from 0 to 1, where 
+0 indicates no confidence and 1 indicates maximal confidence.<br><br>
+5.&nbsp; The original data value is defined by Code Table 4.244.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a></center>
+<br>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § Ë È                           +ß

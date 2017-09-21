@@ -1,0 +1,207 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_Bhttp://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table4-218.shtmlPO•<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Code Table 4.218</title>
+</head>
+<body style="color: black; background-color: white;" link="#0000ff" vlink="#551a8b" alink="#ff0000">
+<br>
+<center>
+<h3>GRIB2 - CODE TABLE 4.218</h3>
+<h3><span style="color: blue;">PIXEL SCENE TYPE</span></h3>
+</center>
+<center><b><span style="font-size: 9pt;">Revised 07/26/2016<br>
+<span style="color: red;">Red text depicts changes made since 05/16/2005</span></span></b><br>
+</center>
+<br>
+<br>
+<center>
+<table style="width: 80%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <th style="text-align: center; background-color: lightgrey;">Code Figure</th>
+      <th style="text-align: center; background-color: lightgrey;">Meaning</th>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">0<br></td>
+      <td style="vertical-align: top;">No Scene Identified<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1<br></td>
+      <td style="vertical-align: top;">Green Needle-Leafed Forest<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">2<br></td>
+      <td style="vertical-align: top;">Green Broad-Leafed Forest<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">3<br></td>
+      <td style="vertical-align: top;">Deciduous Needle-Leafed Forest<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">4<br></td>
+      <td style="vertical-align: top;">Deciduous Broad-Leafed Forest<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">5<br></td>
+      <td style="vertical-align: top;">Deciduous Mixed Forest<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">6<br></td>
+      <td style="vertical-align: top;">Closed Shrub-Land<br></td>
+    </tr> 
+    <tr>
+      <td style="vertical-align: top; text-align: center;">7<br></td>
+      <td style="vertical-align: top;">Open Shrub-Land<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">8<br></td>
+      <td style="vertical-align: top;">Woody Savannah<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">9<br></td>
+      <td style="vertical-align: top;">Savannah<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">10<br></td>
+      <td style="vertical-align: top;">Grassland<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">11<br></td>
+      <td style="vertical-align: top;">Permanent Wetland<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">12<br></td>
+      <td style="vertical-align: top;">Cropland<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">13<br></td>
+      <td style="vertical-align: top;">Urban<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">14<br></td>
+      <td style="vertical-align: top;">Vegetation / Crops<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">15<br></td>
+      <td style="vertical-align: top;">Permanent Snow / Ice<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">16<br></td>
+      <td style="vertical-align: top;">Barren Desert<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">17<br></td>
+      <td style="vertical-align: top;">Water Bodies<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">18<br></td>
+      <td style="vertical-align: top;">Tundra<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: red;">19</td>
+      <td style="vertical-align: top;color: red; ">Warm Liquid Water Cloud</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: red;">20</td>
+      <td style="vertical-align: top;color: red; ">Supercooled Liquid Water Cloud</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: red;">21</td>
+      <td style="vertical-align: top;color: red; ">Mixed Phase Cloud</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: red;">22</td>
+      <td style="vertical-align: top;color: red; ">Optically Thin Ice Cloud</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: red;">23</td>
+      <td style="vertical-align: top;color: red; ">Optically Thick Ice Cloud</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: red;">24</td>
+      <td style="vertical-align: top;color: red; ">Multi-Layered Cloud</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">25</span>-96</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">97<br></td>
+      <td style="vertical-align: top;">Snow / Ice on Land<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">98<br></td>
+      <td style="vertical-align: top;">Snow / Ice on Water<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">99<br></td>
+      <td style="vertical-align: top;">Sun-Glint<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">100<br></td>
+      <td style="vertical-align: top;">General Cloud<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">101<br></td>
+      <td style="vertical-align: top;">Low Cloud / Fog / Stratus<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">102<br></td>
+      <td style="vertical-align: top;">Low Cloud / Stratocumulus<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">103<br></td>
+      <td style="vertical-align: top;">Low Cloud / Unknown Type<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">104<br></td>
+      <td style="vertical-align: top;">Medium Cloud / Nimbostratus<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">105<br></td>
+      <td style="vertical-align: top;">Medium Cloud / Altostratus<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">106<br></td>
+      <td style="vertical-align: top;">Medium Cloud / Unknown Type<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">107<br></td>
+      <td style="vertical-align: top;">High Cloud / Cumulus<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">108<br></td>
+      <td style="vertical-align: top;">High Cloud / Cirrus<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">109<br></td>
+      <td style="vertical-align: top;">High Cloud / Unknown Type<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">110<br></td>
+      <td style="vertical-align: top;">Unknown Cloud Type<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">111</span>-191</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a></center>
+<br>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § È Í                            ì

@@ -1,0 +1,434 @@
+bplist00Ñ_WebMainResourceÕ	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_@http://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table4-2.shtmlPOQù<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Code Table 4.1</title>
+</head>
+<body style="color: black; background-color: white;" alink="#ff0000" link="#0000ff" vlink="#551a8b">
+<br>
+<center>
+<h3>GRIB2 - CODE TABLE 4.2</h3>
+<h4><span style="color: blue;">PARAMETER NUMBER BY PRODUCT DISCIPLINE<br>
+AND PARAMETER CATEGORY</span></h4></center>
+<center><b><span style="font-size: 9pt;">Revised 07/27/2016<br>
+<span style="color: red;">Red text depicts changes made since 08/20/2015</span></span></b><br>
+</center>
+<br>
+<div style="text-align: center;"><a name="0"></a><br>
+</div>
+<center>
+<table style="width: 50%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: lightgrey; font-weight: bold; text-align: center;">Product 
+      Discipline 0 - Meteorological products </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;" width="50%">Parameter
+Category 0 </td>
+      <td style="font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-0.shtml"><span style="font-weight: normal;">Temperature</span></a><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter
+Category 1 </td>
+      <td style="font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-1.shtml"><span style="font-weight: normal;">Moisture</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 2 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-2.shtml"><span style="font-weight: normal;">Momentum</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 3 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-3.shtml"><span style="font-weight: normal;">Mass</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 4 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-4.shtml"><span style="font-weight: normal;">Short
+wave
+radiation</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 5 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-5.shtml"><span style="font-weight: normal;">Long
+wave
+radiation</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 6 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-6.shtml"><span style="font-weight: normal;">Cloud</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 7 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-7.shtml"><span style="font-weight: normal;">Thermodynamic
+stability indices</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 13 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-13.shtml"><span style="font-weight: normal;">Aerosols</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 14 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><span style="font-weight: normal;"><a href="grib2_table4-2-0-14.shtml">Trace
+gases</a>
+(e.g. Ozone, CO</span><sub style="font-weight: normal;">2</sub><span style="font-weight: normal;">)</span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter Category 15</td>
+<td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-15.shtml"><span style="font-weight: normal;">Radar</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter Category 16</td>
+<td style="vertical-align: top; font-weight: bold; text-align: left;">
+<a href="grib2_table4-2-0-16.shtml"><span style="font-weight: normal;">Forecast Radar Imagery</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter Category 17</td>
+<td style="vertical-align: top; font-weight: bold; text-align: left;">
+<a href="grib2_table4-2-0-17.shtml"><span style="font-weight: normal;">Electrodynamics</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 18 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-18.shtml"><span style="font-weight: normal;">Nuclear/radiology</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 19<br>
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-19.shtml"><span style="font-weight: normal;">Physical
+atmospheric Properties</span></a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left; " width="50%">Parameter Category 20 </td>
+      <td style="text-align: left; "><a href="grib2_table4-2-0-20.shtml">Atmospheric Chemical Constituents</a><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;"><span style="color:red;">21</span>-189</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 190 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-190.shtml"><span style="font-weight: normal;">CCITT
+IA5
+string</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;">Parameter
+Category 191 </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: left;"><a href="grib2_table4-2-0-191.shtml"><span style="font-weight: normal;">Miscellaneous</span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;font-weight:bold; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left; color: black;" width="50%">Parameter Category 192</td>
+      <td style="text-align: left; color: black;"><a href="grib2_table4-2-0-192.shtml">Covariance</a><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table style="width: 50%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: lightgrey; font-weight: bold; text-align: center;">Product
+Discipline 1, Hydrologic products</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;" width="50%">Parameter
+Category 0 </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-1-0.shtml">Hydrology
+Basic</a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter
+Category 1 </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-1-1.shtml">Hydrology
+Probabilities</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left; color: black;" width="50%">Parameter Category 2 </td>
+      <td style="text-align: left; color: black;"><a href="grib2_table4-2-1-2.shtml">Inland Water and Sediment
+       Properties</a><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;"><span style="color:red;">3</span>-191</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;font-weight:bold; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table style="width: 50%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: lightgrey; font-weight: bold; text-align: center;">Product
+Discipline 2, Land Surface
+products </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;" width="50%">Parameter
+Category 0 </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-2-0.shtml">Vegetation/Biomass</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 1<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-2-1.shtml">Agricultural/aquacultural special products</a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 2<br></td>
+      <td style="text-align: left;">Transportation related products<span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 3<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-2-3.shtml">Soil Products</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left; color: black;" width="50%">Parameter Category 4 </td>
+      <td style="text-align: left; color: black;"><a href="grib2_table4-2-2-4.shtml">Fire Weather Products</a><br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left; color: black;" width="50%">Parameter Category 5 </td>
+      <td style="text-align: left; color: black;"><a href="grib2_table4-2-2-5.shtml">Glaciers and Inland Ice Products</a><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;"><span style="color:red;">6</span>-191</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;font-weight:bold; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table style="width: 50%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: lightgrey; font-weight: bold; text-align: center;">Product
+Discipline 3, Space products </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;" width="50%">Parameter Category 0 </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-3-0.shtml">Image format Products</a><br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 1<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-3-1.shtml">Quantitative Products
+</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;  color: red ;" width="50%">Parameter Category 2 </td>
+      <td style="text-align: left;  color: red ;"><a href="grib2_table4-2-3-2.shtml">Cloud Properties</a><br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;  color: red ;" width="50%">Parameter Category 3 </td>
+      <td style="text-align: left;  color: red ;"><a href="grib2_table4-2-3-3.shtml">Flight Rules Conditions</a><br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;  color: red ;" width="50%">Parameter Category 4 </td>
+      <td style="text-align: left;  color: red ;"><a href="grib2_table4-2-3-4.shtml">Volcanic Ash</a><br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;  color: red ;" width="50%">Parameter Category 5 </td>
+      <td style="text-align: left;  color: red ;"><a href="grib2_table4-2-3-5.shtml">Sea-surface Temperatur</a><br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;  color: red ;" width="50%">Parameter Category 6 </td>
+      <td style="text-align: left;  color: red ;"><a href="grib2_table4-2-3-6.shtml">Solar radiation</a><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;"><span style="color:red;">7</span>-191</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;font-weight:bold; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left; color: black;" width="50%">Parameter Category 192 </td>
+      <td style="text-align: left; color: black;"><a href="grib2_table4-2-3-192.shtml">Forecast Satellite Imagery Products</a><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table style="width: 50%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: lightgrey; font-weight: bold; text-align: center; ">Product
+Discipline 4, Space Weather products<br><span style="font-weight: bold; color: red;">(Validation)</span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;" width="50%">Parameter Category 0 </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-0.shtml">Temperature</a><br></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 1<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-1.shtml">Momentum
+      </a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 2<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-2.shtml">Charged Particle Mass and Number
+      </a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 3<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-3.shtml">Electric and Magnetic Fields</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 4<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-4.shtml">Energetic Particles<span style="font-weight: normal;"></span></a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 5<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-5.shtml">Waves<span style="font-weight: normal;"></span></a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 6<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-6.shtml">Solar Electromagnetic Emissions<span style="font-weight: normal;"></span></a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 7<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-7.shtml">Terrestrial Electromagnetic Emissions<span style="font-weight: normal;"></span></a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 8<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-8.shtml">Imagery<span style="font-weight: normal;"></span></a></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter Category 9<br></td>
+      <td style="text-align: left;"><a href="grib2_table4-2-4-9.shtml">Ion-Neutral Coupling<span style="font-weight: normal;"></span></a></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;"><span style="color:red;">10</span>-191</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;font-weight:bold; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table style="width: 50%;" border="1" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: lightgrey; font-weight: bold; text-align: center;">Product
+Discipline 10, Oceanographic
+products </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;" width="50%">Parameter
+Category 0 </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-10-0.shtml">Waves</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter
+Category 1<br>
+      </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-10-1.shtml">Currents</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter
+Category 2<br>
+      </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-10-2.shtml">Ice</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter
+Category 3<br>
+      </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-10-3.shtml">Surface
+Properties</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left;">Parameter
+Category 4<br>
+      </td>
+      <td style="text-align: left;"><a href="grib2_table4-2-10-4.shtml">Sub-surface
+Properties</a><span style="font-weight: normal;"></span></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;"><span style="color:red;">5</span>-190</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: left; color: black;" width="50%">Parameter Category 191</td>
+      <td style="text-align: left; color: black;"><a href="grib2_table4-2-10-191.shtml">Miscellaneous</a><br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;font-weight:bold; text-align: center; background-color: lightgrey;">192-254<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; font-weight:bold; text-align: center;">255</td>
+      <td style="vertical-align: top;">Missing</td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<table cellpadding="2" cellspacing="2" border="0" style="text-align: left; width: 80%; margin-left: auto; margin-right: auto;">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;"><b>Notes:</b><br>
+      <br>
+      1.&nbsp; By convention, the flux sign is positive if downward.<br><br>
+      2.&nbsp; <span style="color: black;">When a new parameter is to be added to Code table 4.2 
+        and more than one category applies, the choice of category should be made base on the 
+        intended use of product.  The discipline and category are an important part of any product 
+        definition, so it is possible to have the same parameter name in more than one category. 
+        For example, "Water Temperature" in discipline 10 (Oceanographic Products), category 4 
+        (sub-surface properties) is used to reporting water temperature in the ocean or open sea, 
+        and is not the same as "Water temperature" in discipline 1 (Hydrological Products), 
+        category 2 (Inland water and sediment properties) which is used for reporting water 
+        temperature in freshwater lakes and rivers.<br></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<div style="text-align: center;"><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a>
+<br>
+</div>
+<br>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k ‚ ” ž ¤ ç è                           Rå

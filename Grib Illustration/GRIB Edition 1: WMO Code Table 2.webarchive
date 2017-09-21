@@ -1,0 +1,461 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_:https://rda.ucar.edu/docs/formats/grib/gribdoc/params.htmlPOM:<html><head>
+<title>GRIB Edition 1: WMO Code Table 2</title>
+<link rel="stylesheet" type="text/css" href="http://dss.ucar.edu/css/stylegribdoc.css">
+</head>
+<body>
+<a name="Top"></a>
+<br><br>
+<ul>
+<ul>
+<big>WMO Code table 2 - Indicator of parameter</big><br><br>
+<table cellspacing="10">
+<tbody><tr valign="bottom">
+<td align="center"><em>Code<br> figure</em></td><td align="left"><em><br>Field parameter</em></td><td align="left"><em><br>Unit</em></td>
+</tr>
+<tr valign="top">
+<td align="center">000</td><td align="left">Reserved</td><td></td>
+</tr>
+<tr valign="top">
+<td align="center">001</td><td align="left">Pressure</td><td align="left">Pa</td>
+</tr>
+<tr valign="top">
+<td align="center">002</td><td align="left">Pressure reduced to MSL</td>
+<td align="left">Pa</td>
+</tr>
+<tr valign="top">
+<td align="center">003</td><td align="left">Pressure tendency</td><td align="left">Pa s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">004</td><td align="left">Potential vorticity</td><td align="left">K m<sup>2</sup> kg<sup>-1</sup> s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">005</td><td align="left">ICAO Standard Atmosphere reference height</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">006</td><td align="left">Geopotential</td><td align="left">m<sup>2</sup> s<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">007</td><td align="left">Geopotential height</td><td align="left">gpm</td>
+</tr>
+<tr valign="top">
+<td align="center">008</td><td align="left">Geometrical height</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">009</td><td align="left">Standard deviation of height</td>
+<td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">010</td><td align="left">Total ozone</td><td align="left">Dobson</td>
+</tr>
+<tr valign="top">
+<td align="center">011</td><td align="left">Temperature</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">012</td><td align="left">Virtual temperature</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">013</td><td align="left">Potential temperature</td>
+<td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">014</td><td align="left">Pseudo-adiabatic potential temperature</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">015</td><td align="left">Maximum temperature</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">016</td><td align="left">Minimum temperature</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">017</td><td align="left">Dew-point temperature</td>
+<td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">018</td><td align="left">Dew-point depression (or deficit)</td>
+<td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">019</td><td align="left">Lapse rate</td><td align="left">K m<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">020</td><td align="left">Visibility</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">021</td><td align="left">Radar spectra (1)</td><td align="left">-</td>
+</tr>
+<tr valign="top">
+<td align="center">022</td><td align="left">Radar spectra (2)</td><td align="left">-</td>
+</tr>
+<tr valign="top">
+<td align="center">023</td><td align="left">Radar spectra (3)</td><td align="left">-</td>
+</tr>
+<tr valign="top">
+<td align="center">024</td><td align="left">Parcel lifted index (to 500 hPa) (see <a href="#Note6">Note 6</a>)</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">025</td><td align="left">Temperature anomaly</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">026</td><td align="left">Pressure anomaly</td><td align="left">Pa</td>
+</tr>
+<tr valign="top">
+<td align="center">027</td><td align="left">Geopotential height anomaly</td>
+<td align="left">gpm</td>
+</tr>
+<tr valign="top">
+<td align="center">028</td><td align="left">Wave spectra (1)</td><td align="left">-</td>
+</tr>
+<tr valign="top">
+<td align="center">029</td><td align="left">Wave spectra (2)</td><td align="left">-</td>
+</tr>
+<tr valign="top">
+<td align="center">030</td><td align="left">Wave spectra (3)</td><td align="left">-</td>
+</tr>
+<tr valign="top">
+<td align="center">031</td><td align="left">Wind direction</td><td align="left">Degree true</td>
+</tr>
+<tr valign="top">
+<td align="center">032</td><td align="left">Wind speed</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">033</td><td align="left">u-component of wind (see <a href="#Note4">Note 4</a>)</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">034</td><td align="left">v-component of wind (see <a href="#Note4">Note 4</a>)</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">035</td><td align="left">Stream function</td><td align="left">m<sup>2</sup> s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">036</td><td align="left">Velocity potential</td><td align="left">m<sup>2</sup> s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">037</td><td align="left">Montgomery stream function</td>
+<td align="left">m<sup>2</sup> s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">038</td><td align="left">Sigma coordinate vertical velocity</td>
+<td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">039</td><td align="left">Vertical velocity</td><td align="left">Pa s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">040</td><td align="left">Vertical velocity</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">041</td><td align="left">Absolute vorticity</td><td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">042</td><td align="left">Absolute divergence</td><td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">043</td><td align="left">Relative vorticity</td><td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">044</td><td align="left">Relative divergence</td><td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">045</td><td align="left">Vertical u-component shear (see <a href="#Note4">Note 4</a>)</td><td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">046</td><td align="left">Vertical v-component shear (see <a href="#Note4">Note 4</a>)</td><td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">047</td><td align="left">Direction of current</td><td align="left">Degree true</td>
+</tr>
+<tr valign="top">
+<td align="center">048</td><td align="left">Speed of current</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">049</td><td align="left">u-component of current (see <a href="#Note4">Note 4</a>)</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">050</td><td align="left">v-component of current (see <a href="#Note4">Note 4</a>)</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">051</td><td align="left">Specific humidity</td><td align="left">kg kg<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">052</td><td align="left">Relative humidity</td><td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">053</td><td align="left">Humidity mixing ratio</td>
+<td align="left">kg kg<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">054</td><td align="left">Precipitable water</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">055</td><td align="left">Vapor pressure</td><td align="left">Pa</td>
+</tr>
+<tr valign="top">
+<td align="center">056</td><td align="left">Saturation deficit</td><td align="left">Pa</td>
+</tr>
+<tr valign="top">
+<td align="center">057</td><td align="left">Evaporation</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">058</td><td align="left">Cloud ice</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">059</td><td align="left">Precipitation rate</td><td align="left">kg m<sup>-2</sup> s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">060</td><td align="left">Thunderstorm probability</td>
+<td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">061</td><td align="left">Total precipitation</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">062</td><td align="left">Large scale precipitation</td>
+<td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">063</td><td align="left">Convective precipitation</td>
+<td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">064</td><td align="left">Snowfall rate water equivalent</td>
+<td align="left">kg m<sup>-2</sup> s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">065</td><td align="left">Water equivalent of accumulated snow depth</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">066</td><td align="left">Snow depth</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">067</td><td align="left">Mixed layer depth</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">068</td><td align="left">Transient thermocline depth</td>
+<td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">069</td><td align="left">Main thermocline depth</td>
+<td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">070</td><td align="left">Main thermocline anomaly</td>
+<td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">071</td><td align="left">Total cloud cover</td><td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">072</td><td align="left">Convective cloud cover</td>
+<td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">073</td><td align="left">Low cloud cover</td><td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">074</td><td align="left">Medium cloud cover</td><td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">075</td><td align="left">High cloud cover</td><td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">076</td><td align="left">Cloud water</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">077</td><td align="left">Best lifted index (to 500 hPa) (see <a href="#Note6">Note 6</a>)</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">078</td><td align="left">Convective snow</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">079</td><td align="left">Large scale snow</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">080</td><td align="left">Water temperature</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">081</td><td align="left">Land cover (1 = land, 0 = sea)</td>
+<td align="left">Proportion</td>
+</tr>
+<tr valign="top">
+<td align="center">082</td><td align="left">Deviation of sea level from mean</td>
+<td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">083</td><td align="left">Surface roughness</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">084</td><td align="left">Albedo</td><td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">085</td><td align="left">Soil temperature</td><td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">086</td><td align="left">Soil moisture content</td>
+<td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">087</td><td align="left">Vegetation</td><td align="left">%</td>
+</tr>
+<tr valign="top">
+<td align="center">088</td><td align="left">Salinity</td><td align="left">kg kg<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">089</td><td align="left">Density</td><td align="left">kg m<sup>-3</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">090</td><td align="left">Water run-off</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">091</td><td align="left">Ice cover (1 = ice, 0 = no ice)</td>
+<td align="left">Proportion</td>
+</tr>
+<tr valign="top">
+<td align="center">092</td><td align="left">Ice thickness</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">093</td><td align="left">Direction of ice drift</td>
+<td align="left">Degree true</td>
+</tr>
+<tr valign="top">
+<td align="center">094</td><td align="left">Speed of ice drift</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">095</td><td align="left">u-component of ice drift (see <a href="#Note4">Note 4</a>)</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">096</td><td align="left">v-component of ice drift (see <a href="#Note4">Note 4</a>)</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">097</td><td align="left">Ice growth rate</td><td align="left">m s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">098</td><td align="left">Ice divergence</td><td align="left">s<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">099</td><td align="left">Snow melt</td><td align="left">kg m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">100</td><td align="left">Significant height of combined wind waves and swell</td><td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">101</td><td align="left">Direction of wind waves</td>
+<td align="left">Degree true</td>
+</tr>
+<tr valign="top">
+<td align="center">102</td><td align="left">Significant height of wind waves</td>
+<td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">103</td><td align="left">Mean period of wind waves</td>
+<td align="left">s</td>
+</tr>
+<tr valign="top">
+<td align="center">104</td><td align="left">Direction of swell waves</td>
+<td align="left">Degree true</td>
+</tr>
+<tr valign="top">
+<td align="center">105</td><td align="left">Significant height of swell waves</td>
+<td align="left">m</td>
+</tr>
+<tr valign="top">
+<td align="center">106</td><td align="left">Mean period of swell waves</td>
+<td align="left">s</td>
+</tr>
+<tr valign="top">
+<td align="center">107</td><td align="left">Primary wave direction</td>
+<td align="left">Degree true</td>
+</tr>
+<tr valign="top">
+<td align="center">108</td><td align="left">Primary wave mean period</td>
+<td align="left">s</td>
+</tr>
+<tr valign="top">
+<td align="center">109</td><td align="left">Secondary wave direction</td>
+<td align="left">Degree true</td>
+</tr>
+<tr valign="top">
+<td align="center">110</td><td align="left">Secondary wave mean period</td>
+<td align="left">s</td>
+</tr>
+<tr valign="top">
+<td align="center">111</td><td align="left">Net short-wave radiation flux (surface) (see <a href="#Note3">Note 3</a>)</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">112</td><td align="left">Net long-wave radiation flux (surface) (see <a href="#Note3">Note 3</a>)</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">113</td><td align="left">Net short-wave radiation flux (top of atmosphere) (see <a href="#Note3">Note 3</a>)</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">114</td><td align="left">Net long-wave radiation flux (top of atmosphere) (see <a href="#Note3">Note 3</a>)</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">115</td><td align="left">Long-wave radiation flux (see <a href="#Note3">Note 3</a>)</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">116</td><td align="left">Short-wave radiation flux (see <a href="#Note3">Note 3</a>)</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">117</td><td align="left">Global radiation flux (see <a href="#Note3">Note 3</a>)</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">118</td><td align="left">Brightness temperature</td>
+<td align="left">K</td>
+</tr>
+<tr valign="top">
+<td align="center">119</td><td align="left">Radiance (with respect to wave number)</td><td align="left">W m<sup>-1</sup> sr<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">120</td><td align="left">Radiance (with respect to wave length)</td><td align="left">W m<sup>-3</sup> sr<sup>-1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">121</td><td align="left">Latent heat flux</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">122</td><td align="left">Sensible heat flux</td><td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">123</td><td align="left">Boundary layer dissipation</td>
+<td align="left">W m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">124</td><td align="left">Momentum flux, u-component (see <a href="#Note4">Note 4</a>)</td><td align="left">N m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">125</td><td align="left">Momentum flux, v-component (see <a href="#Note4">Note 4</a>)</td><td align="left">N m<sup>-2</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">126</td><td align="left">Wind mixing energy</td><td align="left">J</td>
+</tr>
+<tr valign="top">
+<td align="center">127</td><td align="left">Image data</td><td></td>
+</tr>
+<tr valign="top">
+<td align="center">128-254</td><td align="left">Reserved for originating center use</td><td></td>
+</tr>
+<tr valign="top">
+<td align="center">255</td><td>Missing value</td><td></td>
+</tr>
+</tbody></table>
+<br><br><br>NOTES:<br><br>
+<ol>
+<li>SI units only are used for GRIB; the accuracy or precision with which the data are represented is a function of the range of values, the decimal and/or binary scaling, and the number of bits used; GRIB enables suitable scaling factors to be selected to obviate the need to define parameters in non-SI units.<br><br>
+</li><li>The code figures 0 to 127 are used to represent parameters which are exchanged between a number of centers; since the products generated by centers can be extremely diverse, code figures 128 to 254 are reserved for definition by the originating center and may differ from center to center.<br><br>
+</li><li><a name="Note3"></a>By convention, downward fluxes of radiation or other quantities shall be assigned negative values; upward fluxes of radiation or other quantites shall be assigned positive values.<br><br>
+</li><li><a name="Note4"></a>The u- and v-components of vector quantities are defined in <a href="res_comp.html">Code table 7</a>.
+<br><br>
+</li><li>Provision is made for three types of spectra:
+<ol>
+<li>direction and frequency;
+</li><li>direction and radial number;
+</li><li>radial number and radial number.
+</li></ol><br><br>
+</li><li><a name="Note6"></a>The "parcel lifted index" (as defined in the <em>International Meteorology Vocabulary</em> (WMO-No. 182) under the listing "lifted index") is defined as the temperature difference between the ambient 500 hPa temperature (T500) and that of a parcel of air lifted from the surface (Tparcel) following the dry and moist adiabatic process.  Negative values of (T500 - Tparcel) suggest instability.  The "best lifted index" is defined as the most unstable of a collection of parcel lifted indices, with parcel initial conditions defined for a collection of 30 hPa thick layers stacked one upon the other with the lowest resting on the ground.  Commonly, four to six such layers are used in the calculation.
+</li></ol>
+<br><br><br><a href="#Top">Back to Top</a><br><br>
+</ul>
+</ul>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § · ‚                           N 

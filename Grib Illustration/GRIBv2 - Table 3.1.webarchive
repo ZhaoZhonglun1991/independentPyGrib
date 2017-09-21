@@ -1,0 +1,303 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_@http://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table3-1.shtmlPO-Ω<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Table 3.1</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: white;" link="#0000ff" vlink="#551a8b" alink="#ff0000">
+<br>
+<center>
+<h3>GRIB2 - TABLE 3.1</h3>
+<h3><span style="color: blue;">Grid Definition Template Number</span></h3>
+<h4> In Section 3, Octet 13-14</h4>
+</center>
+<center><b><span style="font-size: 9pt;">Revised 07/12/2016<br>
+<span style="color: red;">Red text depicts changes made since 07/01/2014</span></span></b><br>
+</center>
+<br>
+<br>
+<center>
+<table border="1" cellspacing="0" cellpadding="5" style="width: 80%;">
+  <tbody>
+    <tr>
+      <th style="text-align: center; background-color: lightgrey;">Code Figure</th>
+      <th style="text-align: center; background-color: lightgrey;">Meaning</th>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0<br>
+      </td>
+      <td>Latitude/Longitude (See <a href="grib2_temp3-0.shtml">Template
+3.0</a>) &nbsp;&nbsp; Also called Equidistant Cylindrical or Plate Caree
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1<br>
+      </td>
+      <td style="vertical-align: top;">Rotated Latitude/Longitude (See <a href="grib2_temp3-1.shtml">Template
+3.1</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">2<br>
+      </td>
+      <td style="vertical-align: top;">Stretched Latitude/Longitude
+(See <a href="grib2_temp3-2.shtml">Template
+3.2</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">3<br>
+      </td>
+      <td style="vertical-align: top;">Rotated and Stretched
+Latitude/Longitude (See <a href="grib2_temp3-3.shtml">Template
+3.3</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">4</td>
+      <td style="vertical-align: top; ">Variable Resolution Latitude/longitude
+      (See <a href="grib2_temp3-4.shtml">Template 3.4</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">5</td>
+      <td style="vertical-align: top; ">Variable Resolution Rotated Latitude/longitude
+      (See <a href="grib2_temp3-5.shtml">Template 3.5</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">6</span>-9</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">10<br>
+      </td>
+      <td style="vertical-align: top;">Mercator (See <a href="grib2_temp3-10.shtml">Template 3.10</a>)<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">11</span></td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: blck; text-align: center;">12</td>
+      <td style="vertical-align: top; color: blck;">Transverse Mercator
+      (See <a href="grib2_temp3-12.shtml">Template 3.12</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">13</span>-19</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">20<br>
+      </td>
+      <td style="vertical-align: top;">Polar Stereographic Projection
+(Can be North or South) (See <a href="grib2_temp3-20.shtml">Template 3.20</a>)
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">21</span>-29</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">30<br>
+      </td>
+      <td style="vertical-align: top;">Lambert Conformal (Can be Secant,
+Tangent, Conical, or Bipolar) (See <a href="grib2_temp3-30.shtml">Template
+3.30</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">31<br>
+      </td>
+      <td style="vertical-align: top;">Albers Equal Area (See <a href="grib2_temp3-31.shtml">Template
+3.31</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">32</span>-39</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">40<br>
+      </td>
+      <td style="vertical-align: top;">Gaussian Latitude/Longitude (See
+      <a href="grib2_temp3-40.shtml">Template
+3.40</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">41<br>
+      </td>
+      <td style="vertical-align: top;">Rotated Gaussian
+Latitude/Longitude (See <a href="grib2_temp3-41.shtml">Template
+3.41</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">42<br>
+      </td>
+      <td style="vertical-align: top;">Stretched Gaussian
+Latitude/Longitude
+(See <a href="grib2_temp3-42.shtml">Template
+3.42</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">43<br>
+      </td>
+      <td style="vertical-align: top;">Rotated and Stretched
+Gaussian Latitude/Longitude (See <a href="grib2_temp3-43.shtml">Template
+3.43</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">44</span>-49</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">50<br>
+      </td>
+      <td style="vertical-align: top;">Spherical Harmonic Coefficients
+(See <a href="grib2_temp3-50.shtml">Template
+3.50</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">51<br>
+      </td>
+      <td style="vertical-align: top;">Rotated Spherical Harmonic
+Coefficients (See <a href="grib2_temp3-51.shtml">Template
+3.51</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">52<br>
+      </td>
+      <td style="vertical-align: top;">Stretched Spherical Harmonic
+Coefficients (See <a href="grib2_temp3-52.shtml">Template
+3.52</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">53<br>
+      </td>
+      <td style="vertical-align: top;">Rotated and Stretched
+Spherical Harmonic Coefficients (See <a href="grib2_temp3-53.shtml">Template
+3.53</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">54</span>-89</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">90<br>
+      </td>
+      <td style="vertical-align: top;">Space View Perspective or
+Orthographic (See <a href="grib2_temp3-90.shtml">Template
+3.90</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">91</span>-99</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">100</td>
+      <td style="vertical-align: top;">Triangular Grid Based on an Icosahedron (See <a href="grib2_temp3-100.shtml">Template 3.100</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">101</td>
+      <td style="vertical-align: top;">General Unstructured Grid (see <a href="grib2_temp3-101.shtml">
+      Template 3.101</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">102</span>-109</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">110<br>
+      </td>
+      <td style="vertical-align: top;">Equatorial Azimuthal Equidistant
+Projection (See <a href="grib2_temp3-110.shtml">Template
+3.110</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">111</span>-119</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">120<br>
+      </td>
+      <td style="vertical-align: top;">Azimuth-Range Projection (See <a href="grib2_temp3-120.shtml">Template
+3.120</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">121</span>-139</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">140</td>
+      <td style="vertical-align: top; ">Lambert Azimuthal Equal Area Projection
+      (See <a href="grib2_temp3-140.shtml">Template 3.140</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">141</span>-203</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">204</td>
+      <td style="vertical-align: top; ">Curvilinear Orthogonal Grids 
+      (See <a href="grib2_temp3-204.shtml">Template 3.204</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">205</span>-999</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1000<br>
+      </td>
+      <td style="vertical-align: top;">Cross Section Grid with Points
+Equally Spaced on the Horizontal (See <a href="grib2_temp3-1000.shtml">Template
+3.1000</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">1001</span>-1099</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1100<br>
+      </td>
+      <td style="vertical-align: top;">Hovmoller Diagram with Points
+Equally Spaced on the Horizontal (See <a href="grib2_temp3-1100.shtml">Template
+3.1100</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">1101</span>-1199</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1200<br>
+      </td>
+      <td style="vertical-align: top;">Time Section Grid (See <a href="grib2_temp3-1200.shtml">Template
+3.1200</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><span style="color:red;">1201</span>-32767</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; background-color: lightgrey;">32768-65534</td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;  text-align: center;">32768<br>
+      </td>
+      <td style="vertical-align: top; ">Rotated Latitude/Longitude
+      (Arakawa Staggered E-Grid) (See <a href="grib2_temp3-32768.shtml">Template 3.32768</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">32769<br>
+      </td>
+      <td style="vertical-align: top; ">Rotated Latitude/Longitude
+      (Arakawa Non-E Staggered Grid) (See <a href="grib2_temp3-32769.shtml">Template 3.32769</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">65535<br>
+      </td>
+      <td style="vertical-align: top;">Missing<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a></center>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § Á Ë                           .©

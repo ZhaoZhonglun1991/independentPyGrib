@@ -1,0 +1,188 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_7https://rda.ucar.edu/docs/formats/grib/gribdoc/bds.htmlPO'^<html><head>
+<title>GRIB Edition 1: Binary Data Section</title>
+
+<link rel="stylesheet" type="text/css" href="http://dss.ucar.edu/css/stylegribdoc.css">
+</head>
+<body>
+<a name="Top"></a>
+<br><br>
+<ul>
+<ul>
+<big>Section 4 - Binary data section</big><br><br>
+<table cellspacing="10">
+<tbody><tr valign="bottom">
+<td align="center"><em>Octet<br>No.</em></td><td align="left"><em><br>Contents</em></td>
+</tr>
+<tr valign="top">
+<td align="center">1-3</td><td align="left">Length of section (octets)</td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="oct4"></a>4</td><td align="left">Flag (see <a href="bds4.html">Code table 11</a>) (first 4 bits).<br>
+Number of unused bits at end of Section 4 (last 4 bits)</td>
+
+</tr>
+<tr valign="top">
+<td align="center"><a name="oct5"></a>5-6</td><td align="left">Scale factor (E)</td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="oct7"></a>7-10</td><td align="left">Reference value (minimum of packed values)</td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="oct11"></a>11</td><td align="left">Number of bits containing each packed value</td>
+</tr>
+<tr valign="top">
+<td align="center">12-</td><td align="left">Variable, depending on the flag value in octet 4</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+Note: A negative value of E shall be indicated by setting the high-order bit (bit 1) in the left-hand octet to 1 (on).<br><br></td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<br><br><b>Grid-point data - simple packing:</b>
+</td></tr><tr valign="bottom">
+<td align="center"><em>Octet<br>No.</em></td><td align="left"><em><br>Contents</em></td>
+</tr>
+<tr valign="top">
+<td align="center">12-</td><td align="left">Binary data</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<br><br><b>Spherical harmonic coefficients - simple packing:</b></td>
+</tr>
+<tr valign="bottom">
+<td align="center"><em>Octet<br>No.</em></td><td align="left"><em><br>Contents</em></td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="oct12-15"></a>12-15</td><td align="left">Real part of (0,0) coefficient (stored in the same manner as the reference value (<a href="#oct7">octets 7-10</a>)</td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="oct16"></a>16-</td><td align="left">Binary data</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<br><br><b>Grid-point data - second-order packing</b></td>
+</tr>
+<tr valign="bottom">
+<td align="center"><em>Octet<br>No.</em></td><td align="left"><em><br>Contents</em></td> </tr>
+<tr valign="top">
+<td align="center">12-13</td><td align="left">N1 - octet number at which first-order packed data begin</td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="oct14"></a>14</td><td align="left">Extended flags (see <a href="bds4.html">Code table 11</a>)</td>
+</tr>
+<tr valign="top">
+<td align="center">15-16</td><td align="left">N2 - octet number at which second-order packed data begin</td>
+</tr>
+<tr valign="top">
+<td align="center">17-18</td><td align="left">P1 - number of first-order packed values</td>
+</tr>
+<tr valign="top">
+<td align="center">19-20</td><td align="left">P2 - number of second-order packed values</td>
+</tr>
+<tr valign="top">
+<td align="center">21</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">22-(xx-1)</td><td align="left">Width(s) in bits of second-order packed values; each width is contained in 1 octet</td>
+</tr>
+<tr valign="top">
+<td align="center">xx-(N1-1)</td><td align="left">Secondary bit-map, at least P2 bits long, padded to a whole number of octets with binary 0</td>
+</tr>
+<tr valign="top">
+<td align="center">N1-(N2-1)</td><td align="left">P1 first-order packed values, padded to a whole number of octets with binary 0</td>
+</tr>
+<tr valign="top">
+<td align="center">N2-...</td><td align="left">P2 second-order packed values</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<br><br><br><br>NOTES:<br><br>
+</td></tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<ol>
+<li>The binary data shall consist of P1 first-order packed values, of width given by the contents of <a href="#oct11">octet 11,</a> followed by P2 second-order packed values; there shall be one second-order packed value for each point of the defined grid, as modified by application of the bit-map in <a href="bms.html">Section 3 - Bit-map section</a>, if present.<br><br>
+</li><li>The width of the second-order packed values shall be indicated by the values of W2<sub>j</sub>:
+<ol type="a">
+<li>If bit 8 of the extended flags (<a href="bds4.html">Code table 11</a>) is 0, all second-order packed values will have the same width, indicated by a single value of W2<sub>1</sub>;
+</li><li>If bit 8 of the extended flags (<a href="bds4.html">Code table 11</a>) is 1, P1 values of the widths of second-order packed values (W2<sub>j</sub>, j = 1..P1) will be given.<br><br>
+</li></ol>
+</li><li>The secondary bit-map, starting at octet xx, shall define with corresponding 1 bits the location where the use of the first-order packed values begins with reference to the defined grid (as modified by the bit-map, <a href="bms.html">Section 3</a>, if present); the first point of the grid, as modified by the bit-map in <a href="bms.html">Section 3</a>, if present, will always be present, and a corresponding 1 shall be set in the first bit of the secondary bit-map.<br><br>
+</li><li>Where bit 7 of the extended flags (<a href="bds4.html">Code table 11</a>) is 0, the secondary bit-map shall be omitted; and implied secondary bit-map shall be inferred such that a 1 bit is set for the first point of each row (or column) of the defined grid (row by row packing).<br><br>
+</li><li>The original represented data at any point shall be obtained by scanning the points in the order defined by the grid description, as modified by the (optional) bit-map section; each first-order packed value shall remain defined until the point at which the use of a subsequent first-order packed value begins, as defined by the secondary bit-map; the unpacked value shall be obtained by applying the reference value, the binary and the decimal scales to the sum of the first- and second-order values for each point, by the following formula:<br>
+<center>Y x 10<sup>D</sup> = R + (X<sub>i</sub> + X<sub>j</sub>) x 2<sup>E</sup>
+</center><br>
+<table cellspacing="10">
+<tbody><tr valign="top">
+<td>where</td><td>X<sub>i</sub> is the appropriate first-order packed value</td>
+</tr>
+<tr valign="top">
+<td></td><td>X<sub>j</sub> is the appropriate second-order packed value</td>
+</tr>
+</tbody></table>
+<br><br>
+</li><li>If the number of bits W2<sub>j</sub>, for the appropriate subset, is zero, no values for that subset are represented; i.e. the actual value for that subset is constant given by R + (X<sub>i</sub> x 2<sup>E</sup>).  This is a form of run-length encoding in which a string of identical values is represented by one value; the replication count for that value is, implicitly, in the secondary bit-map.
+</li></ol></td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<br><br><b>Spherical harmonics - complex packing:</b></td>
+</tr>
+<tr valign="bottom">
+<td align="center"><em>Octet<br>No.</em></td><td align="left"><em><br>Contents</em></td>
+</tr>
+<tr valign="top">
+<td align="center">12-13</td><td align="left">N (relative to the beginning of the BDS, except for ECMWF fields where it is relative to the beginning of the GRIB record)</td>
+</tr>
+<tr valign="top">
+<td align="center">14-15</td><td align="left">IP (where IP = int (1000 x P))</td>
+</tr>
+<tr valign="top">
+<td align="center">16</td><td align="left">J<sup>1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">17</td><td align="left">K<sup>1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">18</td><td align="left">M<sup>1</sup></td>
+</tr>
+<tr valign="top">
+<td align="center">19</td><td align="left">Binary data</td>
+</tr>
+<tr valign="top">
+<td align="center"><b>.</b></td><td align="left" valign="center" rowspan="3">Unpacked binary data represented in 4 octets in the same way as the reference value (pairs of coefficients)</td>
+</tr>
+<tr valign="top">
+<td align="center"><b>.</b></td>
+</tr>
+<tr valign="top">
+<td align="center"><b>.</b></td>
+</tr>
+<tr valign="top">
+<td align="center">N</td><td align="left">Packed binary data</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<br><br><br>NOTES:</td>
+</tr>
+<tr valign="top">
+<td align="left" colspan="2">
+<ol>
+<li>Removal of the real (0,0) coefficient considerably reduces the variability of the coefficients and results in better packing.<br><br>
+</li><li>For some spherical harmonic representations, the (0,0) coefficient represents the mean value of the parameter represented.<br><br>
+</li><li>For spherical harmonics - complex packing, J<sup>1</sup>, K<sup>1</sup>, M<sup>1</sup> are the pentagonal resolution parameters specifying the truncation of a subset of the data, which shall be represented unpacked (as is the reference value) and shall precede the packed data.<br>
+P defines a scaling factor by which is packed not the field itself, but the modulus of <b>Del<sup>2P</sup></b> of the field, where <b>Del<sup>2</sup></b> is the Laplacian operator.  Thus the coefficients <b>(phi<sub>n</sub>)<sup>m</sup></b> will be multiplied by (n (n + 1))<sup>P</sup> before packing, and divided by this factor after unpacking.<br> N is a pointer to the start of the packed data (i.e. gives octet number)<br>
+<center>(J<sup>1</sup>, K<sup>1</sup>, M<sup>1</sup> &gt; 0 and P 0, + or -)
+</center><br>
+The representation mode <a href="spec_data_rep.html">(Code figure = 2 in Code table 10)</a> in <a href="gds.html">Section 2</a> shall indicate this type of packing, but as <a href="gds.html">Section 2</a> is optional, the <a href="#oct4">flag field</a> in this section may also be used to indicate the more complex method.
+</li></ol></td>
+</tr>
+</tbody></table>
+<br><br><br><a href="#Top">Back to Top</a><br><br>
+</ul>
+</ul>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § ﬁ ﬂ                           (A

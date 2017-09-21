@@ -1,0 +1,107 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_9https://rda.ucar.edu/docs/formats/grib/gribdoc/timer.htmlPO.<html><head>
+<title>GRIB Edition 1: WMO Code Table 5</title>
+<link rel="stylesheet" type="text/css" href="http://dss.ucar.edu/css/stylegribdoc.css">
+</head>
+<body>
+<a name="Top"></a>
+<br><br>
+<ul>
+<ul>
+<big>WMO Code table 5 - Time range indicator</big><br><br>
+<table cellspacing="10">
+<tbody><tr valign="bottom">
+<td align="center"><em>Code<br> figure</em></td><td align="left"><em><br>Meaning</em></td>
+</tr>
+<tr valign="top">
+<td align="center">0</td><td align="left">Forecast product valid for <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct19">P1</a> (<a href="pds.html#oct19">P1</a> &gt; 0), or<br>
+Uninitialized analysis product for <a href="pds.html#oct13">reference time</a> (<a href="pds.html#oct19">P1</a> = 0), or<br>
+Image product for <a href="pds.html#oct13">reference time</a> (<a href="pds.html#oct19">P1</a> = 0)</td>
+</tr>
+<tr valign="top">
+<td align="center">1</td><td align="left">Initialized analysis product for <a href="pds.html#oct13">reference time</a> (<a href="pds.html#oct19">P1</a> = 0)</td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="code2"></a>2</td><td align="left">Product with a valid time ranging between <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct19">P1</a> and <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center">3</td><td align="left">Average (<a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct19">P1</a> to <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a>)</td>
+</tr>
+<tr valign="top">
+<td align="center">4</td><td align="left">Accumulation (<a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct19">P1</a> to <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a>) product considered valid at <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center">5</td><td align="left">Difference (<a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a> minus <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct19">P1</a>) product considered valid at <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center">6-9</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="code10"></a>10</td><td align="left"><a href="pds.html#oct19">P1</a> occupies octets 19 and 20; product valid at <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct19">P1</a></td>
+</tr>
+<tr valign="top">
+<td align="center">11-50</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">51</td><td align="left">Climatological Mean Value:  multiple year averages of quantities which are themselves means over some period of time (<a href="pds.html#oct20">P2</a>) less than a year.  The <a href="pds.html#oct13">reference time (R)</a> indicates the date and time of the start of a period of time, given by <a href="pds.html#oct13">R</a> to <a href="pds.html#oct13">R</a> + <a href="pds.html#oct20">P2</a>, over which a mean is formed; <b>N</b> indicates the number of such period-means that are averaged together to form the climatological value, assuming that the <b>N</b> period-mean fields are separated by one year.  The <a href="pds.html#oct13">reference time</a> indicates the start of the <b>N</b>-year climatology.  N is given in <a href="pds.html#oct22">octets 22 and 23</a> of the <a href="pds.html">PDS</a>.<br><br>
+If <a href="pds.html#oct19">P1</a> = 0, then the data averaged in the basic interval <a href="pds.html#oct20">P2</a> are assumed to be continuous (i.e., all available data are simply averaged together).<br><br>
+If <a href="pds.html#oct19">P1</a> = 1 (the <a href="pds.html#oct18">units of time - octet 18</a>,<a href="timeu.html">Code table 4</a> - are not relevant here), then the data averaged together in the basic interval <a href="pds.html#oct20">P2</a> are valid only at the time (hour, minute) given in the <a href="pds.html#oct13">reference time</a>, for all the days included in the <a href="pds.html#oct20">P2</a> period.  The units of <a href="pds.html#oct20">P2</a> are given by the contents of <a href="pds.html#oct18">octet 18</a> and <a href="timeu.html">Code table 4</a>.
+</td></tr>
+<tr valign="top">
+<td align="center">52-112</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">113</td><td align="left">Average of N forecasts (or initialized analyses); each product has forecast period of <a href="pds.html#oct19">P1</a> (<a href="pds.html#oct19">P1</a> = 0 for initialized analyses); products have <a href="pds.html#oct13">reference times</a> at intervals of <a href="pds.html#oct20">P2</a>, beginning at the given <a href="pds.html#oct13">reference time</a></td>
+</tr>
+<tr valign="top">
+<td align="center">114</td><td align="left">Accumulation of N forecasts (or initialized analyses); each product has forecast period of <a href="pds.html#oct19">P1</a> (<a href="pds.html#oct19">P1</a> = 0 for initialized analyses); products have <a href="pds.html#oct13">reference times</a> at intervals of <a href="pds.html#oct20">P2</a>, beginning at the given <a href="pds.html#oct13">reference time</a></td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="code115"></a>115</td><td align="left">Average of N forecasts, all with the same <a href="pds.html#oct13">reference time;</a> the first has a forecast period of <a href="pds.html#oct19">P1</a>, the remaining forecasts follow at intervals of <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center">116</td><td align="left">Accumulation of N forecasts, all with the same <a href="pds.html#oct13">reference time;</a> the first has a forecast period of <a href="pds.html#oct19">P1</a>, the remaining forecasts follow at intervals of <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center"><a name="code117"></a>117</td><td align="left">Average of N forecasts; the first has a forecast period of <a href="pds.html#oct19">P1</a>, the subsequent ones have forecast periods reduced from the previous one by an interval of <a href="pds.html#oct20">P2;</a> the <a href="pds.html#oct13">reference time</a> for the first is given in octets 13 to 17, the subsequent ones have <a href="pds.html#oct13">reference times</a> increased from the previous one by an interval of <a href="pds.html#oct20">P2</a>.  Thus all the forecasts have the same valid time, given by the <a href="pds.html#oct13"> reference time</a> + <a href="pds.html#oct19">P1</a></td>
+</tr>
+<tr valign="top">
+<td align="center">118</td><td align="left">Temporal variance, or covariance, of N initialized analyses; each product has forecast period of <a href="pds.html#oct19">P1</a> = 0; products have <a href="pds.html#oct13">reference times</a> at intervals of <a href="pds.html#oct20">P2</a>, beginning at the given <a href="pds.html#oct13">reference time</a></td>
+</tr>
+<tr valign="top">
+<td align="center">119</td><td align="left">Standard deviation of N forecasts, all with the same <a href="pds.html#oct13">reference time</a> with respect to the time average of forecasts; the first forecast has a forecast period of <a href="pds.html#oct19">P1</a>, the remaining forecasts follow at intervals of <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center">120-122</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">123</td><td align="left">Average of N uninitialized analyses, starting at the <a href="pds.html#oct13">reference time</a>, at intervals of <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center">124</td><td align="left">Accumulation of N uninitialized analyses, starting at the <a href="pds.html#oct13">reference time</a>, at intervals of <a href="pds.html#oct20">P2</a></td>
+</tr>
+<tr valign="top">
+<td align="center">125-254</td><td align="left">Reserved</td>
+</tr>
+</tbody></table>
+<br><br><br><br>NOTES:<br><br>
+<ol>
+<li>For analysis products, or the first of a series of analysis products, the <a href="pds.html#oct13">reference time</a> (octets 13 to 17) indicates the valid time.<br><br>
+</li><li>For forecast products, or the first of a series of forecast products, the <a href="pds.html#oct13">reference time</a> indicates the valid time of the analysis upon which the (first) forecast is based.<br><br>
+</li><li>Initialized analysis products are allocated code figures distinct from those allocated to unitialized analysis products.<br><br>
+</li><li><a href="#code10">Code figure 10</a> allows the period of a forecast to be extended over two octets; this is to assist with extended range forecasts.<br><br>
+</li><li>Where products or a series of products are averaged or accumulated, the number involved is to be represented in <a href="pds.html#oct22">octets 22 and 23</a> of <a href="pds.html">Section 1</a>, while any number missing is to be represented in <a href="pds.html#oct24">octet 24</a>.<br><br>
+</li><li>Forecasts of the accumulation or difference of some quantity (e.g.  quantitative precipitation forecasts), indicated by values of <a href="#code4">4 or 5</a> in <a href="pds.html#oct21">octet 21</a>, have a product valid time given by the <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a>; the period of accumulation, or difference, can be calculated as <a href="pds.html#oct20">P2</a> - <a href="pds.html#oct19">P1</a>.<br><br>
+</li><li>A few examples may help to clarify the use of Code table 5:<br>
+For analysis products, <a href="pds.html#oct19">P1</a> will be zero and the <a href="pds.html#oct21">time range indicator (octet 21)</a> will also be zero; for initialized products (sometimes called "zero hour forecasts"), <a href="pds.html#oct19">P1</a> will be zero, but <a href="pds.html#oct21">octet 21</a> will be set to 1.<br>
+For forecasts, typically, <a href="pds.html#oct19">P1</a> will contain the number of hours of the forecast (the <a href="pds.html#oct18">unit indicator given in octet 18</a> would be 1) and <a href="pds.html#oct21">octet 21</a> would contain a zero.<br>
+<a href="#code115">Code value 115</a> would be used, typically, for multiple day mean forecasts, all derived from the same initial conditions.<br>
+<a href="#code117">Code value 117</a> would be used, typically, for Monte Carlo type calculations; many forecasts valid at the same time from different initial (<a href="pds.html#oct13">reference</a>) times.<br>
+Averages, accumulations, and differences get a somewhat specialized treatment.  If <a href="pds.html#oct21">octet 21</a> has a value between <a href="#code2">2 and 5</a> (inclusive), then the <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct19">P1</a> is the initial date/time and the <a href="pds.html#oct13">reference time</a> + <a href="pds.html#oct20">P2</a> is the final date/time of the period over which averaging or accumulation takes place.  If, however, <a href="pds.html#oct21">octet 21</a> has a value of 113, 114, 115, 116, 117, 123, or 124, the <a href="pds.html#oct20">P2</a> specifies the time interval between each of the fields (or the forecast initial times) that have been averaged or accumulated.  These latter values of <a href="pds.html#oct21">octet 21</a> require the quantites averaged to be equally separated in time; the former values, 3 and 4 in particular, allow for irregular or unspecified intervals of time between the fields that are averaged or accumulated.
+</li></ol>
+<br><br><a href="#Top">Back to Top</a><br><br>
+</ul>
+</ul>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § ‡ ·                           /

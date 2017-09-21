@@ -1,0 +1,112 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_:http://www.nco.ncep.noaa.gov/pmb/docs/on388/appendixb.htmlPO+á<html><head>
+<meta name="generator" content="Corel WordPerfect 10">
+<meta http-equiv="content-Type" content="text/html; charset=utf-8">
+<style>
+p
+{
+	margin-top: 0px;
+	margin-bottom: 1px
+}
+body
+{
+	font-family: "Times New Roman", serif;
+	font-size: 12pt;
+	font-weight: normal;
+	font-style: normal
+}
+</style>
+
+</head>
+
+<body>
+<br>
+<center>
+<h3>APPENDIX B</h3>
+<br>
+<h3>WMO BULLETIN HEADERS</h3>
+<br>
+<h3>USED WITH EPA/CMAQ GRIB OUTPUT AT NCEP</h3>
+</center>
+<br>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>The Community Multiscale Air Quality (CMAQ) Model is produced by the National
+Centers for Environmental Prediction (NCEP) and is provided to the Environment Protection
+Agency (EPA).  </span></p>
+<br>
+<br>
+<p style="text-align: center"><span style="font-family: 'Times', serif"><b>WMO Headings have the format of T1T2A1A2ii CCCC.</b></span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><b>The CCCC for all CMAQ product WMO headings is KWBP.</b></span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><b>The T1 for all CMAQ product WMO headings is Z.</b></span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><b>CMAQ Data Type Designator (T2)</b></span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>L = 8-hour Backward Average</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>M = 1-hour Backward Average</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>N = 8-hour Averaged Categorical Ozone Concentration</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>O = 1-hour Averaged Categorical Ozone Concentration</span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><b>CMAQ Time Designator (A1A2)</b></span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AA= 0-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AB= 1-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AC= 2-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AD= 3-hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AE= 4-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AF= 5-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AG= 6-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AH= 7-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AI= 8-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AJ= 9-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AK= 10-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AL= 11-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AM= 12-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AN= 13-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AO= 14-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AP= 15-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AQ= 16-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AR= 17-Hour Forecast </span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AS= 18-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AT= 19-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AU= 20-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AV= 21-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AW= 22-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AX= 23-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AY= 24-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>AZ= 25-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BA= 26-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BB= 27-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BC= 28-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BD= 29-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BE= 30-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BF= 31-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BG= 32-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BH= 33-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BI= 34-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BJ= 35-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BK= 36-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BL= 37-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BM= 38-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BN= 39-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BO= 40-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BP= 41-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BQ= 42-Hour Forecast </span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BR= 43-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BS= 44-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BT= 45-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BU= 46-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BV= 47-Hour Forecast</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>BW= 48-Hour Forecast</span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><b>CMAQ Area Designator (ii)</b></span></p>
+<br>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>0-9 = Global  </span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>10-19 = Regional</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>20-29 = CONUS</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>30-39 = OCONUS</span></p>
+<p><span style="font-family: 'Times', serif"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>40-99 = National (41 = Northeast)</span><span style="font-family: 'Times', serif"></span></p>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § · ‚                           ,m

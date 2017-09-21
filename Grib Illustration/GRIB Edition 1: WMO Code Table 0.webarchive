@@ -1,0 +1,361 @@
+bplist00—_WebMainResource’	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_;https://rda.ucar.edu/docs/formats/grib/gribdoc/centers.htmlPO,w<html><head>
+<title>GRIB Edition 1: WMO Code Table 0</title>
+<link rel="stylesheet" type="text/css" href="http://dss.ucar.edu/css/stylegribdoc.css">
+</head>
+<body>
+<a name="Top"></a>
+<br><br>
+<ul>
+<ul>
+<big>WMO Code table 0 - Identification of originating/generating center</big><br><br>
+<table cellspacing="10">
+<tbody><tr valign="bottom">
+<td align="center"><em>Code<br>figure</em></td><td align="left"><em>Meaning</em></td>
+</tr>
+<tr valign="top">
+<td align="center">00</td><td align="left">WMO Secretariat</td>
+</tr>
+<tr valign="top">
+<td align="center">01</td><td align="left">Melbourne</td>
+</tr>
+<tr valign="top">
+<td align="center">02</td><td align="left">Melbourne</td>
+</tr>
+<tr valign="top">
+<td align="center">03</td><td align="left">Melbourne</td>
+</tr>
+<tr valign="top">
+<td align="center">04</td><td align="left">Moscow</td>
+</tr>
+<tr valign="top">
+<td align="center">05</td><td align="left">Moscow</td>
+</tr>
+<tr valign="top">
+<td align="center">06</td><td align="left">Moscow</td>
+</tr>
+<tr valign="top">
+<td align="center">07</td><td align="left">US National Weather Service, National Centers for Environmental Prediction (NCEP)</td>
+</tr>
+<tr valign="top">
+<td align="center">08</td><td align="left">US National Weather Service Telecommunications Gateway (NWSTG)</td>
+</tr>
+<tr valign="top">
+<td align="center">09</td><td align="left">US National Weather Service - Other</td>
+</tr>
+<tr valign="top">
+<td align="center">10</td><td align="left">Cairo (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">11</td><td align="left">Cairo (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">12</td><td align="left">Dakar (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">13</td><td align="left">Dakar (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">14</td><td align="left">Nairobi (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">15</td><td align="left">Nairobi (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">16</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">17</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">18</td><td align="left">Tunis-Casablanca (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">19</td><td align="left">Tunis-Casablanca (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">20</td><td align="left">Las Palmas (RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">21</td><td align="left">Algiers (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">22</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">23</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">24</td><td align="left">Pretoria (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">25</td><td align="left">La R√©union (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">26</td><td align="left">Khabarovsk (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">27</td><td align="left">Khabarovsk (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">28</td><td align="left">New Delhi (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">29</td><td align="left">New Delhi (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">30</td><td align="left">Novosibirsk (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">31</td><td align="left">Novosibirsk (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">32</td><td align="left">Tashkent (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">33</td><td align="left">Jeddah (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">34</td><td align="left">Tokyo (RSMC), Japan Meterological Agency</td>
+</tr>
+<tr valign="top">
+<td align="center">35</td><td align="left">Tokyo (RSMC), Japan Meterological Agency</td>
+</tr>
+<tr valign="top">
+<td align="center">36</td><td align="left">Bangkok</td>
+</tr>
+<tr valign="top">
+<td align="center">37</td><td align="left">Ulan Bator</td>
+</tr>
+<tr valign="top">
+<td align="center">38</td><td align="left">Beijing (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">39</td><td align="left">Beijing (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">40</td><td align="left">Seoul</td>
+</tr>
+<tr valign="top">
+<td align="center">41</td><td align="left">Buenos Aires (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">42</td><td align="left">Buenos Aires (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">43</td><td align="left">Brasilia (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">44</td><td align="left">Brasilia (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">45</td><td align="left">Santiago</td>
+</tr>
+<tr valign="top">
+<td align="center">46</td><td align="left">Brazilian Space Agency - INPE</td>
+</tr>
+<tr valign="top">
+<td align="center">47-50</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">51</td><td align="left">Miami (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">52</td><td align="left">Miami (RSMC/RAFC), National Hurricane Center</td>
+</tr>
+<tr valign="top">
+<td align="center">53</td><td align="left">Montreal (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">54</td><td align="left">Montreal (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">55</td><td align="left">San Francisco</td>
+</tr>
+<tr valign="top">
+<td align="center">56</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">57</td><td align="left">US Air Force - Air Force Global Weather Central</td>
+</tr>
+<tr valign="top">
+<td align="center">58</td><td align="left">Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, USA</td>
+</tr>
+<tr valign="top">
+<td align="center">59</td><td align="left">The NOAA Forecast Systems Laboratory, Boulder, CO, USA</td>
+</tr>
+<tr valign="top">
+<td align="center">60</td><td align="left">United States National Center for Atmospheric Research (NCAR)</td>
+</tr>
+<tr valign="top">
+<td align="center">61-63</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">64</td><td align="left">Honolulu</td>
+</tr>
+<tr valign="top">
+<td align="center">65</td><td align="left">Darwin (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">66</td><td align="left">Darwin (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">67</td><td align="left">Melbourne (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">68</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">69</td><td align="left">Wellington (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">70</td><td align="left">Wellington (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">71</td><td align="left">Nadi (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">72-73</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">74</td><td align="left">UK Meteorological Office, Bracknell (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">75</td><td align="left">UK Meteorological Office, Bracknell (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">76</td><td align="left">Moscow (RSMC/RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">77</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">78</td><td align="left">Offenbach (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">79</td><td align="left">Offenbach (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">80</td><td align="left">Rome (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">81</td><td align="left">Rome (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">82</td><td align="left">Norrk√∂ping</td>
+</tr>
+<tr valign="top">
+<td align="center">83</td><td align="left">Norrk√∂ping</td>
+</tr>
+<tr valign="top">
+<td align="center">84</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">85</td><td align="left">Toulouse (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">86</td><td align="left">Helsinki</td>
+</tr>
+<tr valign="top">
+<td align="center">87</td><td align="left">Belgrade</td>
+</tr>
+<tr valign="top">
+<td align="center">88</td><td align="left">Oslo</td>
+</tr>
+<tr valign="top">
+<td align="center">89</td><td align="left">Prague</td>
+</tr>
+<tr valign="top">
+<td align="center">90</td><td align="left">Episkopi</td>
+</tr>
+<tr valign="top">
+<td align="center">91</td><td align="left">Ankara</td>
+</tr>
+<tr valign="top">
+<td align="center">92</td><td align="left">Frankfurt/Main (RAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">93</td><td align="left">London (WAFC)</td>
+</tr>
+<tr valign="top">
+<td align="center">94</td><td align="left">Copenhagen</td>
+</tr>
+<tr valign="top">
+<td align="center">95</td><td align="left">Rota</td>
+</tr>
+<tr valign="top">
+<td align="center">96</td><td align="left">Athens</td>
+</tr>
+<tr valign="top">
+<td align="center">97</td><td align="left">European Space Agency (ESA)</td>
+</tr>
+<tr valign="top">
+<td align="center">98</td><td align="left">European Centre for Medium Range Weather Forecasts (ECMWF) (RSMC)</td>
+</tr>
+<tr valign="top">
+<td align="center">99</td><td align="left">De Bilt</td>
+</tr>
+<tr valign="top">
+<td align="center">100-109</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">110</td><td align="left">Hong Kong</td>
+</tr>
+<tr valign="top">
+<td align="center">111-139</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">140-159</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">160</td><td align="left">US NOAA/NESDIS</td>
+</tr>
+<tr valign="top">
+<td align="center">161-199</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">200-209</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">210</td><td align="left">Frascati (ESA/ESRIN)</td>
+</tr>
+<tr valign="top">
+<td align="center">211</td><td align="left">Lanion</td>
+</tr>
+<tr valign="top">
+<td align="center">212</td><td align="left">Lisboa</td>
+</tr>
+<tr valign="top">
+<td align="center">213</td><td align="left">Reykjavik</td>
+</tr>
+<tr valign="top">
+<td align="center">214-253</td><td align="left">Reserved</td>
+</tr>
+<tr valign="top">
+<td align="center">254</td><td align="left">EUMETSAT Operation Centre</td>
+</tr>
+<tr valign="top">
+<td align="center">255</td><td align="left">Missing value</td>
+</tr>
+</tbody></table>
+<br><br><br>NOTES:<br><br>
+<ol>
+<li>To indicate whether the originating/generating center is a sub-center or not, in <a href="pds.html#oct26">octet 26, Section 1</a>, use the following:
+<table cellspacing="10">
+<tbody><tr valign="bottom">
+<td align="center"><em>Code<br></em><figure><em></em></figure></td><td align="left"><em>Meaning</em></td>
+</tr>
+<tr valign="top">
+<td align="center">0</td><td align="left">Not a sub-center, the originating/generating center is the center defined by <a href="pds.html#oct5">octet 5, Section 1</a>.</td>
+</tr>
+<tr valign="top">
+<td align="center">1-254</td><td align="left">Identifier of the sub-center which is the originating/generating center.  The identifier of the sub-center is allocated by the associated center which is defined by <a href="pds.html#oct5">octet 5, Section 1</a>.</td>
+</tr>
+</tbody></table>
+</li></ol>
+<br><br><br><a href="#Top">Back to Top</a><br><br>
+</ul>
+</ul>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k Ç î û § ‚ „                           -^

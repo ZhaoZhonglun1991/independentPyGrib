@@ -1,0 +1,405 @@
+bplist00Ñ_WebMainResourceÕ	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_@http://www.nco.ncep.noaa.gov/pmb/docs/grib2/grib2_table4-0.shtmlPOF¿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+  <meta name="Keywords" content="GRIB">
+  <title>GRIBv2 - Code Table 4.0</title>
+</head>
+<body style="color: rgb(0, 0, 0); background-color: white;" link="#0000ff" vlink="#551a8b" alink="#ff0000">
+<br>
+<center>
+<h3>GRIB2 - CODE TABLE 4.0</h3>
+<h4><span style="color: blue;">PRODUCT DEFINITION TEMPLATE NUMBER</span></h4>
+<h4>In Section 4, Octet 8-9<br></h4>
+</center>
+<center><b><span style="font-size: 9pt;">Revised 07/12/2016<br>
+<span style="color: red;">Red text depicts changes made since 08/25/2015</span></span></b><br>
+</center>
+<br>
+<br>
+<center>
+<table border="1" cellspacing="0" cellpadding="5" style="width: 80%;">
+  <tbody>
+    <tr>
+      <th style="text-align: center; background-color: lightgrey;">Number</th>
+      <th style="text-align: center; background-color: lightgrey;">Meaning</th>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0<br>
+      </td>
+      <td>Analysis or forecast at a horizontal level or in a horizontal
+layer at a point in time.&nbsp; (see <a href="grib2_temp4-0.shtml">Template
+4.0</a>)<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1<br>
+      </td>
+      <td style="vertical-align: top;">Individual ensemble forecast,
+control and perturbed, at a horizontal level or in a horizontal layer
+at a point in time.&nbsp; (see <a href="grib2_temp4-1.shtml">Template
+4.1</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">2<br>
+      </td>
+      <td style="vertical-align: top;">Derived forecasts based on all
+ensemble members at a horizontal level or in a horizontal layer at a
+point in time.&nbsp; (see <a href="grib2_temp4-2.shtml">Template
+4.2</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">3<br>
+      </td>
+      <td style="vertical-align: top;">Derived forecasts based on a
+cluster of ensemble members over a rectangular area at a horizontal
+level or in a horizontal layer at a point in time.&nbsp; (see <a href="grib2_temp4-3.shtml">Template
+4.3</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">4<br>
+      </td>
+      <td style="vertical-align: top;">Derived forecasts based on a
+cluster of ensemble members over a circular area at a horizontal level
+or in a horizontal layer at a
+point in time.&nbsp; (see <a href="grib2_temp4-4.shtml">Template
+4.4</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">5<br>
+      </td>
+      <td style="vertical-align: top;">Probability forecasts at a
+horizontal level or in a horizontal layer at a point in time.&nbsp;
+(see <a href="grib2_temp4-5.shtml">Template
+4.5</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">6<br>
+      </td>
+      <td style="vertical-align: top;">Percentile forecasts at a
+horizontal level or in a horizontal layer at a point in time.&nbsp;
+(see <a href="grib2_temp4-6.shtml">Template
+4.6</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">7</td>
+      <td style="vertical-align: top;">Analysis or forecast error at a
+horizontal level or in a horizontal layer at a point in time.&nbsp;
+(see <a href="grib2_temp4-7.shtml">Template 4.7</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">8<br></td>
+      <td style="vertical-align: top;">Average, accumulation, extreme
+values or other statistically processed values at a horizontal level or
+in a horizontal layer in a continuous or non-continuous time
+interval.&nbsp; (see <a href="grib2_temp4-8.shtml">Template 4.8</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">9<br>
+      </td>
+      <td style="vertical-align: top;">Probability forecasts at a
+horizontal level or in a horizontal layer in a continuous or
+non-continuous time interval.&nbsp; (see <a href="grib2_temp4-9.shtml">Template
+4.9</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">10<br>
+      </td>
+      <td style="vertical-align: top;">Percentile forecasts at a
+horizontal level or in a horizontal layer in a continuous or
+non-continuous time interval.&nbsp; (see <a href="grib2_temp4-10.shtml">Template
+4.10</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">11<br>
+      </td>
+      <td style="vertical-align: top;">Individual ensemble forecast,
+control and perturbed, at a horizontal level or in a horizontal layer,
+in a continuous or non-continuous time interval.&nbsp; (see <a href="grib2_temp4-11.shtml">Template
+4.11</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">12<br>
+      </td>
+      <td style="vertical-align: top;">Derived forecasts based on all
+ensemble members at a horizontal level or in a horizontal layer, in a
+continuous or non-continuous time interval.&nbsp; (see <a href="grib2_temp4-12.shtml">Template
+4.12</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">13<br>
+      </td>
+      <td style="vertical-align: top;">Derived forecasts based on a
+cluster of ensemble members over a rectangular area at a horizontal
+level or in a horizontal layer, in a continuous or non-continuous time
+interval.&nbsp; (see <a href="grib2_temp4-13.shtml">Template
+4.13</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">14<br>
+      </td>
+      <td style="vertical-align: top;">Derived forecasts based on a
+cluster of ensemble members over a circular area at a horizontal level
+or in a horizontal layer, in a continuous or non-continuous time
+interval.&nbsp; (see <a href="grib2_temp4-14.shtml">Template
+4.14</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">15<br></td>
+      <td style="vertical-align: top;">Average, accumulation, extreme
+values or other statistically-processed values over a spatial area at a horizontal
+level or in a horizontal layer at a point in time.&nbsp; 
+(see <a href="grib2_temp4-15.shtml">Template 4.15</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">16-19<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">20<br>
+      </td>
+      <td style="vertical-align: top;">Radar product&nbsp; (see <a href="grib2_temp4-20.shtml">Template
+4.20</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">21-29<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">30<br>
+      </td>
+      <td style="vertical-align: top;">Satellite product&nbsp; (see <a href="grib2_temp4-30.shtml">Template 4.30</a>)<br>
+      <b>NOTE:</b> This template is deprecated. Template 4.31 should be used instead.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">31<br></td>
+      <td style="vertical-align: top;">Satellite product&nbsp; (see <a href="grib2_temp4-31.shtml">Template 4.31</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">32<br></td>
+      <td style="vertical-align: top;">Analysis or forecast at a horizontal level or in a horizontal
+layer at a point in time for simulate (synthetic) staellite data (see <a href="grib2_temp4-32.shtml">Template
+4.32</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">33<br></td>
+      <td style="vertical-align: top; ">Individual Ensemble Forecast, control and perturbed, at
+a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data
+(see <a href="grib2_temp4-33.shtml">Template 4.33</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">34<br></td>
+      <td style="vertical-align: top; ">Individual Ensemble Forecast, control and perturbed, at a
+horizontal level or in a horizontal layer, in a continuous or non-continuous interval for
+simulated (synthetic) satellite data(see <a href="grib2_temp4-34.shtml">Template 4.34</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">35-39<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">40<br></td>
+      <td style="vertical-align: top; ">Analysis or forecast at a horizontal level or in a horizontal
+layer at a point in time for atmospheric chemical constituents.&nbsp; (see <a href="grib2_temp4-40.shtml">Template
+4.40</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">41<br></td>
+      <td style="vertical-align: top; ">Individual ensemble forecast,
+control and perturbed, at a horizontal level or in a horizontal layer
+at a point in time for atmospheric chemical constituents.&nbsp; (see <a href="grib2_temp4-41.shtml">Template
+4.41</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">42<br></td>
+      <td style="vertical-align: top; ">Average, accumulation, and/or extreme
+values or other statistically processed values at a horizontal level or
+in a horizontal layer in a continuous or non-continuous time
+interval for atmospheric chemical constituents.&nbsp; (see <a href="grib2_temp4-42.shtml">Template 4.42</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">43<br></td>
+      <td style="vertical-align: top; ">Individual ensemble forecast,
+control and perturbed, at a horizontal level or in a horizontal layer,
+in a continuous or non-continuous time interval for atmospheric chemical constituents.&nbsp; (see <a href="grib2_temp4-43.shtml">Template 4.43</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">44<br></td>
+      <td style="vertical-align: top; ">Analysis or forecast at a horizontal level or in a horizontal
+layer at a point in time for aerosol.&nbsp; (see <a href="grib2_temp4-44.shtml">Template
+4.44</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">45<br></td>
+      <td style="vertical-align: top; ">Individual ensemble forecast,
+control and perturbed, at a horizontal level or in a horizontal layer,
+in a continuous or non-continuous time interval for aerosol.&nbsp; (see <a href="grib2_temp4-45.shtml">Template 4.45</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">46<br></td>
+      <td style="vertical-align: top; ">Average, accumulation, and/or extreme
+values or other statistically processed values at a horizontal level or
+in a horizontal layer in a continuous or non-continuous time
+interval for aerosol.&nbsp; (see <a href="grib2_temp4-46.shtml">Template 4.46</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">47<br></td>
+      <td style="vertical-align: top; ">Individual ensemble forecast,
+control and perturbed, at a horizontal level or in a horizontal layer,
+in a continuous or non-continuous time interval for aerosol.&nbsp; (see <a href="grib2_temp4-47.shtml">Template 4.47</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">48<br></td>
+      <td style="vertical-align: top; ">Analysis or forecast at a horizontal level or in a horizontal
+layer at a point in time for aerosol.&nbsp; (see <a href="grib2_temp4-48.shtml">Template
+4.48</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">49-50</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">51<br></td>
+      <td style="vertical-align: top; ">Categorical forecast at a horizontal level or in a horizontal
+layer at a point in time.&nbsp; (see <a href="grib2_temp4-51.shtml">Template 4.51</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">52</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">53</td>
+      <td style="vertical-align: top; ">Partitioned parameters at a horizontal 
+level or horizontal layer at a point in time.&nbsp; (see <a href="grib2_temp4-53.shtml">Template 4.53</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">54</td>
+      <td style="vertical-align: top; ">Individual ensemble forecast, control and perturbed, at
+a horizontal level or in a horizontal layer at a point in time for partitioned parameters. &nbsp; (see
+<a href="grib2_temp4-54.shtml">Template 4.54</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">55</td>
+      <td style="vertical-align: top; color: red; ">Spatio-temporal changing tiles at a horizontal
+level or horizontal layer at a point in time (see <a href="grib2_temp4-55.shtml">Template 4.55</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">56</td>
+      <td style="vertical-align: top; color: red;">Individual ensemble forecast, control and perturbed, at
+a horizontal level or in a horizontal layer at a point in time for spatio-temporal changing tile parameters. &nbsp; (see
+<a href="grib2_temp4-56.shtml">Template 4.56</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; color: red;">57</td>
+      <td style="vertical-align: top; color: red; ">Analysis or forecast at a horizontal
+level or in a horizontal layer at a point in time for atmospheric chemical constituents based on a distribution function
+(see <a href="grib2_temp4-57.shtml">Template 4.57</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">58-59</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: black;">60<br></td>
+      <td style="vertical-align: top; color:black;">Individual Ensemble Reforecast, control and perturbed, at
+a horizontal level or in a horizontal layer at a point in time (see <a href="grib2_temp4-60.shtml">Template 4.60</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;color: black;">61<br></td>
+      <td style="vertical-align: top; color: black;">Individual Ensemble Reforecast, control and perturbed, at
+a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval (see <a href="grib2_temp4-61.shtml">Template 4.61</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">62-90</td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">91<br></td>
+      <td style="vertical-align: top; ">Categorical forecast at a horizontal level or in a horizontal
+layer in a continuous or non-continuous time interval.&nbsp; (see <a href="grib2_temp4-91.shtml">Template 4.91</a>)<br></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">92-253<br></td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">254<br>
+      </td>
+      <td style="vertical-align: top;">CCITT IA5 character string&nbsp;
+(see <a href="grib2_temp4-254.shtml">Template
+4.254</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">255-999<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1000<br>
+      </td>
+      <td style="vertical-align: top;">Cross-section of analysis and
+forecast at a point in time.&nbsp; (see <a href="grib2_temp4-1000.shtml">Template
+4.1000</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1001<br>
+      </td>
+      <td style="vertical-align: top;">Cross-section of averaged or
+otherwise statistically processed analysis or forecast over a range of
+time.&nbsp; (see <a href="grib2_temp4-1001.shtml">Template
+4.1001</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1002<br>
+      </td>
+      <td style="vertical-align: top;">Cross-section of analysis and
+forecast, averaged or otherwise statistically-processed over latitude
+or longitude.&nbsp; (see <a href="grib2_temp4-1002.shtml">Template
+4.1002</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1003-1099<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1100<br>
+      </td>
+      <td style="vertical-align: top;">Hovmoller-type grid with no
+averaging or other statistical processing&nbsp; (see <a href="grib2_temp4-1100.shtml">Template
+4.1100</a>) </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1101<br>
+      </td>
+      <td style="vertical-align: top;">Hovmoller-type grid with
+averaging or other statistical processing&nbsp; (see <a href="grib2_temp4-1101.shtml">Template
+4.1101</a>)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;">1102-32767<br>
+      </td>
+      <td style="vertical-align: top;">Reserved</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center; background-color: lightgrey;">32768-65534<br></td>
+      <td style="vertical-align: top; background-color: lightgrey;">Reserved for Local Use<br></td>
+    </tr>
+    
+    <tr>
+      <td style="vertical-align: top; text-align: center;">65535<br>
+      </td>
+      <td style="vertical-align: top;">Missing<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<br>
+<br>
+<center><a href="/pmb/docs/grib2/grib2_doc.shtml">Back</a></center>
+<br>
+<br>
+
+
+<embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>    ( > \ k ‚ ” ž ¤ ç è                           G«

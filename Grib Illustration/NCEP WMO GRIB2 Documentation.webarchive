@@ -1,0 +1,380 @@
+bplist00Ò_WebMainResource_WebSubresourcesÕ	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUutf-8_file:///index.htmlPOŠ<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>NCEP WMO GRIB2 Documentation</title>
+  <meta name="Author" content="PMB">
+  <meta name="Description" content="The NCO Production Management Branch
+                   Home Page">
+  <meta name="Keywords" content="Production Management Branch,
+              NCEP Central Operations, Central Operations,
+              National Centers for Environmental Prediction, 
+              National Weather Service">
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1504.81">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 10.0px; font: 9.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 14.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 17.0px; font: 13.9px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 28.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 28.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px Times; color: #0000ee; -webkit-text-stroke: #000099}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px Times; color: #000099; -webkit-text-stroke: #000099}
+    p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 13.0px; font: 10.0px Times; color: #0000ee; -webkit-text-stroke: #000099}
+    span.s1 {font-kerning: none}
+    span.s2 {font: 12.0px Times; font-kerning: none}
+    span.s3 {text-decoration: underline ; font-kerning: none; color: #000099; -webkit-text-stroke: 0px #000099}
+    span.s4 {text-decoration: underline ; font-kerning: none}
+    span.s5 {font-kerning: none; color: #0000ee}
+    span.s6 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+    span.s7 {font-kerning: none; color: #000099; -webkit-text-stroke: 0px #000099}
+    table.t1 {margin: 0.0px 137.2px 0.0px 137.2px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #808080 #808080 #808080 #808080}
+    table.t2 {border-style: solid; border-width: 2.0px 2.0px 2.0px 2.0px; border-color: #808080 #808080 #808080 #808080}
+    td.td1 {width: 464.4px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+    td.td2 {width: 497.6px; margin: 1.0px 1.0px 1.0px 1.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #808080 #808080 #808080 #808080; padding: 2.0px 2.0px 2.0px 2.0px}
+    td.td3 {width: 196.0px; margin: 0.5px 0.5px 0.5px 0.5px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #808080 #808080 #808080 #808080; padding: 2.0px 2.0px 2.0px 2.0px}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"><img src="file:///ncep_logo.gif" alt="ncep_logo.gif"></span></p>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<p class="p2"><span class="s1"><b>WHERE AMERICA'S CLIMATE AND WEATHER SERVICES BEGIN</b></span><span class="s2"><span class="Apple-converted-space">Â </span></span></p>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<p class="p3"><span class="s2">Â  </span><span class="s1"><b>NCEP WMO GRIB2 Documentation</b></span></p>
+<p class="p1"><span class="s1"><b>Version 17.0.0 - May 04, 2016</b></span></p>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<p class="p4"><span class="s1"><b>Please see the </b></span><span class="s3"><b>disclaimer</b></span><span class="s1"><b> at the bottom of this page</b></span></p>
+<p class="p5"><span class="s1"><br>
+</span></p>
+<p class="p1"><span class="s1"><img src="file:///line.gif" alt="line.gif"></span></p>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td1">
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> Introduction</span></p>
+        <p class="p6"><span class="s1">Revision History<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%200.webarchive"><span class="s3">Section 0</span></a> - Indicator Section<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%200.0.webarchive"><span class="s3">Table 0.0</span></a> - Discipline of Processed Data</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%201.webarchive"><span class="s3">Section 1</span></a> - Identification Section</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%201.0.webarchive"><span class="s3">Table 1.0</span></a> - GRIB Master Tables Version Number</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%201.1.webarchive"><span class="s3">Table 1.1</span></a> - GRIB Local Tables Version Number<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%201.2.webarchive"><span class="s3">Table 1.2</span></a> - Significance of Reference Time</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%201.3.webarchive"><span class="s3">Table 1.3</span></a> - Production Status of Data</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%201.4.webarchive"><span class="s3">Table 1.4</span></a> - Type of Data</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%201.5.webarchive"><span class="s3">Table 1.5</span></a> - Identification Template Number</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20ID%20Template%201.0.webarchive"><span class="s3">Id Template 1.0</span></a> - Calendar Definition</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20ID%20Template%201.1.webarchive"><span class="s3">Id Template 1.1</span></a> - Paleontological Offset</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20ID%20Template%201.2.webarchive"><span class="s3">Id Template 1.2</span></a> - Calendar Definition and Paleontological Offset</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%201.6.webarchive"><span class="s3">Table 1.6</span></a> - Type of Calendar</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%202.webarchive"><span class="s3">Section 2</span></a> - Local Use Section</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%203.webarchive"><span class="s3">Section 3</span></a> - Grid Definition Section</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.0.webarchive"><span class="s3">Table 3.0</span></a> - Source of Grid Definition</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.1.webarchive"><span class="s3">Table 3.1</span></a> - Grid Definition Template Number</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.2.webarchive"><span class="s3">Table 3.2</span></a> - Shape of the Reference System</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.3.webarchive"><span class="s3">Table 3.3</span></a> - Resolution and Component Flags</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.4.webarchive"><span class="s3">Table 3.4</span></a> - Scanning Mode</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.5.webarchive"><span class="s3">Table 3.5</span></a> - Projection Center</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.6.webarchive"><span class="s3">Table 3.6</span></a> - Spectral Data Representation Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.7.webarchive"><span class="s3">Table 3.7</span></a> - Spectral Data Representation Mode</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.8.webarchive"><span class="s3">Table 3.8</span></a> - Grid Point Position</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.9.webarchive"><span class="s3">Table 3.9</span></a> - Numbering Order of Diamonds</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.10.webarchive"><span class="s3">Table 3.10</span></a> - Scanning Mode for One Diamond</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.11.webarchive"><span class="s3">Table 3.11</span></a> - Interpretation of List of Numbers at end of section 3</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.15.webarchive"><span class="s3">Table 3.15</span></a> - Physical Meaning of Vertical Coordinate</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.20.webarchive"><span class="s3">Table 3.20</span></a> - Type of Horizontal Line</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%203.21.webarchive"><span class="s3">Table 3.21</span></a> - Vertical Dimension Coordinate Values Definition</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%204.webarchive"><span class="s3">Section 4</span></a> - Product Definition Section</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.0.webarchive"><span class="s3">Table 4.0</span></a> - Product Definition Template Number</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.1.webarchive"><span class="s3">Table 4.1</span></a> - Parameter Category by Product Discipline</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.2.webarchive"><span class="s3">Table 4.2</span></a> - Parameter Number by Product Discipline and Parameter Category</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.3.webarchive"><span class="s3">Table 4.3</span></a> - Type of Generating Process</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.4.webarchive"><span class="s3">Table 4.4</span></a> - Indicator of Unit of Time Range</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.5.webarchive"><span class="s3">Table 4.5</span></a> - Fixed Surface Types and Units</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.6.webarchive"><span class="s3">Table 4.6</span></a> - Type of Ensemble Forecast</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.7.webarchive"><span class="s3">Table 4.7</span></a> - Derived Forecast</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.8.webarchive"><span class="s3">Table 4.8</span></a> - Clustering Method</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.9.webarchive"><span class="s3">Table 4.9</span></a> - Probability Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.10.webarchive"><span class="s3">Table 4.10</span></a> - Type of Statistical Processing</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.11.webarchive"><span class="s3">Table 4.11</span></a> - Type of Time Intervals</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.12.webarchive"><span class="s3">Table 4.12</span></a> - Operating Mode</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.13.webarchive"><span class="s3">Table 4.13</span></a> - Quality Control Indicator</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.14.webarchive"><span class="s3">Table 4.14</span></a> - Clutter Filter Indicator</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.15.webarchive"><span class="s3">Table 4.15</span></a> - Type of Spatial Processing used to arrive at given</span></p>
+        <p class="p6"><span class="s1">Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â  data value from the source data</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.91.webarchive"><span class="s3">Table 4.91</span></a> - Type of Interval</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.201.webarchive"><span class="s3">Table 4.201</span></a> - Precipitation Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.202.webarchive"><span class="s3">Table 4.202</span></a> - Precipitable Water Category</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.203.webarchive"><span class="s3">Table 4.203</span></a> - Cloud Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.204.webarchive"><span class="s3">Table 4.204</span></a> - Thunderstorm Coverage</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.205.webarchive"><span class="s3">Table 4.205</span></a> - Presence of Aerosol</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.206.webarchive"><span class="s3">Table 4.206</span></a> - Volcanic Ash</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.207.webarchive"><span class="s3">Table 4.207</span></a> - Icing</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.208.webarchive"><span class="s3">Table 4.208</span></a> - Turbulence</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.209.webarchive"><span class="s3">Table 4.209</span></a> - Planetary Boundary-Layer Regime</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.210.webarchive"><span class="s3">Table 4.210</span></a> - Contrail Intensity</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.211.webarchive"><span class="s3">Table 4.211</span></a> - Contrail Engine Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.212.webarchive"><span class="s3">Table 4.212</span></a> - Land Use</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.213.webarchive"><span class="s3">Table 4.213</span></a> - Soil Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.215.webarchive"><span class="s3">Table 4.215</span></a> - Remotely Sensed Snow Coverage</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.216.webarchive"><span class="s3">Table 4.216</span></a> - Elevation of Snow Covered Terrain</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.217.webarchive"><span class="s3">Table 4.217</span></a> - Cloud Mask Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.218.webarchive"><span class="s3">Table 4.218</span></a> - Pixel Scene Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.219.webarchive"><span class="s3">Table 4.219</span></a> - Cloud Top Height Quality Indicator</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.220.webarchive"><span class="s3">Table 4.220</span></a> - Horizontal Dimension Processed</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.221.webarchive"><span class="s3">Table 4.221</span></a> - Treatment of Missing Data<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.222.webarchive"><span class="s3">Table 4.222</span></a> - Categorical Result<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.223.webarchive"><span class="s3">Table 4.223</span></a> - Fire Detection Indicator<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.224.webarchive"><span class="s3">Table 4.224</span></a> - Categorical Outlook</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.225.webarchive"><span class="s3">Table 4.225</span></a> - Weather</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.227.webarchive"><span class="s3">Table 4.227</span></a> - Icing Scenario (Weather/Cloud Classification)</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.230.webarchive"><span class="s3">Table 4.230</span></a> - Atmospheric Chemical or Physical Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.233.webarchive"><span class="s3">Table 4.233</span></a> - Aerosol Type</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.234.webarchive"><span class="s3">Table 4.234</span></a> - Canopy Cover Fraction</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.235.webarchive"><span class="s3">Table 4.235</span></a> - Wave-Generated Wave Spectral Description</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.236.webarchive"><span class="s3">Table 4.236</span></a> - Soil Texture Cover Fraction</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.240.webarchive"><span class="s3">Table 4.240</span></a> - Type of Distribution Function</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.241.webarchive"><span class="s3">Table 4.241</span></a> - Coverage Attributes</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.242.webarchive"><span class="s3">Table 4.242</span></a> - Tile Classification</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.243.webarchive"><span class="s3">Table 4.243</span></a> - Tile Class</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%204.244.webarchive"><span class="s3">Table 4.244</span></a> - Quality Indicator</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%205.webarchive"><span class="s3">Section 5</span></a> - Data Representation Section</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.0.webarchive"><span class="s3">Table 5.0</span></a> - Data Representation Template Number<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.1.webarchive"><span class="s3">Table 5.1</span></a> - Type of Original Field Values</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.2.webarchive"><span class="s3">Table 5.2</span></a> - Matrix Coordinate Value Function Definition<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.3.webarchive"><span class="s3">Table 5.3</span></a> - Matrix Coordinate Parameter</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.4.webarchive"><span class="s3">Table 5.4</span></a> - Group Splitting Method</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.5.webarchive"><span class="s3">Table 5.5</span></a> - Missing Value Management for Complex Packing</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.6.webarchive"><span class="s3">Table 5.6</span></a> - Order of Spatial Differencing</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.7.webarchive"><span class="s3">Table 5.7</span></a> - Precision of Floating Point Numbers<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%205.40.webarchive"><span class="s3">Table 5.40</span></a> - Type of Compression<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%206.webarchive"><span class="s3">Section 6</span></a> - Bit Map Section<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%206.0.webarchive"><span class="s3">Table 6.0</span></a> - Bit Map Indicator</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%207.webarchive"><span class="s3">Section 7</span></a> -Â  Data Section<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif">Â  <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Table%207.0.webarchive"><span class="s3">Table 7.0</span></a> - Data Template Number</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/GRIBv2%20-%20Section%208.webarchive"><span class="s3">Section 8</span></a> - End Section</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/ON-388%20-%20Appendix%20A.webarchive"><span class="s3">Appendix A</span></a> - Outline of WMO Headers Used With GRIB1 and GRIB2<span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/appendixb.webarchive"><span class="s3">Appendix B</span></a> - Outline of WMO Headers for the EPA/CMAQ model</span></p>
+        <p class="p6"><span class="s1">Â <span class="Apple-converted-space">Â </span></span></p>
+        <p class="p6"><span class="s1"><img src="file:///blu_marb.gif" alt="blu_marb.gif"> <a href="file:///Users/Kallan/Documents/Grib/ON388%20-%20GRIB%20Table%20B%20-%20Grid%20Identification.webarchive"><span class="s3">Appendix C</span></a> - Definition of Commonly used NCEP Grids<span class="Apple-converted-space">Â </span></span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p7"><span class="s1"><br>
+</span></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="top" class="td2">
+        <p class="p6"><span class="s1">Disclaimer:</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p6"><span class="s1">This web page and the pages it links to are for the use of NOAA employees and their customers to facilitate in the transfer of meteorological data in WMO GRIB2 format.Â  Nothing in these pages should be considered official.Â  To obtain official documentation on the WMO GRIB2 data standard, please visit the WMO web site.</span></p>
+        <p class="p6"><span class="s1"><br>
+</span></p>
+        <p class="p8"><span class="s4"><a href="http://www.wmo.int/pages/prog/www/WMOCodes.html">http://www.wmo.int/pages/prog/www/WMOCodes.html</a></span></p>
+        <p class="p1"><span class="s1"><br>
+</span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<p class="p7"><span class="s1"><br>
+</span></p>
+<p class="p1"><span class="s1"><img src="file:///line.gif" alt="line.gif"></span></p>
+<p class="p6"><span class="s1"><br>
+</span></p>
+<p class="p1"><span class="s1"><b>Documentation and Software for NCEP WMO GRIB1 can be found here </b><a href="http://www.nco.ncep.noaa.gov/pmb/codes/GRIB1"><span class="s3"><b>GRIB1</b></span></a></span></p>
+<p class="p6"><span class="s1"><br>
+</span></p>
+<p class="p1"><span class="s1"><b>Information on NCEP's use of WMO GRIB2 can be found here </b><a href="http://www.nco.ncep.noaa.gov/pmb/docs/grib2"><span class="s3"><b>GRIB2</b></span></a></span></p>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<p class="p1"><span class="s1"><b><img src="file:///line.gif" alt="line.gif"></b></span></p>
+<p class="p6"><span class="s1"><br>
+</span></p>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<p class="p1"><span class="s1"><br>
+</span></p>
+<p class="p9"><span class="s5"><a href="http://www.doc.gov/"><b><img src="file:///doc_logo.gif" alt="doc_logo.gif"></b></a></span><span class="s6"><b> </b><a href="http://www.noaa.gov/"><span class="s7"><b><img src="file:///noaa_logo.gif" alt="noaa_logo.gif"></b></span></a><b> </b><a href="http://www.nws.noaa.gov/"><span class="s7"><b><img src="file:///nws_logo.gif" alt="nws_logo.gif"></b></span></a><b> </b><a href="http://www.ncep.noaa.gov/"><span class="s7"><b><img src="file:///ncep_80.gif" alt="ncep_80.gif"></b></span></a></span></p>
+<p class="p1"><span class="s1"><b><i>For questions related to this website, send mail to </i></b><a href="mailto:NCEP.List.PMB-PCSP@noaa.gov"><span class="s3"><b><i>Web Manager</i></b></span></a><b><i>.</i></b></span></p>
+<p class="p1"><span class="s1"><b><i>NCEP/NCO Production Management Branch<span class="Apple-converted-space">Â </span></i></b></span></p>
+<table cellspacing="0" cellpadding="0" class="t2">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td3">
+        <p class="p10"><span class="s4"><a href="http://www.nws.noaa.gov/disclaimer.html"><b><i>National Weather Service Web Page Disclaimer</i></b></a></span><span class="s6"><span class="Apple-converted-space">Â </span></span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p2"><span class="s1"><b>Last Modified:Monday, 10-May-2005 20:06:33 UTC</b></span><span class="s2"><b><span class="Apple-converted-space">Â </span></b></span></p>
+</body>
+</html>
+§!%)Ô_WebResourceResponseYimage/gif_file:///noaa_logo.gifOÿbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///noaa_logo.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A¾Â+¾‘áYimage/gifu#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ô Ù ä í ó ö ÿ#14BTWm             8              oOuGIF89aY P ³  BRZY‰§¥ÀÖ÷Ø÷Dß÷–çöÄÄÕÖÔàÖëôëğôøñóùùüûÿûÿÿÿ!ù   ,    Y P  şÉI«½8ëÍ»ÿ“‚Ã(	ÈP""è¾`+èZ“eIÎpïOªUJÄ­r:ÓoÙ©J—KÍh4s‹1&AÁ+qÇ]îTF`­A’…åW^ÉîøûšXçOãBsu ‡ˆ †‰ˆzu)€pt4‹‡y™yŠ‰”)	U’t@‹wŠ†¨ª©œx­ŠZ@D¥£h|)§ª»©«™®¼±µ£ a'˜½­«Ë¬¯Ï§ÃÅ8²¹ÍØÌ¾®À¿ Ö@¶¢)˜š°¾ÛĞÎ½†ÖR€OVÈÙÍ¼ööÊĞŠÃãL·Ø¡6Û.gW…;¶Å]¾eõ²¡ëVOá	(Ä>(8Pà¶Nşœ’½y)Ÿ¹ bú½83Ã£ÇgìºİhîÛ,20rhyPN“ª‚"h— AƒQ]0àÎ€A›Î<´ãÁ,t<(ôR¦ €@lØ ÂXğ €€¡luéÉ]VG ÉÉC«Ö¦/1@ûv,‚†,ğ47ì±i!ÿª{o^†`øøõ›Ôçàob•ŞQÌ˜†ÜÇz%?CPù®Ö!¸iŞÌY ¢£ #@:¬ßµâíŒj@ëÊ—õ~ÈJ»ö¦ ƒİB><zqXÓP£PİîxeN”|˜Òœ6qEOßİ»ñÖÂ‘Ç®ò~÷ b\¬(O;áQécşU‘ä|×µb}
+@@'Äı¹¢‚MIÑÎ6¹Å!
+I)BŸ`â°id…´É‡Ê9ÉôR#	¥5¢&šˆ(àd‹æÙæA'i3¢}9šè„J>J€£@jEÜsB®£Ş!™$(Ò2	NŞ§@”÷@tL¿À`˜[î¸œ%šXÀ˜,ºø>T‰åq8n)ç85‰€–rÒIáyúà™ˆŞõéçƒ2Èãã„êh(gjS:Åeùh’KJh&	e=)êÓ&jWé£(¦H
+N¥š
+ä”ejÌõ}ºe¬˜]@ª¯§‘O.µZÙ«ŸşvÉÁ Ôúë­1éºé>­1Ûl„mT m›ÔjZd§Ëú
++ >ó-¸,&„,«•)°®¯±Â™îóšzis•CUË²iî¯ÒêäÀ9p ‹\½»ˆ²ò"¼íDZğÚ~
+…€Uû°]Küi¤X\ªğ¾›IÅˆ"O¯ÄsB"*( §À"`ÀÂ‡â–o
+`ô
+Í3ÂÊš®K‹|ÒQR˜ôÌ~â7 ¡´¡®Ô¾úüóÑ,kU´à`Ôæ+é$¤¶¾ÍÉÌ6Ø-Ü\ÁF4Lp÷Ü>ï«ôÜÄÎ’ÑÅÑ¾¥Ï@Ó–¶âôæ÷ìr‡ısÙşü­xÓXø€5¬åÙùÀn.Q¹ÊhËüøè›ìƒæ¬Çcé=qºì£×ìƒÎŞâî»ŸnóÅ°ÿ¶›}NJl·/qŞ',1¬ó±¿ßÓS¯8òL‚ÑuÅkß&@ÿ`%aœâKì&ˆÊË~úÓŞãõ…ÿ£ë‡S† õ~?ÁE(F¬‘¹ÿ=(VÑVzd?ñ!PĞÛş®‚±Ï<ÃxÇ4úğ¶AYi?«@$(‰*0°€»Ü#Ğ>qgSÛÀÔ¦ÂQyaƒéQax´’ÍuTØá6… q9|há©@…ùMÂY"ä1? 6}{á'¥ˆÄ**gx%NÅÅÚyÉ
+£"B¡Ä2æ$[Y€¤H8Š  ;Ô_file:///doc_logo.gifOşbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///doc_logo.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A¾Â+¾‘YYimage/gif–#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ó Ø ã ì ò õ ş"03ASVl             8              nO–GIF87aP P ó  éôÿÚïÿññòñçÇ÷÷ÿùŞtéÎcl¥êZ•Ş™Ÿ«šŒgÃÕèºïLr¥DKaÿÿÿ!ù   ,    P P CşğÉI«½8ëÍû]Ns0ÏÂÁ<'Á GÌœ'#02.#„Ç£p  ‚b± :•DB0,)G ¬N‡Û)ªr3FãYM(Şğø›:LlGÌ¡¸ØÑhaBUob|b‡A„E&)Mlv#5”	70J#		R&£I61tœFPJ›	"— “Pœ6ÀÀÃÄÀRk¾¾Âfy/›!$™jcŞâßàoåáâå
+¼ K‘™a}!º²kƒ¸Q`î”N±  ,3 H«×èBC#9 DŒ(Qşñ¨ùb€S–ãkK è{6•“v+R¹g„‰L]&¤ñY¸Ó˜OL  0¢Õ´6Fd=õ4‹,@ !œW~¬é0Ñ”Qh2éXC¦¢!9îÁKq©V\xJVµBùáÌ¿6o€bE˜U¾ğyrJoa³œ~…Øš§Ğ,MwIªAÜ
+D,fKÁRšl(rK7NÜ€Ì: µívî!ÈÅ®|²J0	ã ì
+È¡[î¹çƒh  üN¦´ƒ#ÀÒU3n~¦Àƒ@–?¼KÔAœ™N†²â÷’D$&L‡_düûÿşT"!C`¤´ Nñİ±$´¼
+˜´J4´(ÁŸRS*°@B6
+sà‰ˆ´DƒD˜\SKqŞ#‚
+.,1Ã†ÚO6Ç±‡à•C	ìeDY„bÜ"Ë%ğV¡¹äBi€\PhÕ—D`4Ë>­¨fÁ'¨Ài„4t@f £,,ê¥Õˆ IˆÒ×ˆWLB…e.¤V54êÀ]lÆUVF*éVVJ¡ŸämQÃ*†JàØ'aÄÙ¤'ı¢L?´Ò’^u`É'7PBL€1å™¤ò@éa&RÀÔŠ¨•Ä¢¼ä™jş)¬S,!3Ì-ÀÈ)±ğ”Jº¥ U
+~ğæ¸ä‚©<+Ò²Æ¡=(Ñffá8¶ğ;Éİk[8¸™gM\Ñr'yêzB&È~0ïÂËÄğ:ãô[A¸ ‚DÛºê—,Ğc©Co9ÍL/¾ãİ‰:ElX¨@IÃ‹æaĞA¦„+ÁE¸ğ	b¼¬qK2¸ @
+/ğ§ÈA¥4 zûĞ²
+‘N`Ú¡~‚M	LåC4@•´„u€0+F Ws  Ã”:Ì	¦-÷Z5Ó[ÍöJÑêEk†3h¨4)zÒà'3@£ËZ1 Õ»7äÀ	è\øÎşGíIB]ç§D.xÓV6@"SÒ·¦m*´M-tmZŒ2 ^,!SL¬ÕÜ<q!¹äÙN
+Wk%EŠß-ùeB	­¶_"¢‰W$[0Ø¥º©wPMONÿO[Î“×VW™u÷VÃ‚@ ğp%AèüÖËoÅ{œ%>Í •vC((ªc6 ÊOù{Cœğq¤±¯xÉ¤„¶&ÁE6[¹
+±¸ƒ‰î° açÚ‚wâw¥uÁçnuÓ
+’v‚¨ŒÔ(uèZ
+gÑˆr) ‚T2‚$°#ÿäI; aE¼r·”PŒ7ùĞFX†D!!2È\:y„·w§Y]¦qeÒIşVJŸTä‡G«Àï¤i)ÑÊk|å« oCŒJS€9$‹ÍìöÈÇ>Œ`w LX¿€êYÀE^J%Œ`ub‘ÚÒL3p!¬1zÊX‚ìŞ¨Õ™­ [Äª ÙŠö•&²ø%,‘ø†ü¯(c<O‰Rƒi,0(MğâS¬Ğd%ÚÖ%l‘	¦Úğb9¬2ëk ƒnòbVš,EjE)bÁj&#,B> JÔ”†å¢`’A"IN3
+K`¢Ëî N,ä¢Á,kúCÉÆÚFĞƒXTŠ*Ó.$(„gaM½şD6ÑÛˆÊ£¢tî 	ôğ\³lÜ ÚìËÕ;ST^À%†å[“º1‰’ã6mMJ)@±êÔÊ)í3ÍÊÈ‚HšÎKdèÀ©sÃNF*i°¤1ò¹/üˆ!G]Î7¾Så,uwQĞÔe˜2ĞISqÎ”è@ç^İ*WıôÔ}d1U€X´ñp1d5NBÒ¡ı!Q’†5û"‚Åñ`M|À”€nˆ3§µÃrZˆ&0Fœuz`u(°ÔÜ	Ö„pĞà—¹,G;ªÁc¹w68f òôÅ¦ö¡,9À={“O­zà©ğ EÊ^&ÎJ 6ª”¶pÜ‰Z?b’(¤à'›m‚¦¨V	soYûèônpØÉƒ†ÎfÊËb@Á(&2QH†½îÕ	nå‰Ü–gn  ;Ô_file:///blu_marb.gifOıbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///blu_marb.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A¾Â+¾‘HYimage/gifq#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ó Ø ã ì ò õ ş!/2@RUk             8              mOqGIF89a	 	 ³  33™™™ÌÌÌÌÿÌ3ø¿$                                 !ù   ,    	 	  ÈIe Ì‹o —i ŒÚiªÈ@+	Ã%WT ;Ô _file:///ncep_logo.gifOÿbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///ncep_logo.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A¾Â+¾‘ÒYimage/gif*ğ#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ô Ù ä í ó ö ÿ#14BTWm             8              oO*ğGIF89aÄ r ÷      1ÿ Zÿ kÿ sÿ {ÿ Œÿ ”ÿ œÿ ¥ÿ µÿ ½ÿ Îÿ Şÿ))Zÿ„ÿ¥ÿsÿ”ÿµÿÆÿŞÿçÿ!!!))!)9B)ZZ)µÎ)µÿ)÷ÿ1111Rÿ1c”1sÿ1”ÿ1¥µ1çÿ1÷ÿ9999µÿ9Î½9ÖÿBB9B¥ÿJJJJkkJsÿJÆÿJ÷ÿJÿÿRRRRŒ{RŒŒR”ÿRœ­RµçRÎ½RÿÿZZcZZÿZsŒZ½ÿZÆÿZÎÎZÖÿZçÿZÿÿccccœÎcÖÿcÿÿk{ÿk¥ÿkÆÿkççkçÿkÿÿs”Œs”ÿs­ïsÿÿ{sk{{{{µÿ{Îç{Öÿ{çÿ{ÿÿ„„„„Æÿ„çÿ„ÿÿŒ{ÿŒŒÿŒ¥ÿŒ½çŒÿÿ””Œ”œÿ”µÿ”Öÿ”ïïœ””œÿÿ¥œ÷¥¥¥¥­ÿ¥µÿ¥Æÿ¥çÿ¥ÿÿ­ÿÿµµ­µµµµ½ÿµÆÿµÖçµÖÿµçÿµÿÿ½½½½ÖÖ½çŞÆµÿÆÆÆÆÆÿÆçÿÆÿÿÎÆÆÎÎÎÎÎÿÖÖÖÖÖçÖïïŞÖÿŞŞŞŞÿÿçŞÿççççç÷ïÖÿïçÿïïçïïïïÿÿ÷ïÿ÷÷÷ÿ÷ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀ€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ            !ù  i ,    Ä r  ş ÓH° Áƒ*\È°¡Ã‡#JœH±¢Å‹ÙT©bdƒ¢-1B'E#Uèü9ùGÆ—0cÊœ)i ‘	şıc30çH#’¶ü«’æfšişü£óÏÈQÿ^ü³åÇŸ™X³jµ(ÉH4xM¡¡‘¤)¾¨AğÇ„	Šª„ÜàÔHÈ	dşÙÇôR)š¦1´e«áÃ‡éÔÈ’ÌNE/şM+I[”ÿ4Lø'‰#• ÓP¹[øßI’±ùgè…Ô4«Ó½ºÅéJÄ¸s7ôKP(›šGüwjÈB½Ö¤²!æ&­I\i`éGyßcDp
+©:¯ş*ºª»|î99£üSÖĞœ£ÿm‰-´7v—İÓÌù‡}ƒ`ÔŠ°Ô‘×q¼’<éDG›	tšyÂ$Éƒ^i@Å>t NR¥Öpl(%ÒR	EVS[¼6’@T7gõA˜ÖNÉöÏ47!t€µz?*’h.U¨$DÜ¤“tQE^=Q1Ğ~FÌ˜$J”FÚ5B‡"(RpI’äzT:&É~™Éw`nM°ÏHlÕ@… )#’P¹ä 5RaÄís`MF¼Øki$Xf) ‰˜$lqUlj°ƒ A†§47P26â%¡JşĞşdgH#²Ï> gÄˆIræ™i8òkÀ:ÔJ@íØİ/T±Ï?+å_^)ÔÔª¬"V˜‘Dä_`•Õ¬`©¹#‰ Hv e´Q‡¼…$RÈ½…Ì[GeÔÇ»~Ø‘®#4ÄÓiíD‡|µ4AµÎÑN‡fkØ¨4¸E’	¥hNt°ñ±ÙëÆ¾m´Qo"éRrëË0Ç³%ûĞìH½…¤/ ,[ŠĞiÔ ç­U´ÀÆ†Làe`ÿ\fqLoò'cQ™UqÕĞmB“äÆÉ‰L"óØd—mö>ì[†uR0Bª1­O8åxàI¥ÑşyO_ÒI#'Å™¢¿i°õA“\´‘ÍgGyä·:bùFñ²%èîH½o$É†”åœi"a—TN>÷í"x§!¢@«%©ÁZ8bÖA˜E1,±D.›M‰#”Ğ|üÊ7×a†)ÇìÍŒ€NpÀ+áCm”öºu¤[è‰Àıc%lK&Ğš®3Q&‰ã‰FxuĞ"fà€Lpa 8["Üğ<øN	mDŞ „0(.l]Êâ…‡<äÁaà‡0(¡Å³D"á™İŒ^¡—h·£40…sÒQûB†JâI¨A~ĞB„Lşa AH`†3ÄAg(„ÙDø†0XvXÄ";Bl‹xÃÍÜ E7De˜â&‘¸æAzhbğ AT±8àb ÀDŒÍrûJÄA~`„} Ê|ùAÍùfh?¼J8Õúrrµ-´nˆ°Âø†Bøa_f(#ÌÄ(œÁ„^>	ˆ7¸!“^´CÌàÌÂŠñòİñ†Z²Ín°BV™‡3Xxğ¥$xÇ{ĞgH‹"ºÓ¡´«ÉO‚Ä!Ÿ dq@ÀA	¢à¿şq	L°cÙæ8X˜ËaÊ†¡Z\çIO2Œkş<c ÂÀJ3dĞå„Ãâ5px æÑ ¦I-7Ê!b$næ$ZAJO •Ãåğ†G”m°Î€N–âÁ€°ƒÎ‡2Ø¡8§É(Å).Áêd)*XNtör	g@hşÂ¹DÌK©A„*Ä.[s0ÂpÅáÈæ8‰$€ &t!rPºğK+à ’1ã\Î¬ĞFuVÑŒçlâ'!Ï¾öô¯;¬<¡vµ!^ü,àÎÀØ3,!
+Ê£ÜËr–KI"2Ú!Sš‚-%U'Ç±ŒHLÂ¾‚“jÃºÀV$¨”µq€şƒHÙªÄ}$"ƒQğ$:ßğ¼wÎ4\¨eÁ×æ”§<ì"ˆB(xxC†*ÇÆIvlù*A’	¼§\tiZuC¼‡)7Ù ß‚& AcÈp°'`jˆZã`ora D"ğ 9¬Ô6g±ˆ<Ğ2“a ®<‘‹Ó¾ê4¹“ÄßpĞ"~Ò€+h	_F	. ïºN„¥~Ùî°aJa_…8S®­&³Ñ‚à$€S›ù©¼Ğ?&d3­rĞCØ¿3xR‚è):Ãp†VNqkÜGqKF-wVŒ²“ŠP
+Õ‚j8CşbP…r!›\(åœZˆÖ­æU)xKö (óˆJ]2H p@±"	S@ªh&,Á¬j0p’×zPxR @¤)cƒ+](³Ó€)³Bä©e.w™Œv_!NùN.„·Œí(WJàµÆâÜ-cĞ=;pA²iƒê@æ×©D'5ĞhCã8" ¦à/ŒAX Â7zV‘ÆXÀ¸m…G4Ï–ÈYô0İè.Ğ”n(Dí`‡”Ble[„#ş•ëšİƒÀ}©K‹ø8H2©KPä ¡½0Áa#ØÙ
+aF¬§³ß1Äì(”L¨à¸2(Áş¼0øNAˆº0†kƒ´LP)~j³t‘Ÿ,btí‡E¬ÚpÄÚx:‚gÄÕrÎêu6G0f°M§Ë¤ÊA]ğŸ¥İ@'"Øß¯›Î.„-GH©ìĞä&aDĞÉ‘0V,ø8µ©ÅÂ7±0†8Œ!Â’5ƒ‘OAL"ñD|PTOÂ^…(lÀPK0ÔVrÄF©3 Ó
+OL2¶ƒ „îMÖ` S#—³R=/ÊU³R•†ÀA'xÂğÒ3!ğíß¿i×zŞÃı>•‹høGam4`ÎÜ°yur#F×umşk†(ë!ƒR‡C…É´Ê¡“°İÍ@9K¤Z…ÈKwRĞÇv&Bñjdl	²>A;A€ÿWm^`h\ĞùÅVÏçv g‘_s9Œn`R‰`Õ×\÷Jûğô²/·²eÀ2
+e6…°J)uFzÀ8r¤dquÿ5pà6æÂÓP×e	¥7AS±¦‚¾!B`3À{.Nğ%'wÙfdLÀhŠöhYgcÀu°ƒ·Raû•n ¤e	u+ù0epyñ¶j` hBnnVPDg„F\àpâW`0·V`…[¨?9ó"`ş€lq )°‹qa)¨Â/ :i`À<2 Sğ‰Ÿ8cå-W…lN‘ƒıÅ8ğ?ÛW3mÀJìSa@Fñ²aÓf7'66÷fğ.†e$u&öş#uhUN1Çw.§C`z7 8@	uˆ)R"Q¡{°ßñL¡">H'Ğ‚&\P302À{2PrN@zC@mğ•*g
+èweV] zqöŠ(`o7S`ôVPıR9ë"SÔ§eç.(ˆP†Fa BğGdP––_õXo€Y`mXğÉ3ÅƒVğ”p/qC°ş«q(Ba ª±&V@2 øN0”ğ…cğH%pmñÕ_°UPh¥X Ûç‡å€N7\1ÅPm`e°IC0ñòP”w2eÓJp e-XeQğDzzGf}g~p/fàv<0v2ó.PÚæÙ$$PÈñŠàGÂÁ]Q/&5É¶P<À{¼§”@Q8œÈwYÀrc…_BVP"å?TùŠû`oğE`fG–g_j–3mòôRD<dãHÄJ¦dIf`ı³úsLpmY`	ÖzdcÚX°2À.€8à‡ş¹*Ñ:qgN#“ğ Eğ•ù@Pí¨ 8ŠÖÖr> LùŒ©åhg0‰š(‰nu}í·“Ğ…/~`9÷&ls‚·âÄHe¿Ù‚É(~Pƒ6Z@gp+‰€“ƒ’mS`šˆå&lFp‘áˆy‘a)“ 03pD@VOHŸØ{.àğ¥òÅÓYŸù5]°\VVà üYLŒ Šg•ÒSnÀER„Q>0)%%G¥i%dIjSz×.$pš©IV'Ğ‰]€ 3ğ… `Á#0H*-PşJ1{Ap<`§E0*°{B	O`dˆ¦Zàü3’Š
+øröiXwyOJ6èb9v¤xÅ›ô2*s/RV@—W\P‘ràVKœ"%¦HÀ.×r]Ğ~ZàZC`2óëšÈ`ğĞ…õ¢êã§áù÷bS5Lp ¨Œ:çi™d…h%7ğÙrÖ&_
+Ø?BRg¢¡*3m0	nPX×º6oÄ”ø#EQönä6éæ?Ât½yuú•°ß´«êH€`mD jĞ@Œà<0%ğVÀN`2ÀZ}osCöƒ*ëÅ°£;ş¦#\°   3À•®D ™I©ZĞ{Z0dkm …$°)Rp¯B-aXbxj9Ó•€@E™j‹°ú¦Sg°‚ P uo \erp²dj—rä‘/‡XĞÖæ¼Ç1p+ „ëØ‰èÉwê2iLóbU 
+Á4¥p!vÀ pĞ‰šˆº'à
+M`#07°¹7€:¿s|—V?0?@dP×Å]LP‘?€^FFWZ9[„[ ¹? ¾Ë»¼ûÂ{¾Û»P@¼7ğ¨_i+6p™Ë¹Ñ½š{9ş°Gp0ãë8¹CÀ( Š°¡5j„›­A.$“ğ€ğ3`§•ÉşŠ#àºPAĞc N‰6dXÀg€üfa6Ì’À<0 —ƒAsèPàÀœÁüaÚĞüÀiq+”À–ù2ğ¸ûI²*)²±0{1Ğ   (p7Z¿DÀ{Sğvû›À3<`ÛrúÅŠ	,~‘˜c³Y!ìº@Xc³S<Åpuuà¼Å\)ûKx3Às¸mğ6{ ßå@²w25xP `€'€ê¹ş–é%ğB0ÆŠ`~á Œm]pMlÄ`3 ,Æ®;X66OAÉ¬}€ÈˆÆšœÀ{¡¬•‰*3.™9²›¡’¨ÒÊWa?iPxÛÇ'ÀO®C°{Z°C‰ìpĞ?rMŒÈ~± 3BÊ®›+|+Ô!Í	ì ˆPÌ ŒÍP¡ÆZ™ À~Øe)¯’%vQ“IÃCaP pñÛÇ "×Ëê	ç9Â<Æ]QÌú¥œÈÎü2<äÍOâ¦¢Ğ®ËÉÌ¼“¬Ğh§(  
+3©ìBSã}FÌTB	Ğ 
+ ş `™h<PAà–ÉÏ¼{SÌ}0 ü«¼·b$„µá¼UÒ“ÉıbÑİìĞGP¿1ªdc˜1**ô@s{Úa
+Ğ ¸<¿4Ë·ê¨ûÜÏ¼?ıìÇÓÑı)lfâ+z],	1sl	<Ğ„ı|pwÀÍ­NœÈBvÁÀ=6ë²>;qŠĞ2ö’Ğ²n!–Paİ €À­'pšh³'LÓl7È‰)×ÆÉ­Ô®kÓoİœÀ3-Êe¢Æ}ÜÈmˆ€Fz ‰ÈOÍØjş‚Üª²7‹: Ym`™Ñ{ò!f€ 
+À  €*½Ú<P§9®ÿÇÖ<¾]Ì0¶ÌÌ|ŞèÀ6=ØOlâÀ­Û:±ıÈ†Ğ •°jĞŠİÄz á„M&‘‘À&€”­aWµò’*Ä7’P
+PŞP Ò' 'ğË•©Ê&0Å/0Û~qß=Û:Î¿²íß~3Rìºt|+€Í¿}°µp0²l<JIæàEá`|İ ÏĞªáÀp]u€¨a)<[À>€@   gÎ ©¿(ğ, ‰áJ¹ê(ßìHÜ'smĞ\•ÀşnĞdŞ8±0sä®¦ziEdek°ú…dáü;Ÿè…İà? ¯ãäz"{a?P‰:A%Q  g Ğ PÜŠÀÚ/}¿z[ÈS<\İîÓöÍ®k ä2³50*ñÀ®(ş}ĞK‚`«Jfpæ‡dc åİÄq ·•®—®#´U9”dq8t@ËqAP P À æ}€%àâšøÒ(ì±@Pã[ü¸¾Ìö½íœåçeÓ†PğÆ3×Ì¿VVÀÜª/˜°iEíÑÍX ·ş}ÄI“À#`'yG]¾g`Æ.ş–HAÒìn åİ €}Œ3Pïv
+ÄÊé\ß„ÎØ?}C	LÌĞª=ÏkğV l9¡ö›ÌKñTŞA0…Í]l*°ÆcƒRpƒc#¯*Qæ  pâîP {ÜÇEP¿øÌ{+À:äÀ²Æ¹^ğOlÛPQß~qì¯8Üš¼½n é®ë c WPÌ†@&ìáÀPÙe³İp£B‚Ï†#u@ 0 g^Ú
+ï€ìÍ‰è¹Ör?1LÌE¯ëvïÀ|_äü™ğ
+í İ×í I&	fÁûã!<š–o£ÂnÔä¡íª2-’#aş  0 hÖp ê20³?y¿šÛ®ûuœÀ7~şŞ÷!Ê?ı¤ÇSôÒœq õ+*U5°—¯å~]n U lói*ª!Ğ A0 °@Á‚.€ÈáÂ…3xğ(ò¤È”ÿDL±ïÏ„‘)«4j”&¥HŠşÌ”Tã¥ÈF3uîãÙÓçÏ”ÎXá‚ÈåM¤IE¦ÓGçŸFF”N}é E! Y{J$PÒA°i¾ü³G H° ‚0` qÂ…‹ğĞ²ãf
+I¶ ÕĞèëM†tÖDªHñN­‘Y9Ãåª™ÿ¥PãTgTÍşTwÌ b'2ĞBo*2RÃÈœ°÷Ø¤"0Æ Pp€A3|À(ƒˆ^OB¾l¨‘¤[öMsñà›dB>4AzZ†ª¡óSĞä‘ÂxÂKİ·šøOC
+è[ÀîşA(@7ÒúM¢0ø 0pA†äxb„¿$
+³›&hdÄƒŠº”´{J¾ŸyC=ä0j=#`€¡c”ñÅn8ï3©Ô{)‡!6âyŠBµ4jØÀ ÁZJã¹¶PDƒƒ¢`@ÈmàÈ@N8dPaˆL¨p¦Flºé5Ä¶Ón¤ØÈi±îşë‰õˆc¼—&ĞcA…Ğ@ÃÓãP5ÆĞC4ĞËQÇâ	È¡¬ä«#€EJ¬	ˆÉ*Ø(Ì +¦Ì7ø­	,È .ÀœA†dğ‹9µ£ƒ°*:ôP‘èæD32ÖÒPÄ°CÎ8TÏoBC8âĞƒ	5âPc[n·e"1Ôp)40×\&à ƒrh¢£'fPa†DG˜D >hÚ°…¥`KÃŒ 8à€Ú*ğ·
+æÊÀËòra3yÕ‰ ÂÚ±¿”j0öC"#c©öh‘õäó%4ôŒCÊä°yæn—à‚‹+Æ­J‹)ş$zˆ!„N®ˆ"† áƒ@X ÓÈ,	C ²ş™ ßj‹m^T 8 ¨¨K/52î‰]Slã?@.ÏÃ=öQ³:Ç’D«^‚òYA	AlÖ£.İ,¬X‚‰%\˜Ÿ«óè)´Z¡%“> …(‰¬Âà CŒ<2¶ƒDMƒ€€ÜxˆÀ Áº¼B¸Ï\Cª¬›)ï“oZò©?|ŠÏ$¤:H\5^NIŠ¹<&°x<Ümã`b92i/‚ı	"Š&B  ÜK…ğ#2+  ÀÀh–?l!pş ;+¥Íw	P †Ç6| /q#I¯c·¤$æ1y3RR`7Í¤o8ÃŞàˆ åpx\´^rm©{\C·5 ªrâÂb8'?¡=H2ØËFf€‰4@… "#‚b‡(<0 \È6CÛ…5"ÙÀfÆ@ º!ÛØÒ Äª"ÒàF–#7¢	;åqÓşVÆ55"…3áÁ¼”L`{Ô²aJø€>ôÁ}(¤!
+I/xˆcÀ–ûD2Ï=A~÷“Áƒ:ÂÌ iÄ©ˆ€€(0¢( C €@„FØÀ
+2&ûş0”R‡Ü	À ¢à°$Hà(ø 4R„;vzPyTñÖˆ} 2d,Ù!Pè½”Ü`‘İ3œHH¶M‘¬‰òB0WÄªln
+N \!H(/ªD@`*§‚Êl•)–= ò?a!CÀT–F„M€j<@oÀ€ß$È%¨ 
+@0l*ï)ŠJ”â¼c‚!Ü‚vÈÉ†n&2EÕªV#G•e	R¨Ë"ª"Œ*ˆ.œÁMéIä˜€?$„®Kl"šÖ Hà£
+õİ Z5%Ä`T¼œ€^PÓØ`Æ[@ÉDI€Zî&i{æD2`âH€ÊQşéSÔ@¡—âM–Àƒ¦2Ôà |	d–CŸ.%“¥le-;YÀ`©9µšˆ0?†)/&eÁ$P ‡¾óİ” À ¸A ÑÙ1’8É k€« ¶Æ²”t‘@]Š“1<nóq˜ÑÓ$è!zÉnÆÓ=µ“ºÿØ€±˜: Ñ#‚WFâõô^À"p)k ×Z
+@ùCP¢­E)˜(X,)ñq}H–0PY™ÈÕæ6Ñ€
+ÎœÏku¸—BÊ] W¢~Ùí¦À»œ/hÛ“,±z¥HE ‡˜£µ ş‘Àbˆbó€±„”v7 ´,Ä7ÀÁk‚¼„ôU'W‚fJ˜>V8Lh\2LXbx8Ò§Ah—º"Æg"ƒ¯ñ¶g*(NG‘¹4€‚«íï4@ªíXÏ±Á]î¼Ê;ßè7
+Õ\¾”déd’hÂ¼Ğ„öÍ9û(/ÀAP¢P?<Ôuàº 1CŠgğÌw?é„ùÕo‰2¸
+(6+ÀXKªtç ´aÏÃKÀ*À+AD‚ê­@Àà¥ÌIY8%è:×¤Là|8„õìÀ*›ÁÍLt0…) K°‚şÂ€Êq
+Û½‰ …F¹Z$O ‚ ‚1i„#ÕôÒ_åkŞ,ì `… ±nÛàY7|ˆ€MÉH—8İ9´gP‚ĞèÎi¡ğ8ËÕÅä!,!nx ñÕı„0(x;°jqAféã)µ¼ğsmà\KGÓ—îqNÃÀ	°æìõtq@³.ZhQIğ¹€ µH@ ’€U½V 6~ø°Á&ÀİõÎwpK¤™àÓA9
+šT€¢9İ™Ì¤4yï1 í	SGğà LpÀÂ¼§8Ğp[\ˆBºĞ­ôÃØ%}¶Àş…‡k“™ô·ç‚fùQábä=q*ÅŞ%á0 h+ Ù5@¬m¸”
+ğZ’µ`@4¥ù¥æå”â7Ñ0„ ä/‚×‚á§ „1¤ˆšŒ
+áˆœóÄ²D6)úÆ©ş‡?b°Ä÷¯~^ ¿&»oøÿ›&Ø' `‚ °¾'‚äØ;TZ%fÃ Ø½Õr&İø­ €\">‡³„ ‰»h‡  h (ª€
+P° Óˆ4“€š$P7$°Áı+<Â#¼,`ˆ?H?¨ÔÆI”üKB8¸¿$\½LÌ¤ÄÛ'&(%ş$€µù‚Ï:¥ü’¹¸€
+H›Ô½´©’º%+à@âÓä«¥J€P-áÈ€(8é‹  -të¾'@À˜²K3¼ı?5@tc@ğ‰:È£2$Ä?$ä-€Â?ìÂKÄLZ‚ø™:&@@pÉù ~S<Ğ:­â© 
+°€Ô*Aß1 9,dr6$¾6Ğ(…[8 ˆƒ‚¢Øº@)ØĞñCQB·Fó'°4“[·!@‚ÊÃ‚õÙ?,Àƒë„! "õù<ô¢,À‚Ê š,à‚0°;x<¨3Ø™ 0Æ«Bu[‚<t³¼ @7ş“[iE«B/ôâP­¾×€ (]ä@%ø±ì˜Cà°«`“ê’›½xiFg èœ”Ó¤)È‚t£FĞÇÂ}À.‚,(9&¸Fd;°¢6 2@p„ëñ	J „B(ƒjü·)H¼ÿã~“ÁH5‹—ã‘¨¦á±€\.ßY äû½  GˆHŒÜÉÜ`€ÜH›Ú’‰ ' H*4É~<Éî,È‚ñË$'èÁ6x„G(ƒ2 ƒ/(ƒ68Ì5€<õÂÓ°„¢|„Ÿ$¤A³§Œ*?L!ˆ 1Ùº«:Šˆ…|ˆ…{%<Kş²äÀ(¸¥W²Å+Y˜(š¸Ì‹'è§%âBÌ¥Æ~lJÃ, )ô¿@¤ŒÊà<€š é£ôƒBh.˜Çœ|è:¡©Ÿzt6C)0©‚K];Ş`¶0€°QÍÕä@p*Y`>0 ¸Ïâi›¼àã)‚ú1¹İü¬ÅcÄ¼ìÇgÔ‚1(ÉÍ‰B)ì>/ÈB-.xN
+í	É,. ‚>Ä>®‚h½³5/i1P€t[T * ÀƒöŒÈ(Á7ìJC€ĞÊÓ9kÊ‹5óê“µü1¹MüC áœLì¾”3IOÔ¤!z+¨P(U?FÈşŸ!p‚S2‚" Ñˆ æSå ;xQ²ÜhÈŞû”€X‘¦7kÁfìM¡	B,Å)³4	á/ÃÛÁÍÎ­Ò( ’(R+ HÆTBd”bt6/µ `-Ö ›®@S²T…Y¦‹ôWY€âÂ€Ó"}‚ŒØˆ½ ­ú‘'¸Ç%ò'`òA"ØÇ,xF¼+¨ƒDÖ} „GÎ60ëEÈ4Á½Tºc­@>
+`OOÈ6ÀVÁØ*İ£‹ÁÓ‚yÙˆ{U	!‚>œ#š1pÈ!“{ª!°4Œ¡$V~ş
+Kø×¢,J7¨  »€£®¬Ï°‚lEÓYBÍİc,ñ\s6E/Àd”ªĞÉùÉËL<Ğ"ÍËëÖ~=ÙÓ°õâ5…r†¹%.jX4¥hÈª [Ü5á`Ò*€óÎqUÑ‘J€Ù!Yt”]ZÔp-Y­Aë4¤€N‘Ùl-¸¥‡pˆ»Q‰±Í¦ÉÃ"˜ª“J¹Í$Ú>”¶}Æ'àÈdZ~¥7°€„#
+* (Ğ1«ESFxÏ5š³ÓX‘‹º £ıÜ"àN ì‚Æ$j4·}=_uq“Û“}€#9‡  ş
+8Ó¿ı[7›…A	@ Y<jÒCäˆ0)‚4@ ø»ÙU"="€|øÎVFP›»ú­ˆ )¾õÛÔmXJ0KßéµƒÕ@U	ø€«t¶rÁë³\¡9¥úÁÕ­Ã­+DKk¼}ôÎGLŞ(õƒ¬’ o•³N^ş-4’ ×²EÄ×
+¸JĞ»ıœ*¡51²E"Ø]$ š,ì3ƒ¡”_ù 3 €×•³´Q#`;şá:…iS€S/İ^cÄ
+ŞXèBÜ¥>ú!_¢µÜ`7°">;P-±ˆ…@›6°„Nb°(`ˆìmş€ûŒİû\Zºü í4±:¥=Ğ‚Jòb×0ˆ[¶„6 ‚áÉ ®E56%~c°H„%ˆ€Ü!›;  ¸€“¼ğ^Pß%"˜‚*/?-$¯[12îWKx3  ˆ€»€İ³¸×"Ù‚cOc% °*!´Y;iB/­<LFTº¹”kV$ Æ}àöŞ·™Ÿ±ç<Y•ÅCZL€û¤ H#Nşdd‹DP˜´‘Å‹xKríŞ[Q=„—Æ-9¢™5}yù€¹ÔĞ“;¹ã)D=Ù:¦ût>Ó¢ †ÀBHfyD@_“]	şÈªëH1¡€ÈŸJQF*¤9±V¤”*ÍB"ğ¬©{‚0bµ„2ƒ¨ ¬¼+Ğ*H€P‚xgK(ğµˆ]
+ˆE‚S0hÔã)EôZ¢1±R›‚\61ˆßD-X€fƒ¢0¨ +øè>êØ`3X‚
+8Oa6HU½?Ë!`xP¹d›pú!±öPxdùğß€fâ@¨WR`¥¤ës„B8ğ5
+:åÒ*À Û
+ZÆuÔÒQl\.¬RX‚ 	ØBp.À
+à’¨Àò6`$–kÎŞ3J¨+(ô„¢ ¹  ÚÄ ş¹€¹,8±N%V%ÅE¥èå¬ğƒ*|V	,€µ’À6ğéílâÖ3KH„ISB-(šXF¯mÎêJ±hüÄ9Àö‰D ˆ€ˆH­P# €ÊâNïˆ¤Gx3ˆ  W‡&	LA¹`k:ÆÈ}m&Ğ
+G`›ÍtwkD€kõNğ™=¿7.°Ê ¨ìàª’ùd>‰¨€Ì®@h0 ƒ0P‚ÉşA.xƒD`„ÁRpç_É”ÌG „:hƒ: 9..hƒ58LÃlƒ Êÿq r²  ;Ô"#$_file:///line.gifOúbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///line.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A¾Â+¾‘ :Yimage/gif#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ï Ô ß è î ñ ú,/=ORh             8              jOGIF89aX ÷  ÂËÜ¼¼ØÁ¸Ô¯·â¯§Ü§°Üª´Ø§§ÜªªØ¹¹É¡´Ø¨»Ğ§Ü¡ªØ¥®Ô§ŸĞ˜½Ø”¥â•§Ü¢Ø“¥Ô™Ø“œÔ¤¯ÃØ––Ğ  ÆŠ²Ğ†¢Øˆ¦Ô†™ØˆÉœÔˆ¦ÉˆÉ“¨ÀŠÔ‚ŒĞšÃˆˆÉ ”¸{Ãv“Ôx–ĞvŠÔ‚–Æx„Ğ|†ÌÉu§Ép—ĞuœÉpŒĞu’Éx–Æ~ÀpƒĞs…ÌpzĞs}Ìu€É‚‚¾€l¾h‡Ìi‰ÉmŒÆpÃzœ»h}ÌiwÉp|Ãv‚¾gaÉkcÆtl¾a’É]‚Ğ_†ÌaˆÉg“ÀcƒÆg‰Ào†»uµccÆffÃll¾rr¸f•¸TrĞUtÌ^~ÀfŠ¸ZnÆ^sÀdz»f}¸ZdÆ^iÀdo»fr¸^^Àaa¾iiµmm²pp®bY»d[¸ka²a’«RgÃP[ÆR\ÃT_ÀYe»[g¸am²TTÀYY»^^µggª_R²eXªDfÆGkÀE^ÃG^ÀIb¾Og¸GUÀIX¾MZ»P^µRa²XgªMM»PPµVV®XXªN\¦JJ®NN¦PP CC                                                                                                                                                                                                                                                                                                                                                 !ù    ,    X  ş 	èÈ‘@F\¨páœ‡Š”HÑàÂ‹1tôH ¢ˆR|”ñãÅšôèQ£+é™yQP—.NœÄ	ÃÓˆ‘A@íØ	$HPœ8‚)UÈ›&M˜L˜P¡‚
+ @xğ€¤+ @‰&Û¢›sÌ*d¶-¢Bã¦TY#Dvó2Zû±ĞX»‹~Ldw¬_Âv}ÔûRâ±aí®m4Ö$Ì“-dô¨sç„!ãZÄËèÏŸAfÌdøYâêFyòÙhí ·¤MBşšôY˜’×
+/ôæYF%Ó.‹ˆã¶vÛ"ôv­),X A#P³wÂş‹Ÿ#F˜óÉ×şet‡ïGC†Â»h­ÒDk—è¢öp¢ğb÷ÆMKL'\xBqP¦QpÔtâEr´'\©=4áÆZáÍAÆˆ#Òaâg|áÓcÅ‹@ ±BNUTáŠh qÆEY”ˆkò)‚Y#xÙ£H@Ê·‘s5ÔQ#HJ”\J-yDLË%‚¥q9– NAE7uñÅ@¥	PN¥™¦Qqh!'H ÁVt`g8à !b‘e–œ€¸Å˜]®QtÑ•u•6ĞXÕ	t˜z‰Ü·^…\V™K‰eÆXml!âérŠÔé‹JäÙ“w!òÕ ş¦Á”ĞG¨ªhgê‘ºVı*ª©­rPˆõUHxêİ$r‹ ·Rck!b˜}R˜"…ä•FTE	~lÃ’Ú¶†`i`¶Œ2|ŠÀ—Q³U6Vu8–ˆ~KDáV¼†Œå‹iÄpøòÄ_8å†iˆ¹î±ãÍaZu@‰aÚÆi˜èñ¶±Ç‰œˆâuj¨qÇ,¿˜CŒ5‘cglÙHkšQ‰”›b»dk}Ú¢‹4h7Û*ZC¨^ä”I…ˆ›oääDeüqTQ^øáGQ‡ô!¶Ø`ºqSÚmEg[ÅagErª"şAt¸…õZşHMi×åEVmXš
+éXÓµ5»Ã±Ûªp­bÆåB“dQß	½X5åÆ‹´hˆ4„4B×¼Ík¤©˜fk–×N˜•&"õ&‚ˆRÇ™µ1!¦•ù•Rs4ÎH	LeAQù7ÖVXAPÃ¥´ZZÆicEezäwiHFv’Ãù-´p|ìYXÜEÜ4A ôĞƒk5_O2È`„^`™^4„Òá]ğYÏ"àS$<dy(Pt¥¦	1Š^‹È`¢/X.!…ØYh,âˆS…p.ŸšÎ æÈ`.hµZZæb(C¦İìI”ALE¸$µ¥Böğƒşˆ@ EE,Ê ÆF¶âÜ„YÙÊV®B'7Ğé|‡¨œ@”x ô4{YRÕ@äÅ,Ù“ÔB ƒ˜PEg-zqs„sÉ˜e ×ÊÙfôØ™!±!ŒpJÊÊšËè¥†ÌÊkƒG=¦ähL«Œ¤Œ³tAkáƒ&q·»Â‹o©›İ€r(ÔÍqpLA
+ìTÓ<${0‘CÊÈò½`)µéÙ|ŸF…ò*IxzV™>á })ÉW¦“«ÁÍx€”p°İÁ)çs Çp¦n
+^âK /áCÎmµÁc&"‘i~À¹m)G_  ;Ô&'(_file:///nws_logo.gifOşbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///nws_logo.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A¾Â+¾‘#’Yimage/gif¢#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ó Ø ã ì ò õ ş"03ASVl             8              nO¢GIF87aP P ó    B  9  k  c  Z  R  J  {  „  ÿÿ  ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ!ù   ,    P P CşpÉI«½8ëÍ;VÊRã(f¦d¦"ë½İ@$tmß42x`ØÂœN@˜Hİ­P0$¸Û8q]É¬6y `·`.òP+R5ß°z\I¯ÃÓó…œŞxDwQ ï%f>ƒ= Œ|†0=ƒTLœgšVrV_„š\¥¦¡ª?ª¯­«/† ²U>±@—?PQÁ5À5q¢¹(»BÄ	tz y[45¥¼ŸÊÔo{áâU*çè·}äyí•™¦ô/n~ˆïÇ™^m"¬`<jQ¨PN!d¶láŠHÓ±T#ºøfO	\ş3–à%ò“¹Œ„: (àˆ ¶qøF²"‘–pbP0¾R¶h(ˆ¦¢kùô¼áÌ†LYôh. xc›äÈ{Zt¦*ª4¤á7áN;Q’ª1òß·³¨NÁÕ§ËE¾³°ÎMBvâ‰[ áíÕbl®<KQÁ^cfM/·k».›£ånå
+ìè´åäŒ1%•ĞùbÀ„´æ¨àê‡?¢FÌv`ë¥Ïš ®¹ªQ¨ ~c9›oÏ/J-¼¹óçÉæ†j:`QB©£ÎÂzº“µ£«'ğûFïÏ‰‡_+|øåÌë‚Dé­=pêöµ¿T¹tîñÉş X¸Ñ ÈnóÍÑhXS TåÅClB ƒ4Õ“†	pE‚F­€5Z6¸qX†DQµBâVFPC S(~GANfñG;Cd#	vË%cOÅh£fpé„Ãê”à €’–½ƒ‡ì}€fµ³c”xÀ–„„§¹°’Œ™„lÓ%V™HÈ5æI~©4X^l~x4ƒÉ3Øp¹Y§`í¤²Ñ~²M¡•5ãZÕÔ' Yd™'j|öŸTAX°—1äc)+R‰;ˆu…ø×]XÂ) Vö˜Ğ™‡¨„…éŒ€4·=Ó« ¬#’‹HlÇRÆã2<hĞ#0Yo!±$­ª^çq»V0À€ÁÒĞK<x„­R”Ÿ‚qºÛ{í".põRØ
+’1è*^,m(&•2ŠÇg¾'¬ğÂD  ;Ô*+,_file:///ncep_80.gifOıbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///ncep_80.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A¾Â+¾‘&éYimage/gif	#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ò × â ë ñ ô ı!/2@RUk             8              mO	GIF89a‰ P ÷     3  f  ™  Ì  ÿ   3 33 f3 ™3 Ì3 ÿ3  f 3f ff ™f Ìf ÿf  ™ 3™ f™ ™™ Ì™ ÿ™  Ì 3Ì fÌ ™Ì ÌÌ ÿÌ  ÿ 3ÿ fÿ ™ÿ Ìÿ ÿÿ   33 3f 3™ 3Ì 3ÿ 3 33333f33™33Ì33ÿ33 f33f3ff3™f3Ìf3ÿf3 ™33™3f™3™™3Ì™3ÿ™3 Ì33Ì3fÌ3™Ì3ÌÌ3ÿÌ3 ÿ33ÿ3fÿ3™ÿ3Ìÿ3ÿÿ3  f3 ff f™ fÌ fÿ f 3f33ff3f™3fÌ3fÿ3f ff3fffff™ffÌffÿff ™f3™ff™f™™fÌ™fÿ™f Ìf3ÌffÌf™ÌfÌÌfÿÌf ÿf3ÿffÿf™ÿfÌÿfÿÿf  ™3 ™f ™™ ™Ì ™ÿ ™ 3™33™f3™™3™Ì3™ÿ3™ f™3f™ff™™f™Ìf™ÿf™ ™™3™™f™™™™™Ì™™ÿ™™ Ì™3Ì™fÌ™™Ì™ÌÌ™ÿÌ™ ÿ™3ÿ™fÿ™™ÿ™Ìÿ™ÿÿ™  Ì3 Ìf Ì™ ÌÌ Ìÿ Ì 3Ì33Ìf3Ì™3ÌÌ3Ìÿ3Ì fÌ3fÌffÌ™fÌÌfÌÿfÌ ™Ì3™Ìf™Ì™™ÌÌ™Ìÿ™Ì ÌÌ3ÌÌfÌÌ™ÌÌÌÌÌÿÌÌ ÿÌ3ÿÌfÿÌ™ÿÌÌÿÌÿÿÌ  ÿ3 ÿf ÿ™ ÿÌ ÿÿ ÿ 3ÿ33ÿf3ÿ™3ÿÌ3ÿÿ3ÿ fÿ3fÿffÿ™fÿÌfÿÿfÿ ™ÿ3™ÿf™ÿ™™ÿÌ™ÿÿ™ÿ Ìÿ3ÌÿfÌÿ™ÌÿÌÌÿÿÌÿ ÿÿ3ÿÿfÿÿ™ÿÿÌÿÿÿÿÿşşş                                                                                                                     !ù  × ,    ‰ P @ş ¯	H° Áƒ*<ÈŠU k¬6Œq¡Å‹3jThe«:²ğQF V(„Æ2K–ØbÊœIÛK—,†ôxídJ+=ğÜHáÇWthÍ™³jN‘Q«FµÚ3gÏ®>ƒöÌjÖ®ĞªYã
+-YÍ™Ö°¥•yÍZ²¯p»šÉríY›9>¼¶Â£•½E	‚\qÀJ4ÈQsFÚ1Æ¡:¥ŠµjUgĞîÖ¼9¶¬ç¼e­=»Ùª5ªp©u½J5Y4®Îj"sš¬Y³cÏ‚lÈğÁ×¬ h-˜1fÍ¦1{ÜØ)5X* HŸ>±áTdÓ¨SOöïàş<¡(¼ùéÖ&^9o>³iÍ2ÏÌ;t´dtä‰˜±ãÌÓrğ16ÍsÑIçÑ
+Ù­ QyÓm× ßq§YM²÷!Õ­—İ*„¸x±]˜[O}¡„ŸP <ô0şı 3ËI£\3ÔL“  @Spá^C³|ÇÂ­bƒÙ­eM†ÒY£$+ÏÈB¥,SAUzß5æåmM#æ1ÌLcÌ1Ç°tŒºX#Ğ~¾)ÔŒşÑ €Êx —‹-ædÕô(Umå¦@Ñˆv™eŒ>Eè£S16è Œıé\Ÿzær3øŸ1Àè‚L`As¨ŸÎxã€·åÈgsş¯òY)¬•Êwá­¸nvÜÿsÌ¡¤{4ÂÔÉé¦ÍS «_Îf›3Ùö˜¥·E“+MĞ¸k²Ì ƒÌ}Â†+._}IäQH{dÀHÑ¹ÃÒ"_EROå9è  @µÈÛ¸ tŠO°àà*@”2È¼ehMc=ã0Y†ºäRV™mµWÕ8üVÈ`Œm^±rE¥´B+'Aïyéœ––rµÕ…»)1ÆÏ(£1¸@ß
+5¢…¼kP=#4X™8_(±’0F"
+—ğ3eN£Ø—N©âŒ*`OZÍlU­²JCÖ^ØPHéQÊ‰má$4¥œ]Ù«‚7ş+x+-Ó*`şµ×`SƒŒ›L/†#|1xRÔSöAÀĞ8£ÉÉìL*;~—RuÙI‘‡
+VÇ
+MÊ% bñlU§mÉe„S™şQvU\.~C•œ@Æ}zœ44Š	ÍìX‚•·g¥è#egáY§cÓUL«}šöÛ[6»†*TAM3ï!£4À¼ù4A/#ª Z.fòÙATcàAÿŒj† ¡t€ÍLV÷?¡|O:±Ÿm’Ã);õ
+TÁQ ¡‹	¯ğSs¦+ÈDf*‘ŠÌ Tó[]ki,ÉŠs<è'4ééxÒˆßAµ»–!$§J§ncãÉ,şĞr
+ù,%DğˆÉØÕ®¼UC:± s†€ü3 äğĞÏzV´´vg$Ærş9FÈ†v˜'šQ\kã‹ v<¤^yÂ`øBÇ}õä/(ñˆC*rÆ>.$õ¢ããD/½%`iÈpø…G+ e(ô#Y ‘áğÅ‘€T‰@$f4#%3/¹ME†	#±Æk^Rˆ”G7®,—$ÒGF2’¬`Y[˜&FG­Æ“6û™ÆDF»°ÅzãYX´B–»¬rw!ûRrÆİR É †¤Tƒ•Ê †a³	]’a•`¦°,¢ÜŒÑYÂ¯ cl¢L†0ÆhÌù4ñMxşDã‚(r•i`QVOqÔd¬2OnægÉˆ˜@n²ĞMÂä“^ÁVæ(Êøí,Ë‹ÊÎ¹…rrÁ"Æ7«Kıi1–ñæEˆÂû°r¡u‰˜|ÂB4­\4+UÙÈV
+ú©J×I\ÙQ†¨H dR|r,‚'I–ÁN„&Bÿih,àwªá#“iu^aâé}Fˆ!ıÆ#¥°dü¤Á­5:áÉdCÒ:î0i:rÈI²c…¬JH²`©ÒU¯NGíBÑwšq>C¾l¹Æ‹dd¹ÂŠªğŸy>Ç
+
+Mu"ßÉ«fª§ºï\…hbAMj¹zÀ 4Ævwş@Jt—±òFj­ä5‚§C1	ÈUÓ€…fØ<êxV:¢[İôL´jˆÌ3¬VU#ƒ¢")Ó$DVPŠkÌ©N”MNr ³#!MHAš_´Ü˜Ü•eËêV»šnzñ)\Á«X¸@1ÕÓ&tˆ
+S“â	qŸb$¿å ‡;"Á,LGŠôªwùCÙbP‚ï¨`jQËêlIâ[@Ÿø4ÒùQvFtòÖvı…ƒwWy¢ŸtTÀ·T[Á*F3´sŞ1¶ ¨B:Ñ‰Êë«
+š
+ˆ²£‚J‘ÏUlm AŒ
+}[®3ld&V1k|	\ñşŸfS©@©f“‘²Ìb²2•·¤0+CâlÒüªLïÉRD'/·}\_§|èO :ëRƒjÆA¨?Y—¥1âı™Á<Éh‰4œ¥dİ§D ±u©œâ«@Ó°¶‰3,'¼3İSÔÁ¡¢èùa1ˆ¬¶Ÿ.}Ä´0Öÿ	Æ­q˜h<#‡¼fÕƒõ„E@ƒiŠ"c{-ai@ŸÂ
+³Ç­Ã.QÑv3¡Œd¸;™C#·¼Ã5Èv1ò’õ
+GÂ v¡xŞ G
+ï ¤+PË>¢kÈ )7Å#ù=˜7:R_çcÀ[&µ¨0şBIş†:Ü'$¬èî„!r…7á“oÌw"5+èGãÇH.mœ‹÷Ä!„ÔmB^Bô¢½ŒF‘Z¾?âHˆûE»9çH‚òÆ{éaéÌÆb}>²Œ}ytÈ¼®Şœ—«
+ïzˆª K¦àĞ)éÄVV’1F‰e—)t·h$–P¾ÃÔ„2må5Vá ¡êûe’TÑC$í6%1ZqŠAm6·ˆñıis]Ù¸·ĞİGûä×Â@L×)»Æ¼>Ç”ÉÀ½›¯ËÊ8;9w¸Ìå,õ¼Fã6¦±½Kì„$ë`õq%8e‡›+õ”«TÆ—ğœ»iz¯±·üW\y‹ÑàşBPQ>#dâì:ïjÎt'Ö|/LéœjÕ@åÒ	å*‘óŞ™–}¥5æh¾â¬È‡î#~¼ó÷,×­·lBpGój]GyEöwç'‚Ö•}£{¨±?Cø7J54uÙµ#19¥` {ñÆĞ'Ì(Òûs!xïößb1'bdD§N5…yø}Uñ€‘âIcáó&Ã1Q‘ÃC^ÂÍ!)Õ u`i•.õwçfBCãbAƒX;cóÔà&æ32÷ñğe'È„
+Áp…EşteS¨9URŞd\g×`g.µu„ş¢A°Á]aH3(È iJb…†T‚¸]°ôGü¢^=eE1óO˜¥$` % \p“ÁMÕ@$°àw‘á±€°1¶‡ğŠ¤˜p½H¿¨+ğŠ²gòŒ$p ®h É¨ÂHMĞ 3ä³4%Ó‚6—ºåÀĞÒ ^zè ,P_¡
+T6=è¥!aBÎ¥!HòdZe=U]ØR2+ O°AMªXC#ß(^yè%ãH\ñÑ³cÜ±‡"±ÒAZØ0bVÀ¶„„‘U`7¬ Ò‘‘}Ô…yŸärºq!İÅ‚4”şE2s	ZÓ¡pa#XéWÔa;CcÑ’¬c;	 pi»C1@¬ ˆ €F X†#HV?z•s[œE‘ØÃY@)\Ñ=Šb†EIe[Ù‘×GcÅ }±(Gı±VÇ¡Aêa‡%‘™%<f“AÙ“'ôçA
+
+Ù ©WQÁñ©@l¨„ĞDÆa,ÅcE{Ò™|7Ù•e˜B“ˆiù‘P ~@l™˜XP){ñ>/fEÏÒÀ•«6škS!Tu+ÑPØó+P}¡œÉ™"0`6a”ì±ª0>is	u,ş H!6_XGj Ş˜9ZdÓa Ñ@˜
+Be­Àş2œ5ƒ…Õ0_ªÅ(I³˜¬™ ÿùP8±@Ì^†I‘•º•Mã)#ß8?£8:æ1˜€%ˆ5WX•”€`=ObZ*4]‘R²ÓŸÓáfÒ(Š¶ÁÎp11'¹ñ$ÚU/]0Ñc:DÉ\Ÿi:[	 ¹¡µôUà$Ê…”s¥%ÑÉ–?U Àu#‚*f?£I!‰UAd9b£°#=b:Ô°›fÏPa_@2¢­‰X ©_	„<d"h´æ¥À .Rc@ñ"¶£l¥cş P¡¡%àaï‰S™¥!ypJ“šæñ²c”¯B>ä“Aß8#V*Ëv`ö>J#É‘
+¨š
+Õ)R±ª `SnÆL©8`S¢«2Œ¢
+xc6±ğfÈ‚«+†YÕ©
+£ÀBz‚ßCİâ)tª±&ªhÈñ[~†f u_3“%’aˆ›dQú™% Di}øNSènµ_^b<¶±kŸ#†.`Vk–#Ç“ÚÆB²òAû…‹Aˆ^4(—“·L­°@¤©¶A<UF¶§6¨6hBXFR¿æ' ûAh8B#T)¸4Î'D|2?ÓĞ©ÈÖô+À 7Nô™y›Êñm8²¯uª9At_++&Y²Ø÷1Bä@ƒ#i"jsâ)2’'óhÑ™}	°,¤¢·´×‚5xÚ+º ³Ì–—•#CåÉgv 8ò'ÑiçÚ°iµØ@kà•™s2? B¥€ödû®|ö¯‹±¶°ö‰ÄDQ‡ÏP,2Â*›A
+¤©¿µ?´_\ç|ÉRj‚;¸AwµÖCä°>D&~Ö‰-*<^D­–›ß‡&Çq­»©¿¶'d»©Í‰µµLÜh'hÒ0©+j6³@²ÒvEšjLc‘C`"1½»¼Ì+,  ;    1 < R p  – ¨ ² ¸ Í ÎŠíŠõŠş‹‹‹69’²’»’Ò”ÔœnœwœŸŸŸ$¡'ÌÌ$Ì7Î5ÖNÖWÖnØpÜÜÜ5Ş6             -              ğC
